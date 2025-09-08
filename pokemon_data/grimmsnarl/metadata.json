@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 861,
+  "name": "Grimmsnarl",
+  "types": [
+    "dark",
+    "fairy"
+  ],
+  "speed": 60,
+  "description": "Grimmsnarl, the Bulk Up Pokémon, and the evolved form of Morgrem. A Dark and Fairy type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
+    "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
+    "This Pokémon has complete control over its hair. Grimmsnarl normally keeps its hair wrapped around its body to support its muscles.",
+    "It lives deep within the forest. Even after evolving into this splendid form, it hasn't given up on its petty misdeeds and pranks.",
+    "By transforming its leg hair, this Pokémon delivers power-packed drill kicks that can bore huge holes in Galar's terrain.",
+    "Gigantamax energy has caused more hair to sprout all over its body. With the added strength, it can jump over the world's tallest building."
+  ],
+  "evolution_chain": [
+    "impidimp",
+    "morgrem",
+    "grimmsnarl"
+  ],
+  "evolution_graph": [
+    {
+      "from": "impidimp",
+      "to": "morgrem"
+    },
+    {
+      "from": "morgrem",
+      "to": "grimmsnarl"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GRIM-snarl",
+    "ipa": "/ˈɡɹɪmsnɑɹl/"
+  }
+}

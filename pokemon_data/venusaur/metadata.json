@@ -1,0 +1,43 @@
+{
+  "pokedex_number": 3,
+  "name": "Venusaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "speed": 80,
+  "description": "Venusaur, the Seed Pokémon, and the evolved form of Ivysaur. A Grass and Poison type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
+    "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+    "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+    "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
+    "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+    "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+    "In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger."
+  ],
+  "evolution_chain": [
+    "bulbasaur",
+    "ivysaur",
+    "venusaur"
+  ],
+  "evolution_graph": [
+    {
+      "from": "bulbasaur",
+      "to": "ivysaur"
+    },
+    {
+      "from": "ivysaur",
+      "to": "venusaur"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "VEE-nuh-sohr",
+    "ipa": "/ˈviːnəsɔːɹ/"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 976,
+  "name": "Veluza",
+  "types": [
+    "psychic",
+    "water"
+  ],
+  "speed": 70,
+  "description": "Veluza, the Jettison Pokémon. A Water and Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+    "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+  ],
+  "pronunciations": {
+    "phonetic": "vuh-LOO-zuh",
+    "ipa": "/vəˈluːzə/"
+  }
+}

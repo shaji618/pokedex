@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 991,
+  "name": "Iron Bundle",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "speed": 136,
+  "description": "Iron Bundle, the Paradox Pokémon. An Ice and Water type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+    "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+  ],
+  "pronunciations": {
+    "phonetic": "eye-urn-BUN-dull",
+    "ipa": "/ˌaɪɹn ˈbʌndəl/"
+  }
+}

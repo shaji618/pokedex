@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 496,
+  "name": "Servine",
+  "types": [
+    "grass"
+  ],
+  "speed": 83,
+  "description": "Servine, the Grass Snake Pokémon, and the evolved form of Snivy. Able to evolve into Serperior. A Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+    "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.",
+    "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean."
+  ],
+  "evolution_chain": [
+    "snivy",
+    "servine",
+    "serperior"
+  ],
+  "evolution_graph": [
+    {
+      "from": "servine",
+      "to": "serperior"
+    },
+    {
+      "from": "snivy",
+      "to": "servine"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SUR-vine",
+    "ipa": "/ˈsɝːvaɪn/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 391,
+  "name": "Monferno",
+  "types": [
+    "fighting",
+    "fire"
+  ],
+  "speed": 81,
+  "description": "Monferno, the Playful Pokémon, and the evolved form of Chimchar. Able to evolve into Infernape. A Fire and Fighting type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+    "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+    "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+    "A bigger fire on its tail and a brighter blue pattern on its face means its rank in its pack is higher.",
+    "To intimidate attackers, it expands the fire on its tail to make itself appear bigger.",
+    "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one of its weapons.",
+    "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail."
+  ],
+  "evolution_chain": [
+    "chimchar",
+    "monferno",
+    "infernape"
+  ],
+  "evolution_graph": [
+    {
+      "from": "chimchar",
+      "to": "monferno"
+    },
+    {
+      "from": "monferno",
+      "to": "infernape"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "mahn-FUR-noh",
+    "ipa": "/mɑːnˈfɝːnoʊ/"
+  }
+}

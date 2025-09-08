@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 835,
+  "name": "Yamper",
+  "types": [
+    "electric"
+  ],
+  "speed": 26,
+  "description": "Yamper, the Puppy Pokémon. Able to evolve into Boltund. An Electric type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+    "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+  ],
+  "evolution_chain": [
+    "yamper",
+    "boltund"
+  ],
+  "evolution_graph": [
+    {
+      "from": "yamper",
+      "to": "boltund"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "YAM-purr",
+    "ipa": "/ˈjæmpɚ/"
+  }
+}

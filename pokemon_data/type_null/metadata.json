@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 772,
+  "name": "Type: Null",
+  "types": [
+    "normal"
+  ],
+  "speed": 59,
+  "description": "Type: Null, the Synthetic Pokémon. Able to evolve into Silvally Type: Normal . A Normal type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+    "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
+    "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+    "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+    "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
+    "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control."
+  ],
+  "evolution_chain": [
+    "type_null",
+    "silvally"
+  ],
+  "evolution_graph": [
+    {
+      "from": "type_null",
+      "to": "silvally"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "type-NULL",
+    "ipa": "/ˌtaɪpˈnʊl/"
+  }
+}

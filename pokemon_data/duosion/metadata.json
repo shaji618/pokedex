@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 578,
+  "name": "Duosion",
+  "types": [
+    "psychic"
+  ],
+  "speed": 30,
+  "description": "Duosion, the Mitosis Pokémon, and the evolved form of Solosis. Able to evolve into Reuniclus. A Psychic type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+    "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+    "When their two divided brains think the same thoughts, their psychic power is maximized.",
+    "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
+    "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable."
+  ],
+  "evolution_chain": [
+    "solosis",
+    "duosion",
+    "reuniclus"
+  ],
+  "evolution_graph": [
+    {
+      "from": "duosion",
+      "to": "reuniclus"
+    },
+    {
+      "from": "solosis",
+      "to": "duosion"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "doo-OH-zhun",
+    "ipa": "/duːˈoʊʒən/"
+  }
+}

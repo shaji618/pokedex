@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 612,
+  "name": "Haxorus",
+  "types": [
+    "dragon"
+  ],
+  "speed": 97,
+  "description": "Haxorus, the Axe Jaw Pokémon, and the evolved form of Fraxure. A Dragon type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+    "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+    "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
+    "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.",
+    "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.",
+    "This Pokémon nests in caves and abandoned mines. It is docile, but it will become incredibly angry if its tusks are touched, so beware.",
+    "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike."
+  ],
+  "evolution_chain": [
+    "axew",
+    "fraxure",
+    "haxorus"
+  ],
+  "evolution_graph": [
+    {
+      "from": "axew",
+      "to": "fraxure"
+    },
+    {
+      "from": "fraxure",
+      "to": "haxorus"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "HAKS-or-is",
+    "ipa": "/ˈhæksɔːɹəs/"
+  }
+}

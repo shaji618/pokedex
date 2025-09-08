@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 953,
+  "name": "Rellor",
+  "types": [
+    "bug"
+  ],
+  "speed": 30,
+  "description": "Rellor, the Rolling Pokémon. Able to evolve into Rabsca. A Bug type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+    "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+  ],
+  "evolution_chain": [
+    "rellor",
+    "rabsca"
+  ],
+  "evolution_graph": [
+    {
+      "from": "rellor",
+      "to": "rabsca"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "RELL-ohr",
+    "ipa": "/ˈɹɛlɔɹ/"
+  }
+}

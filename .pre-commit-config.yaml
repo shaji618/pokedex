@@ -1,0 +1,71 @@
+repos:
+  - repo: local
+    hooks:
+      - id: pokemon-linter
+        name: Pokemon Project Linter
+        entry: python lint.py --lint-only
+        language: system
+        files: \.py$
+        pass_filenames: false
+        stages: [pre-commit]
+        
+      - id: pokemon-app-validation
+        name: Pokemon App Structure Validation
+        entry: python lint.py --apps-only
+        language: system
+        files: ^src/apps/.*\.py$
+        pass_filenames: false
+        stages: [pre-commit]
+        
+      - id: pokemon-sanity-tests
+        name: Pokemon Sanity Tests
+        entry: python lint.py --sanity
+        language: system
+        files: ^(src/|tests/|lint\.py).*\.py$
+        pass_filenames: false
+        stages: [pre-commit]
+        always_run: true
+
+  - repo: https://github.com/psf/black-pre-commit-mirror
+    rev: 24.1.1
+    hooks:
+      - id: black-jupyter
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.1.15
+    hooks:
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+      - id: ruff-format
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+      - id: end-of-file-fixer
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+      - id: check-yaml
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+      - id: check-json
+        files: ^(pokemon_data/.*\.json|.*config\.json)$
+      - id: check-added-large-files
+        args: [--maxkb=10000]
+      - id: check-merge-conflict
+      - id: debug-statements
+        exclude: ^(pokemon_data/|voices/|src/fonts/)
+
+ci:
+  autofix_commit_msg: |
+    [pre-commit.ci] auto fixes from pre-commit hooks
+
+    for more information, see https://pre-commit.ci
+  autofix_prs: true
+  autoupdate_branch: ''
+  autoupdate_commit_msg: '[pre-commit.ci] pre-commit autoupdate'
+  autoupdate_schedule: weekly
+  skip: []
+  submodules: false

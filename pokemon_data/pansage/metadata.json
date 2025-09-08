@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 511,
+  "name": "Pansage",
+  "types": [
+    "grass"
+  ],
+  "speed": 64,
+  "description": "Pansage, the Grass Monkey Pokémon. Able to evolve into Simisage. A Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+    "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+    "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends."
+  ],
+  "evolution_chain": [
+    "pansage",
+    "simisage"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pansage",
+      "to": "simisage"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAN-sayj",
+    "ipa": "/ˈpænseɪdʒ/"
+  }
+}

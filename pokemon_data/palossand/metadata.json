@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 770,
+  "name": "Palossand",
+  "types": [
+    "ghost",
+    "ground"
+  ],
+  "speed": 35,
+  "description": "Palossand, the Sand Castle Pokémon, and the evolved form of Sandygast. A Ghost and Ground type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
+    "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
+    "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
+    "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
+    "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
+    "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.",
+    "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
+    "From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality."
+  ],
+  "evolution_chain": [
+    "sandygast",
+    "palossand"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sandygast",
+      "to": "palossand"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAL-uh-sand",
+    "ipa": "/ˈpæləsænd/"
+  }
+}

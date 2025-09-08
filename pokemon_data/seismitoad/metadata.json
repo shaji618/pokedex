@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 537,
+  "name": "Seismitoad",
+  "types": [
+    "ground",
+    "water"
+  ],
+  "speed": 74,
+  "description": "Seismitoad, the Vibration Pokémon, and the evolved form of Palpitoad. A Water and Ground type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+    "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+    "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+    "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+    "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages."
+  ],
+  "evolution_chain": [
+    "tympole",
+    "palpitoad",
+    "seismitoad"
+  ],
+  "evolution_graph": [
+    {
+      "from": "palpitoad",
+      "to": "seismitoad"
+    },
+    {
+      "from": "tympole",
+      "to": "palpitoad"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIZE-mih-tohd",
+    "ipa": "/ˈsaɪzmətoʊd/"
+  }
+}

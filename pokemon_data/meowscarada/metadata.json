@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 908,
+  "name": "Meowscarada",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "speed": 123,
+  "description": "Meowscarada, the Magician Pokémon, and the evolved form of Floragato. A Grass and Dark type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what's going on."
+  ],
+  "evolution_chain": [
+    "sprigatito",
+    "floragato",
+    "meowscarada"
+  ],
+  "evolution_graph": [
+    {
+      "from": "floragato",
+      "to": "meowscarada"
+    },
+    {
+      "from": "sprigatito",
+      "to": "floragato"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "mee-ow-scuh-RAH-duh",
+    "ipa": "/miˈaʊskəˈɹɑːdə/"
+  }
+}

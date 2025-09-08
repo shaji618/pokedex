@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 983,
+  "name": "Kingambit",
+  "types": [
+    "dark",
+    "steel"
+  ],
+  "description": "Kingambit, the Big Blade Pokémon, and the evolved form of Bisharp. A Dark and Steel type.",
+  "pronunciations": {
+    "phonetic": "king-GAM-bit",
+    "ipa": "/kiːŋˈɡæmbɪt/"
+  },
+  "pokedex_entries": [
+    "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+    "Though it commands a massive army in battle, it's not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+  ],
+  "evolution_chain": [
+    "pawniard",
+    "bisharp",
+    "kingambit"
+  ],
+  "generation": 9,
+  "evolution_graph": [
+    {
+      "from": "bisharp",
+      "to": "kingambit"
+    },
+    {
+      "from": "pawniard",
+      "to": "bisharp"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 863,
+  "name": "Perrserker",
+  "types": [
+    "steel"
+  ],
+  "description": "Perrserker, the Viking Pokémon, and the evolved form of Meowth. A Steel type.",
+  "pronunciations": {
+    "phonetic": "purr-SURR-kurr",
+    "ipa": "/pɚˈsɝkɚ/"
+  },
+  "pokedex_entries": [
+    "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+    "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+  ],
+  "evolution_chain": [
+    "meowth",
+    "persian",
+    "perrserker"
+  ],
+  "generation": 8,
+  "evolution_graph": [
+    {
+      "from": "meowth",
+      "to": "perrserker"
+    },
+    {
+      "from": "meowth",
+      "to": "persian"
+    }
+  ]
+}

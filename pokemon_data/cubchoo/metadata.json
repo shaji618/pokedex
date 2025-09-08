@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 613,
+  "name": "Cubchoo",
+  "types": [
+    "ice"
+  ],
+  "speed": 40,
+  "description": "Cubchoo, the Chill Pokémon. Able to evolve into Beartic. An Ice type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+    "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+    "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+    "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.",
+    "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+    "Many of this species can be found along the shorelines of cold regions. If a Cubchoo lacks dangling snot, there's a chance it is sick.",
+    "When Cubchoo starts sneezing, watch out! If it spatters you with its frosty snot, you'll get frostbite."
+  ],
+  "evolution_chain": [
+    "cubchoo",
+    "beartic"
+  ],
+  "evolution_graph": [
+    {
+      "from": "cubchoo",
+      "to": "beartic"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KUB-choo",
+    "ipa": "/ˈkʌbtʃuː/"
+  }
+}

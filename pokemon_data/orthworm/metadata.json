@@ -1,0 +1,18 @@
+{
+  "pokedex_number": 968,
+  "name": "Orthworm",
+  "types": [
+    "steel"
+  ],
+  "speed": 65,
+  "description": "Orthworm, the Earthworm Pokémon. A Steel type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+    "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+  ],
+  "pronunciations": {
+    "phonetic": "ORTH-wurm",
+    "ipa": "/ˈɔɹθwɚm/"
+  }
+}

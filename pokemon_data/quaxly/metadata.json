@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 912,
+  "name": "Quaxly",
+  "types": [
+    "water"
+  ],
+  "description": "Quaxly, the Duckling Pokémon. Able to evolve into Quaxwell. A Water type.",
+  "pronunciations": {
+    "phonetic": "KWAKS-lee",
+    "ipa": "/ˈkwæksliː/"
+  },
+  "pokedex_entries": [
+    "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+    "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+  ],
+  "evolution_chain": [
+    "quaxly",
+    "quaxwell",
+    "quaquaval"
+  ],
+  "generation": 9,
+  "evolution_graph": [
+    {
+      "from": "quaxly",
+      "to": "quaxwell"
+    },
+    {
+      "from": "quaxwell",
+      "to": "quaquaval"
+    }
+  ]
+}

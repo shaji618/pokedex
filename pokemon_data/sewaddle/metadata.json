@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 540,
+  "name": "Sewaddle",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "speed": 42,
+  "description": "Sewaddle, the Sewing Pokémon. Able to evolve into Swadloon. A Bug and Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+    "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+    "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+  ],
+  "evolution_chain": [
+    "sewaddle",
+    "swadloon",
+    "leavanny"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sewaddle",
+      "to": "swadloon"
+    },
+    {
+      "from": "swadloon",
+      "to": "leavanny"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "seh-WAHD-ull",
+    "ipa": "/səˈwɑːdəl/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "pokedex_number": 275,
+  "name": "Shiftry",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "speed": 80,
+  "description": "Shiftry, the Wicked Pokémon, and the evolved form of Nuzleaf. A Grass and Dark type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+    "Shiftry's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
+    "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+    "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pokémon lives in a deep forest where people do not venture.",
+    "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+    "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+    "By flapping its leafy fan, it can whip up gusts of 100 feet per second that can level houses.",
+    "By flapping its leafy fans, it can whip up gusts of 100 feet per second that can level houses."
+  ],
+  "evolution_chain": [
+    "seedot",
+    "nuzleaf",
+    "shiftry"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nuzleaf",
+      "to": "shiftry"
+    },
+    {
+      "from": "seedot",
+      "to": "nuzleaf"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SHIF-tree",
+    "ipa": "/ˈʃɪftɹiː/"
+  }
+}

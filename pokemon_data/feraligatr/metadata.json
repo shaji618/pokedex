@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 160,
+  "name": "Feraligatr",
+  "types": [
+    "water"
+  ],
+  "speed": 78,
+  "description": "Feraligatr, the Big Jaw Pokémon, and the evolved form of Croconaw. A Water type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+    "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+    "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
+    "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+    "When it bites with its massive and powerful jaws, it shakes its head and savagely tears up its victim.",
+    "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
+    "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+    "It is hard for it to support its weight out of water, so it sometimes gets down on all fours. But it moves fast."
+  ],
+  "evolution_chain": [
+    "totodile",
+    "croconaw",
+    "feraligatr"
+  ],
+  "evolution_graph": [
+    {
+      "from": "croconaw",
+      "to": "feraligatr"
+    },
+    {
+      "from": "totodile",
+      "to": "croconaw"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "fur-AL-ih-gay-tur",
+    "ipa": "/fɚˈæləɡeɪɾɚ/"
+  }
+}

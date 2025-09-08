@@ -1,0 +1,18 @@
+{
+  "pokedex_number": 716,
+  "name": "Xerneas",
+  "types": [
+    "fairy"
+  ],
+  "speed": 99,
+  "description": "Xerneas, the Life Pokémon. A Fairy type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+    "When the horns on its head shine in seven colors, it is said to be sharing everlasting life."
+  ],
+  "pronunciations": {
+    "phonetic": "ZURR-nee-us",
+    "ipa": "/ˈzɝːniːəs/"
+  }
+}

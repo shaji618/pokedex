@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1022,
+  "name": "Iron Boulder",
+  "types": [
+    "psychic",
+    "rock"
+  ],
+  "speed": 124,
+  "description": "Iron Boulder, the Paradox Pokémon. A Rock and Psychic type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "eye-urn-BOHL-durr",
+    "ipa": "/ˌaɪɹn ˈbɔldɚ/"
+  }
+}

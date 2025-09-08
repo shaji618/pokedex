@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 878,
+  "name": "Cufant",
+  "types": [
+    "steel"
+  ],
+  "speed": 40,
+  "description": "Cufant, the Copperderm Pokémon. Able to evolve into Copperajah. A Steel type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.",
+    "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+    "Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.",
+    "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed."
+  ],
+  "evolution_chain": [
+    "cufant",
+    "copperajah"
+  ],
+  "evolution_graph": [
+    {
+      "from": "cufant",
+      "to": "copperajah"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KYOO-funt",
+    "ipa": "/ˈkjuːfənt/"
+  }
+}

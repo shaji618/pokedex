@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 902,
+  "name": "Basculegion",
+  "types": [
+    "ghost",
+    "water"
+  ],
+  "speed": 78,
+  "description": "Basculegion, the Big Fish Pokémon, and the evolved form of Basculin. A Water and Ghost type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."
+  ],
+  "evolution_chain": [
+    "basculin",
+    "basculegion"
+  ],
+  "evolution_graph": [
+    {
+      "from": "basculin",
+      "to": "basculegion"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BASS-kyoo-LEE-jin",
+    "ipa": "/ˌbæskjuːˈliːdʒən/"
+  }
+}

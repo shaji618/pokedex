@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 891,
+  "name": "Kubfu",
+  "types": [
+    "fighting"
+  ],
+  "speed": 72,
+  "description": "Kubfu, the Wushu Pokémon. Able to evolve into Urshifu Single Strike Style or Urshifu Rapid Strike Style . A Fighting type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
+    "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+  ],
+  "evolution_chain": [
+    "kubfu",
+    "urshifu"
+  ],
+  "evolution_graph": [
+    {
+      "from": "kubfu",
+      "to": "urshifu"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "kub-FOO",
+    "ipa": "/kʌbˈfuː/"
+  }
+}

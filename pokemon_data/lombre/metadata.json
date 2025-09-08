@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 271,
+  "name": "Lombre",
+  "types": [
+    "grass",
+    "water"
+  ],
+  "description": "Lombre, the Jolly Pokémon, and the evolved form of Lotad. Able to evolve into Ludicolo. A Water and Grass type.",
+  "pronunciations": {
+    "phonetic": "LAHM-bray",
+    "ipa": "/ˈlɑːmbɹeɪ/"
+  },
+  "pokedex_entries": [
+    "Lombre is nocturnal - it will get active after dusk. It is also a mischief-maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
+    "Lombre's entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this Pokémon's hands. Lombre is often mistaken for a human child.",
+    "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+    "In the evening, it takes great delight in popping out of rivers and startling people. It feeds on aquatic moss that grows on rocks in the riverbed.",
+    "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+    "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.",
+    "It lives at the water's edge where it is sunny. It sleeps on a bed of water-grass by day and becomes active at night.",
+    "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation."
+  ],
+  "evolution_chain": [
+    "lotad",
+    "lombre",
+    "ludicolo"
+  ],
+  "generation": 3,
+  "evolution_graph": [
+    {
+      "from": "lombre",
+      "to": "ludicolo"
+    },
+    {
+      "from": "lotad",
+      "to": "lombre"
+    }
+  ]
+}

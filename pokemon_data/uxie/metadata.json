@@ -1,0 +1,22 @@
+{
+  "pokedex_number": 480,
+  "name": "Uxie",
+  "types": [
+    "psychic"
+  ],
+  "speed": 95,
+  "description": "Uxie, the Knowledge Pokémon. A Psychic type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "Known as \"The Being of Knowledge.\" It is said that it can wipe out the memory of those who see its eyes.",
+    "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+    "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+    "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.",
+    "Known as the Being of Knowledge, it is said that it can wipe out the memory of those who see its eyes.",
+    "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge."
+  ],
+  "pronunciations": {
+    "phonetic": "YOOK-see",
+    "ipa": "/ˈjuːksiː/"
+  }
+}

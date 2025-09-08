@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 935,
+  "name": "Charcadet",
+  "types": [
+    "fire"
+  ],
+  "speed": 35,
+  "description": "Charcadet, the Fire Child Pokémon. Able to evolve into Armarouge or Ceruledge. A Fire type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+    "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+  ],
+  "evolution_chain": [
+    "charcadet",
+    "armarouge",
+    "ceruledge"
+  ],
+  "evolution_graph": [
+    {
+      "from": "armarouge",
+      "to": "ceruledge"
+    },
+    {
+      "from": "charcadet",
+      "to": "armarouge"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CHAR-kuh-det",
+    "ipa": "/ˈtʃɑːɹkədɛt/"
+  }
+}

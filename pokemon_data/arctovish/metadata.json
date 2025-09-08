@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 883,
+  "name": "Arctovish",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "speed": 55,
+  "description": "Arctovish, the Fossil Pokémon. A Water and Ice type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+    "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
+  ],
+  "pronunciations": {
+    "phonetic": "ARK-tuh-vish",
+    "ipa": "/ˈɑɹktəvɪʃ/"
+  }
+}

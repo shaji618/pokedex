@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1014,
+  "name": "Okidogi",
+  "types": [
+    "fighting",
+    "poison"
+  ],
+  "speed": 80,
+  "description": "Okidogi, the Retainer Pokémon. A Poison and Fighting type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "oh-kee-DOH-gee",
+    "ipa": "/ˌoʊkiːˈdoʊɡiː/"
+  }
+}

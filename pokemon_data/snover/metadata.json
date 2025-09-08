@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 459,
+  "name": "Snover",
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "speed": 40,
+  "description": "Snover, the Frost Tree Pokémon. Able to evolve into Abomasnow. A Grass and Ice type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+    "In the spring, it grows berries with the texture of frozen treats around its belly.",
+    "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+    "It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.",
+    "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+    "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children."
+  ],
+  "evolution_chain": [
+    "snover",
+    "abomasnow"
+  ],
+  "evolution_graph": [
+    {
+      "from": "snover",
+      "to": "abomasnow"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SNOH-vurr",
+    "ipa": "/ˈsnoʊvɚ/"
+  }
+}

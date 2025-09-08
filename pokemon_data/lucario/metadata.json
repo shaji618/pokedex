@@ -1,0 +1,46 @@
+{
+  "pokedex_number": 448,
+  "name": "Lucario",
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "speed": 90,
+  "description": "Lucario, the Aura Pokémon, and the evolved form of Riolu. A Fighting and Steel type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It has the ability to sense the auras of all things. It understands human speech.",
+    "By catching the aura emanating from others, it can read their thoughts and movements.",
+    "A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.",
+    "It's said that no foe can remain invisible to Lucario, since it can detect auras. Even foes it could not otherwise see.",
+    "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+    "Not only does it perceive auras, but it has also gained the power to control them. It employs them in battle.",
+    "They can detect the species of a living being— and its emotions—from over half a mile away. They control auras and hunt their prey in packs.",
+    "It concentrates its mental energy and fires off mysterious waves called auras, which can crush boulders of large size to dust.",
+    "Lucario reads its opponent's feelings with its aura waves. It finds out things it would rather not know, so it gets stressed out easily.",
+    "It controls waves known as auras, which are powerful enough to pulverize huge rocks. It uses these waves to take down its prey.",
+    "It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon's trust.",
+    "By sensing the aura emanating from others, it can read their thoughts and movements.",
+    "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name \"aura\" to this power.",
+    "It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",
+    "A well-trained one can use its aura to identify and take in the feelings of creatures over half a mile away.",
+    "Black streaks all over its body show where its auras and the energy of Mega Evolution intermingled and raced through it.",
+    "It readies itself to face its enemies by focusing its mental energies. Its fighting style can be summed up in a single word: heartless.",
+    "Its aura has expanded due to Mega Evolution. Governed only by its combative instincts, it strikes enemies without mercy.",
+    "Bathed in explosive energy, its combative instincts have awakened. For its enemies, it has no mercy whatsoever."
+  ],
+  "evolution_chain": [
+    "riolu",
+    "lucario"
+  ],
+  "evolution_graph": [
+    {
+      "from": "riolu",
+      "to": "lucario"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "loo-KAR-ee-oh",
+    "ipa": "/luːˈkɑːɹiːoʊ/"
+  }
+}

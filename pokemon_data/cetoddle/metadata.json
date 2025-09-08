@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 974,
+  "name": "Cetoddle",
+  "types": [
+    "ice"
+  ],
+  "speed": 43,
+  "description": "Cetoddle, the Terra Whale Pokémon. Able to evolve into Cetitan. An Ice type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
+    "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+  ],
+  "evolution_chain": [
+    "cetoddle",
+    "cetitan"
+  ],
+  "evolution_graph": [
+    {
+      "from": "cetoddle",
+      "to": "cetitan"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "suh-TOD-ull",
+    "ipa": "/səˈtɑːdəl/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 658,
+  "name": "Greninja",
+  "types": [
+    "dark",
+    "water"
+  ],
+  "speed": 122,
+  "description": "Greninja, the Ninja Pokémon, and the evolved form of Frogadier. A Water and Dark type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+    "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water."
+  ],
+  "evolution_chain": [
+    "froakie",
+    "frogadier",
+    "greninja"
+  ],
+  "evolution_graph": [
+    {
+      "from": "froakie",
+      "to": "frogadier"
+    },
+    {
+      "from": "frogadier",
+      "to": "greninja"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "gruh-NIN-juh",
+    "ipa": "/ɡɹəˈnɪndʒə/"
+  }
+}

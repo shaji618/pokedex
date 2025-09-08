@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 617,
+  "name": "Accelgor",
+  "types": [
+    "bug"
+  ],
+  "speed": 145,
+  "description": "Accelgor, the Shell Out Pokémon, and the evolved form of Shelmet. A Bug type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+    "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+    "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
+    "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+    "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+  ],
+  "evolution_chain": [
+    "shelmet",
+    "accelgor"
+  ],
+  "evolution_graph": [
+    {
+      "from": "shelmet",
+      "to": "accelgor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ak-SEL-gohr",
+    "ipa": "/ækˈsɛlɡɔːɹ/"
+  }
+}

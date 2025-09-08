@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 849,
+  "name": "Toxtricity",
+  "types": [
+    "electric",
+    "poison"
+  ],
+  "speed": 75,
+  "description": "Toxtricity, the Punk Pokémon, and the evolved form of Toxel. An Electric and Poison type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
+    "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
+    "As it scatters toxic sweat and emits electricity, a melody that sounds like it came from a guitar reverberates through the surrounding area.",
+    "The jolts of electricity it launches by violently strumming the protrusions on its chest easily exceed 15,000 volts.",
+    "Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.",
+    "It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.",
+    "Many youths admire the way this Pokémon listlessly picks fights and keeps its cool no matter what opponent it faces.",
+    "As it gulps down stagnant water and generates electricity in its body, a sound like a rhythm played by a bass guitar reverberates all around.",
+    "Its excessive electric energy is its weapon. This Pokémon can build up more electricity than any thundercloud.",
+    "Out of control after its own poison penetrated its brain, it tears across the land in a rampage, contaminating the earth with toxic sweat."
+  ],
+  "evolution_chain": [
+    "toxel",
+    "toxtricity"
+  ],
+  "evolution_graph": [
+    {
+      "from": "toxel",
+      "to": "toxtricity"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "tahks-TRIS-ih-tee",
+    "ipa": "/tɑksˈtɹɪsətiː/"
+  }
+}

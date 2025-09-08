@@ -1,0 +1,41 @@
+{
+  "pokedex_number": 91,
+  "name": "Cloyster",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "speed": 70,
+  "description": "Cloyster, the Bivalve Pokémon, and the evolved form of Shellder. A Water and Ice type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+    "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
+    "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+    "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+    "Even a missile can't break the spikes it uses to stab opponents. They're even harder than its shell.",
+    "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+    "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+    "It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.",
+    "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+    "Its hard shell cannot be shattered—not even by a bomb. The contents of the shell remain unknown.",
+    "Excavation of the tombs of ancient hunting tribes has turned up many spears tipped with spikes that had fallen off this Pokémon's shell.",
+    "If areas of Cloyster's very hard shell get damaged, those areas swell, gradually growing into large sharp spikes.",
+    "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
+    "When attacked, it launches its spikes in quick volleys. Its innards have never been seen."
+  ],
+  "evolution_chain": [
+    "shellder",
+    "cloyster"
+  ],
+  "evolution_graph": [
+    {
+      "from": "shellder",
+      "to": "cloyster"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CLOY-stur",
+    "ipa": "/ˈklɔɪstɚ/"
+  }
+}

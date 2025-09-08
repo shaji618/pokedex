@@ -1,0 +1,41 @@
+{
+  "pokedex_number": 16,
+  "name": "Pidgey",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 56,
+  "description": "Pidgey, the Tiny Bird Pokémon. Able to evolve into Pidgeotto. A Normal and Flying type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+    "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+    "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
+    "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open.",
+    "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+    "Does not like to fight. It hides in tall grass and so on, foraging for food such as small bugs.",
+    "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
+    "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+  ],
+  "evolution_chain": [
+    "pidgey",
+    "pidgeotto",
+    "pidgeot"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pidgeotto",
+      "to": "pidgeot"
+    },
+    {
+      "from": "pidgey",
+      "to": "pidgeotto"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PID-jee",
+    "ipa": "/ˈpɪdʒiː/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 909,
+  "name": "Fuecoco",
+  "types": [
+    "fire"
+  ],
+  "speed": 36,
+  "description": "Fuecoco, the Fire Croc Pokémon. Able to evolve into Crocalor. A Fire type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+    "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro."
+  ],
+  "evolution_chain": [
+    "fuecoco",
+    "crocalor",
+    "skeledirge"
+  ],
+  "evolution_graph": [
+    {
+      "from": "crocalor",
+      "to": "skeledirge"
+    },
+    {
+      "from": "fuecoco",
+      "to": "crocalor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "fway-KOH-koh",
+    "ipa": "/fweɪˈkoʊkoʊ/"
+  }
+}

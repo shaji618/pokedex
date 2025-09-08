@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 516,
+  "name": "Simipour",
+  "types": [
+    "water"
+  ],
+  "speed": 101,
+  "description": "Simipour, the Geyser Pokémon, and the evolved form of Panpour. A Water type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+    "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+    "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+  ],
+  "evolution_chain": [
+    "panpour",
+    "simipour"
+  ],
+  "evolution_graph": [
+    {
+      "from": "panpour",
+      "to": "simipour"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIH-mee-pohr",
+    "ipa": "/ˈsɪmiːpɔːɹ/"
+  }
+}

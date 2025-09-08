@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 958,
+  "name": "Tinkatuff",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "speed": 78,
+  "description": "Tinkatuff, the Hammer Pokémon, and the evolved form of Tinkatink. Able to evolve into Tinkaton. A Fairy and Steel type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
+    "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together."
+  ],
+  "evolution_chain": [
+    "tinkatink",
+    "tinkatuff",
+    "tinkaton"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tinkatink",
+      "to": "tinkatuff"
+    },
+    {
+      "from": "tinkatuff",
+      "to": "tinkaton"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TINK-uh-tuff",
+    "ipa": "/ˈtiːŋkətʌf/"
+  }
+}

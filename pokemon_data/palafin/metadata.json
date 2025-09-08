@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 964,
+  "name": "Palafin",
+  "types": [
+    "water"
+  ],
+  "speed": 100,
+  "description": "Palafin, the Dolphin Pokémon, and the evolved form of Finizen. A Water type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
+    "Its physical capabilities are no different than a Finizen's, but when its allies are in danger, it transforms and powers itself up.",
+    "This Pokémon's ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
+    "This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pokémon."
+  ],
+  "evolution_chain": [
+    "finizen",
+    "palafin"
+  ],
+  "evolution_graph": [
+    {
+      "from": "finizen",
+      "to": "palafin"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAL-uh-fin",
+    "ipa": "/ˈpæləfɪn/"
+  }
+}

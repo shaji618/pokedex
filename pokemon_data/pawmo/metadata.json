@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 922,
+  "name": "Pawmo",
+  "types": [
+    "electric",
+    "fighting"
+  ],
+  "speed": 85,
+  "description": "Pawmo, the Mouse Pokémon, and the evolved form of Pawmi. Able to evolve into Pawmot. An Electric and Fighting type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+  ],
+  "evolution_chain": [
+    "pawmi",
+    "pawmo",
+    "pawmot"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pawmi",
+      "to": "pawmo"
+    },
+    {
+      "from": "pawmo",
+      "to": "pawmot"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAW-moh",
+    "ipa": "/ˈpɑːmoʊ/"
+  }
+}

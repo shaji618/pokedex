@@ -1,0 +1,45 @@
+{
+  "pokedex_number": 70,
+  "name": "Weepinbell",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "speed": 55,
+  "description": "Weepinbell, the Flycatcher Pokémon, and the evolved form of Bellsprout. Able to evolve into Victreebel. A Grass and Poison type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "It spits out Poisonpowder to immobilize the enemy and then finishes it with a spray of Acid.",
+    "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.",
+    "Even though it is filled with Acid, it does not melt because it also oozes a neutralizing fluid.",
+    "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
+    "When it's hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food.",
+    "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+    "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+    "At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
+    "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+    "Even though it is filled with acid, it does not melt because it also oozes a protective fluid.",
+    "It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.",
+    "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
+    "This Pokémon has the appearance of a plant. It captures unwary prey by dousing them with a toxic powder."
+  ],
+  "evolution_chain": [
+    "bellsprout",
+    "weepinbell",
+    "victreebel"
+  ],
+  "evolution_graph": [
+    {
+      "from": "bellsprout",
+      "to": "weepinbell"
+    },
+    {
+      "from": "weepinbell",
+      "to": "victreebel"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "WEEP-in-bell",
+    "ipa": "/ˈwiːpɪnbɛl/"
+  }
+}

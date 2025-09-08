@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 857,
+  "name": "Hattrem",
+  "types": [
+    "psychic"
+  ],
+  "speed": 49,
+  "description": "Hattrem, the Serene Pokémon, and the evolved form of Hatenna. Able to evolve into Hatterene. A Psychic type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+    "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
+    "To this Pokémon, strong emotions apparently feel like incredibly loud noises—even if the emotions are happy ones.",
+    "The moment this Pokémon finds someone who's emitting strong emotions, it will pummel them senseless with its braids to silence them."
+  ],
+  "evolution_chain": [
+    "hatenna",
+    "hattrem",
+    "hatterene"
+  ],
+  "evolution_graph": [
+    {
+      "from": "hatenna",
+      "to": "hattrem"
+    },
+    {
+      "from": "hattrem",
+      "to": "hatterene"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "HA-trem",
+    "ipa": "/ˈhætɹɛm/"
+  }
+}

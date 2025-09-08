@@ -1,0 +1,42 @@
+{
+  "pokedex_number": 706,
+  "name": "Goodra",
+  "types": [
+    "dragon"
+  ],
+  "speed": 80,
+  "description": "Goodra, the Dragon Pokémon, and the evolved form of Sliggoo. A Dragon type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+    "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
+    "An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
+    "It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.",
+    "It's very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don't get mad.",
+    "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off.",
+    "Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.",
+    "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
+    "It loves the rain. This mellow Pokémon can be seen walking around on the plains and in the mountains on rainy days.",
+    "This Pokémon is uncontrollable when enraged. It rampages on and on, lashing its tail with enough power to send a dump truck flying.",
+    "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side."
+  ],
+  "evolution_chain": [
+    "goomy",
+    "sliggoo",
+    "goodra"
+  ],
+  "evolution_graph": [
+    {
+      "from": "goomy",
+      "to": "sliggoo"
+    },
+    {
+      "from": "sliggoo",
+      "to": "goodra"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GOO-druh",
+    "ipa": "/ˈɡuːdɹə/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1021,
+  "name": "Raging Bolt",
+  "types": [
+    "dragon",
+    "electric"
+  ],
+  "speed": 75,
+  "description": "Raging Bolt, the Paradox Pokémon. An Electric and Dragon type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "ray-jeeng-BOHLT",
+    "ipa": "/ˌɹɛɪdʒiːŋ ˈbɔlt/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 867,
+  "name": "Runerigus",
+  "types": [
+    "ghost",
+    "ground"
+  ],
+  "speed": 30,
+  "description": "Runerigus, the Grudge Pokémon, and the evolved form of Yamask. A Ground and Ghost type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+    "Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it."
+  ],
+  "evolution_chain": [
+    "yamask",
+    "cofagrigus",
+    "runerigus"
+  ],
+  "evolution_graph": [
+    {
+      "from": "yamask",
+      "to": "cofagrigus"
+    },
+    {
+      "from": "yamask",
+      "to": "runerigus"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "roon-er-EE-gus",
+    "ipa": "/ɹuːnɛˈɹiːɡəs/"
+  }
+}

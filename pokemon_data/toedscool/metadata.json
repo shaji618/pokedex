@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 948,
+  "name": "Toedscool",
+  "types": [
+    "grass",
+    "ground"
+  ],
+  "speed": 70,
+  "description": "Toedscool, the Woodear Pokémon. Able to evolve into Toedscruel. A Ground and Grass type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+    "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph."
+  ],
+  "evolution_chain": [
+    "toedscool",
+    "toedscruel"
+  ],
+  "evolution_graph": [
+    {
+      "from": "toedscool",
+      "to": "toedscruel"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TOHDZ-kool",
+    "ipa": "/ˈtoʊdzkuːl/"
+  }
+}

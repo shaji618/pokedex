@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 523,
+  "name": "Zebstrika",
+  "types": [
+    "electric"
+  ],
+  "speed": 116,
+  "description": "Zebstrika, the Thunderbolt Pokémon, and the evolved form of Blitzle. An Electric type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+    "This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions.",
+    "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions."
+  ],
+  "evolution_chain": [
+    "blitzle",
+    "zebstrika"
+  ],
+  "evolution_graph": [
+    {
+      "from": "blitzle",
+      "to": "zebstrika"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "zeb-STRYE-kuh",
+    "ipa": "/zɛbˈstɹaɪkə/"
+  }
+}

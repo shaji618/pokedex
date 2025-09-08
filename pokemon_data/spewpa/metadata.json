@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 665,
+  "name": "Spewpa",
+  "types": [
+    "bug"
+  ],
+  "speed": 29,
+  "description": "Spewpa, the Scatterdust Pokémon, and the evolved form of Scatterbug. Able to evolve into Vivillon Meadow Pattern . A Bug type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+    "The beaks of bird Pokémon can't begin to scratch its stalwart body. To defend itself, it spews powder.",
+    "If Rufflet attacks this Pokémon by pecking at it, it will retaliate with its sharp fur and poisonous black powder.",
+    "Spewpa doesn't live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve."
+  ],
+  "evolution_chain": [
+    "scatterbug",
+    "spewpa",
+    "vivillon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "scatterbug",
+      "to": "spewpa"
+    },
+    {
+      "from": "spewpa",
+      "to": "vivillon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SPYOO-puh",
+    "ipa": "/ˈspjuːpə/"
+  }
+}

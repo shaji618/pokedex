@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 904,
+  "name": "Overqwil",
+  "types": [
+    "dark",
+    "poison"
+  ],
+  "speed": 85,
+  "description": "Overqwil, the Pin Cluster Pokémon, and the evolved form of Qwilfish. A Dark and Poison type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Its lancelike spikes and savage temperament have earned it the nickname \"sea fiend.\" It slurps up poison to nourish itself."
+  ],
+  "evolution_chain": [
+    "qwilfish",
+    "overqwil"
+  ],
+  "evolution_graph": [
+    {
+      "from": "qwilfish",
+      "to": "overqwil"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "OH-vur-kwil",
+    "ipa": "/ˈoʊvɚkwɪl/"
+  }
+}

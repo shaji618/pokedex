@@ -1,0 +1,24 @@
+{
+  "pokedex_number": 942,
+  "name": "Maschiff",
+  "types": [
+    "dark"
+  ],
+  "speed": 51,
+  "description": "Maschiff, the Rascal Pokémon. Able to evolve into Mabosstiff. A Dark type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
+    "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+  ],
+  "evolution_chain": [
+    "maschiff",
+    "mabosstiff"
+  ],
+  "evolution_graph": [
+    {
+      "from": "maschiff",
+      "to": "mabosstiff"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 999,
+  "name": "Gimmighoul",
+  "types": [
+    "ghost"
+  ],
+  "speed": 10,
+  "description": "Gimmighoul, the Coin Chest Pokémon. Able to evolve into Gholdengo. A Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it's actually a Pokémon.",
+    "This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.",
+    "It wanders around, carrying an old coin on its back. It survives by draining the life-force from humans who try to pick up its coin."
+  ],
+  "evolution_chain": [
+    "gimmighoul",
+    "gholdengo"
+  ],
+  "evolution_graph": [
+    {
+      "from": "gimmighoul",
+      "to": "gholdengo"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GIM-ee-gool",
+    "ipa": "/ˈɡɪmiːɡuːl/"
+  }
+}

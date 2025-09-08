@@ -1,0 +1,55 @@
+{
+  "pokedex_number": 38,
+  "name": "Ninetales",
+  "types": [
+    "fire"
+  ],
+  "speed": 100,
+  "description": "Ninetales, the Fox Pokémon, and the evolved form of Vulpix. A Fire type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "According to an enduring legend, 9 noble saints were united and reincarnated as this Pokémon.",
+    "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+    "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+    "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
+    "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
+    "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent - it can understand human speech.",
+    "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+    "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+    "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
+    "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+    "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent—it can understand human speech.",
+    "Legend has it that this mystical Pokémon was formed when nine saints coalesced into one.",
+    "Said to live for a thousand years, this Pokémon uses its supernatural abilities to manipulate fire. It can burn its prey to a crisp as it pleases.",
+    "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
+    "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pokémon attacks.",
+    "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
+    "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+    "Its nine tails are said to be imbued with a mystic power. The Pokémon is said to live for 1,000 years.",
+    "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
+    "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.",
+    "Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
+    "The reason it guides people all the way down to the mountain's base is that it wants them to hurry up and leave.",
+    "Some said that deities visited mountains where Ninetales live, so in times long past, no one was allowed to go into those mountains.",
+    "It lives on mountains perpetually covered in snow and is revered as a deity incarnate. It appears draped in a blizzard.",
+    "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
+    "While it will guide travelers who get lost on a snowy mountain down to the mountain's base, it won't forgive anyone who harms nature.",
+    "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths—it then guides them back down to the mountain's base."
+  ],
+  "evolution_chain": [
+    "vulpix",
+    "ninetales"
+  ],
+  "evolution_graph": [
+    {
+      "from": "vulpix",
+      "to": "ninetales"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "NINE-tales",
+    "ipa": "/ˈnaɪnteɪlz/"
+  }
+}

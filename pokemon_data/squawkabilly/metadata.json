@@ -1,0 +1,25 @@
+{
+  "pokedex_number": 931,
+  "name": "Squawkabilly",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 92,
+  "description": "Squawkabilly, the Parrot Pokémon. A Normal and Flying type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
+    "Green-feathered flocks hold the most sway. When they're out searching for food in the mornings and evenings, it gets very noisy.",
+    "The largest of their flocks can contain more than 50 individuals. They fly around towns and forests, searching for food and making a racket.",
+    "Blue-feathered Squawkabilly view their green-feathered counterparts as rivals, since the latter make up the largest, most powerful groups.",
+    "These Squawkabilly are hotheaded, and their fighting style is vicious. They'll leap within reach of their foes to engage in close combat.",
+    "The yellow Squawkabilly are especially fierce. They've even been known to drive other bird Pokémon out of town.",
+    "This Pokémon dislikes being alone. It has a strong sense of community and survives by cooperating with allies.",
+    "Though these Squawkabilly are the fewest in number, they have no trouble living in towns since they blend in with the white buildings."
+  ],
+  "pronunciations": {
+    "phonetic": "SKWAHK-uh-bill-ee",
+    "ipa": "/ˈskwɑːkəbɪliː/"
+  }
+}

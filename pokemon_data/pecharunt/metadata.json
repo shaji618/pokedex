@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1025,
+  "name": "Pecharunt",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "speed": 88,
+  "description": "Pecharunt, the Subjugation Pokémon. A Poison and Ghost type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "PECH-uh-runt",
+    "ipa": "ˈpɛtʃəɹʌnt/"
+  }
+}

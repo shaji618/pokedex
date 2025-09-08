@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 273,
+  "name": "Seedot",
+  "types": [
+    "grass"
+  ],
+  "speed": 30,
+  "description": "Seedot, the Acorn Pokémon. Able to evolve into Nuzleaf. A Grass type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon's body becomes.",
+    "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
+    "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey.",
+    "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
+    "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+    "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+    "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
+    "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon that try to peck at it."
+  ],
+  "evolution_chain": [
+    "seedot",
+    "nuzleaf",
+    "shiftry"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nuzleaf",
+      "to": "shiftry"
+    },
+    {
+      "from": "seedot",
+      "to": "nuzleaf"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SEE-daht",
+    "ipa": "/ˈsiːdɑːt/"
+  }
+}

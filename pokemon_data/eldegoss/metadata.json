@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 830,
+  "name": "Eldegoss",
+  "types": [
+    "grass"
+  ],
+  "speed": 60,
+  "description": "Eldegoss, the Cotton Bloom Pokémon, and the evolved form of Gossifleur. A Grass type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
+    "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty."
+  ],
+  "evolution_chain": [
+    "gossifleur",
+    "eldegoss"
+  ],
+  "evolution_graph": [
+    {
+      "from": "gossifleur",
+      "to": "eldegoss"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "EL-de-gahs",
+    "ipa": "/ˈɛldəɡɑːs/"
+  }
+}

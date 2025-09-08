@@ -1,0 +1,42 @@
+{
+  "pokedex_number": 9,
+  "name": "Blastoise",
+  "types": [
+    "water"
+  ],
+  "speed": 78,
+  "description": "Blastoise, the Shellfish Pokémon, and the evolved form of Wartortle. A Water type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
+    "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+    "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+    "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+    "It firmly plants its feet on the ground before shooting water from the jets on its back.",
+    "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
+    "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+    "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon."
+  ],
+  "evolution_chain": [
+    "squirtle",
+    "wartortle",
+    "blastoise"
+  ],
+  "evolution_graph": [
+    {
+      "from": "squirtle",
+      "to": "wartortle"
+    },
+    {
+      "from": "wartortle",
+      "to": "blastoise"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BLAST-ois",
+    "ipa": "/ˈblæstɔɪs/"
+  }
+}

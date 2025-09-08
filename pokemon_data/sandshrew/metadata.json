@@ -1,0 +1,51 @@
+{
+  "pokedex_number": 27,
+  "name": "Sandshrew",
+  "types": [
+    "ground"
+  ],
+  "speed": 40,
+  "description": "Sandshrew, the Mouse Pokémon. Able to evolve into Sandslash. A Ground type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+    "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+    "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
+    "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+    "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
+    "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+    "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+    "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+    "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey.",
+    "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+    "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+    "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
+    "It can roll its body into a ball. It moves through the desert by rolling at high speeds.",
+    "It usually makes its home in deserts and arid zones, where rain does not fall. It digs holes to catch Bug-type Pokémon.",
+    "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.",
+    "When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out.",
+    "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
+    "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
+    "It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.",
+    "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can.",
+    "After fleeing a volcanic eruption, it ended up moving to an area of snowy mountains. Its ice shell is as hard as steel.",
+    "The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.",
+    "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them.",
+    "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.",
+    "It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away."
+  ],
+  "evolution_chain": [
+    "sandshrew",
+    "sandslash"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sandshrew",
+      "to": "sandslash"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SAND-shroo",
+    "ipa": "/ˈsændʃɹuː/"
+  }
+}

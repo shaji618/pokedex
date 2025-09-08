@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 930,
+  "name": "Arboliva",
+  "types": [
+    "grass",
+    "normal"
+  ],
+  "speed": 39,
+  "description": "Arboliva, the Olive Pokémon, and the evolved form of Dolliv. A Grass and Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+    "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+  ],
+  "evolution_chain": [
+    "smoliv",
+    "dolliv",
+    "arboliva"
+  ],
+  "evolution_graph": [
+    {
+      "from": "dolliv",
+      "to": "arboliva"
+    },
+    {
+      "from": "smoliv",
+      "to": "dolliv"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ahr-BALL-iv-uh",
+    "ipa": "/ɑɹˈbɑːləvə/"
+  }
+}

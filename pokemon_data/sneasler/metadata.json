@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 903,
+  "name": "Sneasler",
+  "types": [
+    "fighting",
+    "poison"
+  ],
+  "speed": 120,
+  "description": "Sneasler, the Free Climb Pokémon, and the evolved form of Sneasel. A Poison and Fighting type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs."
+  ],
+  "evolution_chain": [
+    "sneasel",
+    "weavile",
+    "sneasler"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sneasel",
+      "to": "sneasler"
+    },
+    {
+      "from": "sneasel",
+      "to": "weavile"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SNEEZ-lurr",
+    "ipa": "/ˈsniːzlɚ/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 651,
+  "name": "Quilladin",
+  "types": [
+    "grass"
+  ],
+  "speed": 57,
+  "description": "Quilladin, the Spiny Armor Pokémon, and the evolved form of Chespin. Able to evolve into Chesnaught. A Grass type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+    "They strengthen their lower bodies by running into one another. They are very kind and won't start fights."
+  ],
+  "evolution_chain": [
+    "chespin",
+    "quilladin",
+    "chesnaught"
+  ],
+  "evolution_graph": [
+    {
+      "from": "chespin",
+      "to": "quilladin"
+    },
+    {
+      "from": "quilladin",
+      "to": "chesnaught"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "QUILL-uh-din",
+    "ipa": "/ˈkwɪlədɪn/"
+  }
+}

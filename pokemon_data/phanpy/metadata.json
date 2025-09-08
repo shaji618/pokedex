@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 231,
+  "name": "Phanpy",
+  "types": [
+    "ground"
+  ],
+  "speed": 40,
+  "description": "Phanpy, the Long Nose Pokémon. Able to evolve into Donphan. A Ground type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
+    "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+    "During the deserted morning hours, it comes ashore where it deftly uses its trunk to take a shower.",
+    "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+    "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
+    "It swings its long snout around playfully, but because it is so strong, this can be dangerous.",
+    "Phanpy's big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
+    "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+    "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
+    "It is far stronger than it appears. If a Phanpy is swinging its trunk around and your arm gets hit by it, your arm bone will shatter."
+  ],
+  "evolution_chain": [
+    "phanpy",
+    "donphan"
+  ],
+  "evolution_graph": [
+    {
+      "from": "phanpy",
+      "to": "donphan"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FAN-pee",
+    "ipa": "/ˈfænpiː/"
+  }
+}

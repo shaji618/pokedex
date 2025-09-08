@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 1000,
+  "name": "Gholdengo",
+  "types": [
+    "ghost",
+    "steel"
+  ],
+  "speed": 84,
+  "description": "Gholdengo, the Coin Entity Pokémon, and the evolved form of Gimmighoul. A Steel and Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+  ],
+  "evolution_chain": [
+    "gimmighoul",
+    "gholdengo"
+  ],
+  "evolution_graph": [
+    {
+      "from": "gimmighoul",
+      "to": "gholdengo"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GOHL-dun-goh",
+    "ipa": "/ˈɡɔldənɡoʊ/"
+  }
+}

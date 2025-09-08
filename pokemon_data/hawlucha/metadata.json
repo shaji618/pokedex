@@ -1,0 +1,25 @@
+{
+  "pokedex_number": 701,
+  "name": "Hawlucha",
+  "types": [
+    "fighting",
+    "flying"
+  ],
+  "speed": 118,
+  "description": "Hawlucha, the Wrestling Pokémon. A Fighting and Flying type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
+    "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+    "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it's using a special move and gets itself into a pinch.",
+    "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents' blind spots. It's also skilled at using superb submission holds.",
+    "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
+    "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
+    "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
+    "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape."
+  ],
+  "pronunciations": {
+    "phonetic": "haw-LOO-chuh",
+    "ipa": "/hɑːˈluːtʃə/"
+  }
+}

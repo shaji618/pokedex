@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 655,
+  "name": "Delphox",
+  "types": [
+    "fire",
+    "psychic"
+  ],
+  "speed": 104,
+  "description": "Delphox, the Fox Pokémon, and the evolved form of Braixen. A Fire and Psychic type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+    "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame."
+  ],
+  "evolution_chain": [
+    "fennekin",
+    "braixen",
+    "delphox"
+  ],
+  "evolution_graph": [
+    {
+      "from": "braixen",
+      "to": "delphox"
+    },
+    {
+      "from": "fennekin",
+      "to": "braixen"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DELL-fahks",
+    "ipa": "/ˈdɛlfɑːks/"
+  }
+}

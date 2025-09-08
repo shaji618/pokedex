@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 975,
+  "name": "Cetitan",
+  "types": [
+    "ice"
+  ],
+  "speed": 73,
+  "description": "Cetitan, the Terra Whale Pokémon, and the evolved form of Cetoddle. An Ice type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+    "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
+  ],
+  "evolution_chain": [
+    "cetoddle",
+    "cetitan"
+  ],
+  "evolution_graph": [
+    {
+      "from": "cetoddle",
+      "to": "cetitan"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "suh-TYE-tun",
+    "ipa": "/səˈtaɪtən/"
+  }
+}

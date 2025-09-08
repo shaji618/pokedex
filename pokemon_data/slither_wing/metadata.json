@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 988,
+  "name": "Slither Wing",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "speed": 81,
+  "description": "Slither Wing, the Paradox Pokémon. A Bug and Fighting type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+    "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+  ],
+  "pronunciations": {
+    "phonetic": "SLIH- th ur-wing",
+    "ipa": "/ˈslɪðɚ ˌwiŋ/"
+  }
+}

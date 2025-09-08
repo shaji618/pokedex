@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 919,
+  "name": "Nymble",
+  "types": [
+    "bug"
+  ],
+  "speed": 45,
+  "description": "Nymble, the Grasshopper Pokémon. Able to evolve into Lokix. A Bug type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It has its third set of legs folded up. When it's in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
+    "It's highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+  ],
+  "evolution_chain": [
+    "nymble",
+    "lokix"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nymble",
+      "to": "lokix"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "NIM-buhl",
+    "ipa": "/ˈnɪmbəl/"
+  }
+}

@@ -1,0 +1,20 @@
+# Core dependencies (alphabetized)
+aiohttp>=3.9.0          # Used by training scripts for async HTTP
+beautifulsoup4>=4.12.0  # Web scraping for Pokemon data
+imagehash>=4.3.1        # Perceptual image hashing for validation
+librosa>=0.10.0         # Audio analysis and validation (optional for advanced features)
+numpy>=1.26.0           # Numerical computations and image processing
+opencv-python>=4.8.0    # Computer vision for camera access and image processing
+Pillow>=10.3.0          # Image processing and manipulation
+piper-tts>=1.3.0        # Text-to-speech functionality
+playwright>=1.45.0      # Browser automation for scraping
+pre-commit>=3.6.0       # Git hooks for automated testing and linting
+psutil>=5.9.0           # Process monitoring for performance tests
+pytest>=8.0.0           # Testing framework
+pygame>=2.5.0           # Core game engine
+requests>=2.31.0        # HTTP requests for web scraping
+ruff>=0.1.0             # Modern Python linter and formatter
+scikit-learn>=1.5.0     # Machine learning utilities
+torch>=2.2.0            # Deep learning framework
+tqdm>=4.66.0            # Progress bars for downloads and processing
+transformers>=4.41.0    # Transformer models for Pokemon classification

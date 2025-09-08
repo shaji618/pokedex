@@ -1,0 +1,24 @@
+{
+  "pokedex_number": 383,
+  "name": "Groudon",
+  "types": [
+    "ground"
+  ],
+  "speed": 90,
+  "description": "Groudon, the Continent Pokémon. A Ground type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Groudon has long been described in mythology as the Pokémon that raised lands and expanded continents. This Pokémon took to sleep after a cataclysmic battle with Kyogre.",
+    "Groudon has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
+    "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+    "Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
+    "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+    "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
+    "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+    "Through Primal Reversion and with nature's full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world."
+  ],
+  "pronunciations": {
+    "phonetic": "GROU-dahn",
+    "ipa": "/ˈɡɹaʊdɑːn/"
+  }
+}

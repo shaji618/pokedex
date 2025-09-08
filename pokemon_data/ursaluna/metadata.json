@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 901,
+  "name": "Ursaluna",
+  "types": [
+    "ground",
+    "normal"
+  ],
+  "description": "Ursaluna, the Peat Pokémon, and the evolved form of Ursaring. A Normal and Ground type.",
+  "pronunciations": {
+    "phonetic": "UR-suh-LOO-nuh",
+    "ipa": "/ˌɝsəˈluːnə/"
+  },
+  "pokedex_entries": [
+    "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."
+  ],
+  "evolution_chain": [
+    "teddiursa",
+    "ursaring",
+    "ursaluna"
+  ],
+  "generation": 8,
+  "evolution_graph": [
+    {
+      "from": "teddiursa",
+      "to": "ursaring"
+    },
+    {
+      "from": "ursaring",
+      "to": "ursaluna"
+    }
+  ]
+}

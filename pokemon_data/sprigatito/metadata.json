@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 906,
+  "name": "Sprigatito",
+  "types": [
+    "grass"
+  ],
+  "speed": 65,
+  "description": "Sprigatito, the Grass Cat Pokémon. Able to evolve into Floragato. A Grass type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+  ],
+  "evolution_chain": [
+    "sprigatito",
+    "floragato",
+    "meowscarada"
+  ],
+  "evolution_graph": [
+    {
+      "from": "floragato",
+      "to": "meowscarada"
+    },
+    {
+      "from": "sprigatito",
+      "to": "floragato"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "sprig-uh-TEE-toh",
+    "ipa": "/ˌspɹɪɡəˈtiːtoʊ/"
+  }
+}

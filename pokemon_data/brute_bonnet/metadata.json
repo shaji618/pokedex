@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 986,
+  "name": "Brute Bonnet",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "speed": 55,
+  "description": "Brute Bonnet, the Paradox Pokémon. A Grass and Dark type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
+    "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+  ],
+  "pronunciations": {
+    "phonetic": "broot-BAHN-it",
+    "ipa": "/ˌbɹuːt ˈbɑːnət/"
+  }
+}

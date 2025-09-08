@@ -1,0 +1,21 @@
+{
+  "pokedex_number": 631,
+  "name": "Heatmor",
+  "types": [
+    "fire"
+  ],
+  "speed": 65,
+  "description": "Heatmor, the Anteater Pokémon. A Fire type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+    "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+    "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+    "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
+    "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides."
+  ],
+  "pronunciations": {
+    "phonetic": "HEET-mohr",
+    "ipa": "/ˈhiːʔmɔːɹ/"
+  }
+}

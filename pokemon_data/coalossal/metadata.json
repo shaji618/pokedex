@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 839,
+  "name": "Coalossal",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "speed": 30,
+  "description": "Coalossal, the Coal Pokémon, and the evolved form of Carkol. A Rock and Fire type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
+    "While it's engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
+    "To intimidate its opponents, Coalossal will vigorously shake its body, scattering coal from its smoldering back.",
+    "It's gentle usually but fearsome when angered. With a body that burns at over 2,700 degrees Fahrenheit, it crushes foes and turns them to ash.",
+    "Its body is a colossal stove. With Gigantamax energy stoking the fire, this Pokémon's flame burns hotter than 3,600 degrees Fahrenheit.",
+    "When Galar was hit by a harsh cold wave, this Pokémon served as a giant heating stove and saved many lives."
+  ],
+  "evolution_chain": [
+    "rolycoly",
+    "carkol",
+    "coalossal"
+  ],
+  "evolution_graph": [
+    {
+      "from": "carkol",
+      "to": "coalossal"
+    },
+    {
+      "from": "rolycoly",
+      "to": "carkol"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "kohl-AH-sull",
+    "ipa": "/kɔːlˈɑːsəl/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1020,
+  "name": "Gouging Fire",
+  "types": [
+    "dragon",
+    "fire"
+  ],
+  "speed": 91,
+  "description": "Gouging Fire, the Paradox Pokémon. A Fire and Dragon type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "gow-jeeng-FIRE",
+    "ipa": "/ˌɡaʊdʒiŋ ˈfaɪɚ/"
+  }
+}

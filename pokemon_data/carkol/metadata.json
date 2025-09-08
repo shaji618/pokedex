@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 838,
+  "name": "Carkol",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "description": "Carkol, the Coal Pokémon, and the evolved form of Rolycoly. Able to evolve into Coalossal. A Rock and Fire type.",
+  "pronunciations": {
+    "phonetic": "KAR-kohl",
+    "ipa": "/ˈkɑɹkɔːl/"
+  },
+  "pokedex_entries": [
+    "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
+    "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
+    "The temperature inside its body increases when it experiences strong emotions. It rolls around frantically while spewing flames.",
+    "Due to the coal tar created inside it, the heap of coal on Carkol's back never falls apart, even when the Pokémon rolls around at high speeds."
+  ],
+  "evolution_chain": [
+    "rolycoly",
+    "carkol",
+    "coalossal"
+  ],
+  "generation": 8,
+  "evolution_graph": [
+    {
+      "from": "carkol",
+      "to": "coalossal"
+    },
+    {
+      "from": "rolycoly",
+      "to": "carkol"
+    }
+  ]
+}

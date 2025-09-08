@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 993,
+  "name": "Iron Jugulis",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "speed": 108,
+  "description": "Iron Jugulis, the Paradox Pokémon. A Dark and Flying type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
+    "It's possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+  ],
+  "pronunciations": {
+    "phonetic": "eye-urn-JUG-yoo-lis",
+    "ipa": "/ˌaɪɹn ˈdʒʌɡjuːləs/"
+  }
+}

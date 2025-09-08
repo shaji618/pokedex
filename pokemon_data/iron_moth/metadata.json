@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 994,
+  "name": "Iron Moth",
+  "types": [
+    "fire",
+    "poison"
+  ],
+  "speed": 110,
+  "description": "Iron Moth, the Paradox Pokémon. A Fire and Poison type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon resembles an unknown object described in a paranormal magazine as a Ufo sent to observe humanity.",
+    "No records exist of this species being caught. Data is lacking, but the Pokémon's traits match up with an object described in an old book."
+  ],
+  "pronunciations": {
+    "phonetic": "eye-urn-MOTH",
+    "ipa": "/ˌaɪɹn ˈmɑːθ/"
+  }
+}

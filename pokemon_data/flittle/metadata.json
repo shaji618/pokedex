@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 955,
+  "name": "Flittle",
+  "types": [
+    "psychic"
+  ],
+  "speed": 75,
+  "description": "Flittle, the Frill Pokémon. Able to evolve into Espathra. A Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Flittle's toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
+    "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+  ],
+  "evolution_chain": [
+    "flittle",
+    "espathra"
+  ],
+  "evolution_graph": [
+    {
+      "from": "flittle",
+      "to": "espathra"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FLIT-ull",
+    "ipa": "/ˈflɪɾəl/"
+  }
+}

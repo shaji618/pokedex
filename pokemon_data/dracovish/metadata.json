@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 882,
+  "name": "Dracovish",
+  "types": [
+    "dragon",
+    "water"
+  ],
+  "speed": 75,
+  "description": "Dracovish, the Fossil Pokémon. A Water and Dragon type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
+    "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can't breathe unless it's underwater."
+  ],
+  "pronunciations": {
+    "phonetic": "DRAK-uh-vish",
+    "ipa": "/ˈdɹækəvɪʃ/"
+  }
+}

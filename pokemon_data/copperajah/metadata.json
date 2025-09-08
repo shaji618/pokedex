@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 879,
+  "name": "Copperajah",
+  "types": [
+    "steel"
+  ],
+  "speed": 30,
+  "description": "Copperajah, the Copperderm Pokémon, and the evolved form of Cufant. A Steel type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+    "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+    "This Pokémon was brought to Paldea long ago by people from a faraway land. It's so strong that it can easily pull an airplane.",
+    "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+    "So much power is packed within its trunk that if it were to unleash that power, the resulting blast could level mountains and change the landscape.",
+    "After this Pokémon has Gigantamaxed, its massive nose can utterly demolish large structures with a single smashing blow."
+  ],
+  "evolution_chain": [
+    "cufant",
+    "copperajah"
+  ],
+  "evolution_graph": [
+    {
+      "from": "cufant",
+      "to": "copperajah"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KAH-purr-AH-zhuh",
+    "ipa": "/ˌkɑːpɚɑːʒə/"
+  }
+}

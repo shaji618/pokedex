@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 936,
+  "name": "Armarouge",
+  "types": [
+    "fire",
+    "psychic"
+  ],
+  "speed": 75,
+  "description": "Armarouge, the Fire Warrior Pokémon, and the evolved form of Charcadet. A Fire and Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+    "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+  ],
+  "evolution_chain": [
+    "charcadet",
+    "armarouge",
+    "ceruledge"
+  ],
+  "evolution_graph": [
+    {
+      "from": "armarouge",
+      "to": "ceruledge"
+    },
+    {
+      "from": "charcadet",
+      "to": "armarouge"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "AR-muh-roozh",
+    "ipa": "/ˈɑːɹmɚuːʒ/"
+  }
+}

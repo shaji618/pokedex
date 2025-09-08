@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1009,
+  "name": "Walking Wake",
+  "types": [
+    "dragon",
+    "water"
+  ],
+  "speed": 109,
+  "description": "Walking Wake, the Paradox Pokémon. A Water and Dragon type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "wah-king-WAKE",
+    "ipa": "/ˌwɑːkiːŋ ˈweɪk/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 815,
+  "name": "Cinderace",
+  "types": [
+    "fire"
+  ],
+  "speed": 119,
+  "description": "Cinderace, the Striker Pokémon, and the evolved form of Raboot. A Fire type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
+    "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
+    "Infused with Cinderace's fighting spirit, the gigantic Pyro Ball never misses its targets and completely roasts opponents.",
+    "Gigantamax energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet."
+  ],
+  "evolution_chain": [
+    "scorbunny",
+    "raboot",
+    "cinderace"
+  ],
+  "evolution_graph": [
+    {
+      "from": "raboot",
+      "to": "cinderace"
+    },
+    {
+      "from": "scorbunny",
+      "to": "raboot"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIND-uh-race",
+    "ipa": "/ˈsɪndɚeɪs/"
+  }
+}

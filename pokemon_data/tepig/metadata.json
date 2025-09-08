@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 498,
+  "name": "Tepig",
+  "types": [
+    "fire"
+  ],
+  "speed": 45,
+  "description": "Tepig, the Fire Pig Pokémon. Able to evolve into Pignite. A Fire type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+    "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+    "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp."
+  ],
+  "evolution_chain": [
+    "tepig",
+    "pignite",
+    "emboar"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pignite",
+      "to": "emboar"
+    },
+    {
+      "from": "tepig",
+      "to": "pignite"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TEH-pig",
+    "ipa": "/ˈtɛpɪɡ/"
+  }
+}

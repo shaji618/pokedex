@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 862,
+  "name": "Obstagoon",
+  "types": [
+    "dark",
+    "normal"
+  ],
+  "speed": 95,
+  "description": "Obstagoon, the Blocking Pokémon, and the evolved form of Linoone. A Dark and Normal type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
+    "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
+  ],
+  "evolution_chain": [
+    "zigzagoon",
+    "linoone",
+    "obstagoon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "linoone",
+      "to": "obstagoon"
+    },
+    {
+      "from": "zigzagoon",
+      "to": "linoone"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "AHB-stuh-goon",
+    "ipa": "/ˈɑːbstəɡuːn/"
+  }
+}

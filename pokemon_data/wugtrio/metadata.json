@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 961,
+  "name": "Wugtrio",
+  "types": [
+    "water"
+  ],
+  "speed": 120,
+  "description": "Wugtrio, the Garden Eel Pokémon, and the evolved form of Wiglett. A Water type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+    "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
+  ],
+  "evolution_chain": [
+    "wiglett",
+    "wugtrio"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wiglett",
+      "to": "wugtrio"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "wug-TREE-oh",
+    "ipa": "/wʌɡˈtɹiːoʊ/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 664,
+  "name": "Scatterbug",
+  "types": [
+    "bug"
+  ],
+  "speed": 35,
+  "description": "Scatterbug, the Scatterdust Pokémon. Able to evolve into Spewpa. A Bug type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+    "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+    "Any poison this Pokémon takes in is converted into a black powder and secreted. That's why Scatterbug can eat poisonous leaves and roots.",
+    "This Pokémon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives."
+  ],
+  "evolution_chain": [
+    "scatterbug",
+    "spewpa",
+    "vivillon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "scatterbug",
+      "to": "spewpa"
+    },
+    {
+      "from": "spewpa",
+      "to": "vivillon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SKAT-ur-bug",
+    "ipa": "/ˈskætɚbʌɡ/"
+  }
+}

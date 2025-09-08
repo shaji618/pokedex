@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 688,
+  "name": "Binacle",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "description": "Binacle, the Two-Handed Pokémon. Able to evolve into Barbaracle. A Rock and Water type.",
+  "pronunciations": {
+    "phonetic": "BYE-nuh-kull",
+    "ipa": "/ˈbaɪnəkəl/"
+  },
+  "pokedex_entries": [
+    "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+    "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+    "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",
+    "If the two don't work well together, both their offense and defense fall apart. Without good teamwork, they won't survive."
+  ],
+  "evolution_chain": [
+    "binacle",
+    "barbaracle"
+  ],
+  "generation": 6,
+  "evolution_graph": [
+    {
+      "from": "binacle",
+      "to": "barbaracle"
+    }
+  ]
+}

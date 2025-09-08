@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 657,
+  "name": "Frogadier",
+  "types": [
+    "water"
+  ],
+  "speed": 97,
+  "description": "Frogadier, the Bubble Frog Pokémon, and the evolved form of Froakie. Able to evolve into Greninja. A Water type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+    "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time."
+  ],
+  "evolution_chain": [
+    "froakie",
+    "frogadier",
+    "greninja"
+  ],
+  "evolution_graph": [
+    {
+      "from": "froakie",
+      "to": "frogadier"
+    },
+    {
+      "from": "frogadier",
+      "to": "greninja"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "frog-uh-DEER",
+    "ipa": "/fɹɑːɡəˈdɪɹ/"
+  }
+}

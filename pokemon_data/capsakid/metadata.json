@@ -1,0 +1,27 @@
+{
+  "pokedex_number": 951,
+  "name": "Capsakid",
+  "types": [
+    "grass"
+  ],
+  "description": "Capsakid, the Spicy Pepper Pokémon. Able to evolve into Scovillain. A Grass type.",
+  "pronunciations": {
+    "phonetic": "KAP-suh-kid",
+    "ipa": "/ˈkæpsəkɪd/"
+  },
+  "pokedex_entries": [
+    "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+    "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+  ],
+  "evolution_chain": [
+    "capsakid",
+    "scovillain"
+  ],
+  "generation": 9,
+  "evolution_graph": [
+    {
+      "from": "capsakid",
+      "to": "scovillain"
+    }
+  ]
+}

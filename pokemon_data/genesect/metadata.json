@@ -1,0 +1,20 @@
+{
+  "pokedex_number": 649,
+  "name": "Genesect",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "speed": 99,
+  "description": "Genesect, the Paleozoic Pokémon. A Bug and Steel type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+    "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+    "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
+  ],
+  "pronunciations": {
+    "phonetic": "JEN-uh-sekt",
+    "ipa": "/ˈdʒɛnəsɛkt/"
+  }
+}

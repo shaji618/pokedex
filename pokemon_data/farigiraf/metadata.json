@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 981,
+  "name": "Farigiraf",
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "speed": 60,
+  "description": "Farigiraf, the Long Neck Pokémon, and the evolved form of Girafarig. A Normal and Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig's.",
+    "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+  ],
+  "evolution_chain": [
+    "girafarig",
+    "farigiraf"
+  ],
+  "evolution_graph": [
+    {
+      "from": "girafarig",
+      "to": "farigiraf"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "fuh-RIG-uh-raf",
+    "ipa": "/fəˈɹɪɡəɹæf/"
+  }
+}

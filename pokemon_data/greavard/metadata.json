@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 971,
+  "name": "Greavard",
+  "types": [
+    "ghost"
+  ],
+  "speed": 34,
+  "description": "Greavard, the Ghost Dog Pokémon. Able to evolve into Houndstone. A Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+    "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+  ],
+  "evolution_chain": [
+    "greavard",
+    "houndstone"
+  ],
+  "evolution_graph": [
+    {
+      "from": "greavard",
+      "to": "houndstone"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GREE-vard",
+    "ipa": "/ˈɡɹiːvɑːɹd/"
+  }
+}

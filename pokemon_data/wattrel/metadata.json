@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 940,
+  "name": "Wattrel",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "speed": 70,
+  "description": "Wattrel, the Storm Petrel Pokémon. Able to evolve into Kilowattrel. An Electric and Flying type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+    "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy."
+  ],
+  "evolution_chain": [
+    "wattrel",
+    "kilowattrel"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wattrel",
+      "to": "kilowattrel"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "WAH-trull",
+    "ipa": "/ˈwɑːtɹəl/"
+  }
+}

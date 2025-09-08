@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 910,
+  "name": "Crocalor",
+  "types": [
+    "fire"
+  ],
+  "speed": 49,
+  "description": "Crocalor, the Fire Croc Pokémon, and the evolved form of Fuecoco. Able to evolve into Skeledirge. A Fire type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The combination of Crocalor's fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon's head.",
+    "The valve in Crocalor's flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+  ],
+  "evolution_chain": [
+    "fuecoco",
+    "crocalor",
+    "skeledirge"
+  ],
+  "evolution_graph": [
+    {
+      "from": "crocalor",
+      "to": "skeledirge"
+    },
+    {
+      "from": "fuecoco",
+      "to": "crocalor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KROK-uh-lohr",
+    "ipa": "/ˈkɹɑːkəlɔɹ/"
+  }
+}

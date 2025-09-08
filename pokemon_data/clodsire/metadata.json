@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 980,
+  "name": "Clodsire",
+  "types": [
+    "ground",
+    "poison"
+  ],
+  "speed": 20,
+  "description": "Clodsire, the Spiny Fish Pokémon, and the evolved form of Wooper. A Poison and Ground type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It's a risky move that puts everything on the line.",
+    "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+  ],
+  "evolution_chain": [
+    "wooper",
+    "quagsire",
+    "clodsire"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wooper",
+      "to": "clodsire"
+    },
+    {
+      "from": "wooper",
+      "to": "quagsire"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KLOD-sire",
+    "ipa": "/ˈklɑːdsaɪɚ/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "pokedex_number": 366,
+  "name": "Clamperl",
+  "types": [
+    "water"
+  ],
+  "speed": 32,
+  "description": "Clamperl, the Bivalve Pokémon. Able to evolve into Huntail or Gorebyss. A Water type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Clamperl's sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown Clamperl's shell will be scored with nicks and scratches all over.",
+    "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.",
+    "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+    "A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+    "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+    "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.",
+    "Clamperl's sturdy shell is not only good for protection—it is also used for clamping and catching prey. A fully grown Clamperl's shell will be scored with nicks and scratches all over.",
+    "Despite its appearance, it's carnivorous. It clamps down on its prey with both sides of its shell and doesn't let go until they stop moving.",
+    "Clamperl's pearls are exceedingly precious. They can be more than 10 times as costly as Shellder's pearls."
+  ],
+  "evolution_chain": [
+    "clamperl",
+    "huntail",
+    "gorebyss"
+  ],
+  "evolution_graph": [
+    {
+      "from": "clamperl",
+      "to": "huntail"
+    },
+    {
+      "from": "huntail",
+      "to": "gorebyss"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KLAM-purl",
+    "ipa": "/ˈklæmpɚl/"
+  }
+}

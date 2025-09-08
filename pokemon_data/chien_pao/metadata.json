@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 1002,
+  "name": "Chien-Pao",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "speed": 135,
+  "description": "Chien-Pao, the Ruinous Pokémon. A Dark and Ice type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+    "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+  ],
+  "pronunciations": {
+    "phonetic": "chee-en-POW",
+    "ipa": "/tʃiːɛnˈpaʊ/"
+  }
+}

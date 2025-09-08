@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 858,
+  "name": "Hatterene",
+  "types": [
+    "fairy",
+    "psychic"
+  ],
+  "speed": 29,
+  "description": "Hatterene, the Silent Pokémon, and the evolved form of Hattrem. A Psychic and Fairy type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+    "If you're too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
+    "Hatterene knocks out those that intrude in its home forest by blasting them with a beam, then slashing with claws enhanced by psychic power.",
+    "Beware of forests that show no signs of living creatures within. You may have wandered into Hatterene's territory.",
+    "This Pokémon can read the emotions of creatures over 30 miles away. The minute it senses hostility, it goes on the attack.",
+    "Beams like lightning shoot down from its tentacles. It's known to some as the Raging Goddess."
+  ],
+  "evolution_chain": [
+    "hatenna",
+    "hattrem",
+    "hatterene"
+  ],
+  "evolution_graph": [
+    {
+      "from": "hatenna",
+      "to": "hattrem"
+    },
+    {
+      "from": "hattrem",
+      "to": "hatterene"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "HAT-ur-een",
+    "ipa": "/ˈhætɚiːn/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 634,
+  "name": "Zweilous",
+  "types": [
+    "dark",
+    "dragon"
+  ],
+  "speed": 58,
+  "description": "Zweilous, the Hostile Pokémon, and the evolved form of Deino. Able to evolve into Hydreigon. A Dark and Dragon type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+    "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+    "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+    "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
+    "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
+    "The two heads do not get along at all. If you don't give each head the same amount of attention, they'll begin fighting out of jealousy.",
+    "The two heads have different likes and dislikes. Because the heads fight with each other, Zweilous gets stronger without needing to rely on others."
+  ],
+  "evolution_chain": [
+    "deino",
+    "zweilous",
+    "hydreigon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "deino",
+      "to": "zweilous"
+    },
+    {
+      "from": "zweilous",
+      "to": "hydreigon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ZVYE-lis",
+    "ipa": "/ˈzvaɪləs/"
+  }
+}

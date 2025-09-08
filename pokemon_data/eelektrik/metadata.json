@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 603,
+  "name": "Eelektrik",
+  "types": [
+    "electric"
+  ],
+  "speed": 40,
+  "description": "Eelektrik, the EleFish Pokémon, and the evolved form of Tynamo. Able to evolve into Eelektross. An Electric type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+    "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+    "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps."
+  ],
+  "evolution_chain": [
+    "tynamo",
+    "eelektrik",
+    "eelektross"
+  ],
+  "evolution_graph": [
+    {
+      "from": "eelektrik",
+      "to": "eelektross"
+    },
+    {
+      "from": "tynamo",
+      "to": "eelektrik"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "EE-lek-trik",
+    "ipa": "/ˈiːlɛktɹɪk/"
+  }
+}

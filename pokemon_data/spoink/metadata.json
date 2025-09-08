@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 325,
+  "name": "Spoink",
+  "types": [
+    "psychic"
+  ],
+  "speed": 60,
+  "description": "Spoink, the Bounce Pokémon. Able to evolve into Grumpig. A Psychic type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing - if it stops, its heart will stop.",
+    "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon's psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+    "It apparently dies if it stops bouncing about. It carries a pearl from Clamperl on its head.",
+    "A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
+    "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+    "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+    "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
+    "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",
+    "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers."
+  ],
+  "evolution_chain": [
+    "spoink",
+    "grumpig"
+  ],
+  "evolution_graph": [
+    {
+      "from": "spoink",
+      "to": "grumpig"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SPOINK",
+    "ipa": "/spɔɪŋk/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 515,
+  "name": "Panpour",
+  "types": [
+    "water"
+  ],
+  "speed": 64,
+  "description": "Panpour, the Spray Pokémon. Able to evolve into Simipour. A Water type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+    "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.",
+    "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail."
+  ],
+  "evolution_chain": [
+    "panpour",
+    "simipour"
+  ],
+  "evolution_graph": [
+    {
+      "from": "panpour",
+      "to": "simipour"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAN-pohr",
+    "ipa": "/ˈpænpɔːɹ/"
+  }
+}

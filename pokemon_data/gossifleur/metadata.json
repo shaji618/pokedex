@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 829,
+  "name": "Gossifleur",
+  "types": [
+    "grass"
+  ],
+  "speed": 10,
+  "description": "Gossifleur, the Flowering Pokémon. Able to evolve into Eldegoss. A Grass type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+    "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
+  ],
+  "evolution_chain": [
+    "gossifleur",
+    "eldegoss"
+  ],
+  "evolution_graph": [
+    {
+      "from": "gossifleur",
+      "to": "eldegoss"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GAHS-ih-flur",
+    "ipa": "/ˈɡɑːsəflɚ/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 395,
+  "name": "Empoleon",
+  "types": [
+    "steel",
+    "water"
+  ],
+  "speed": 60,
+  "description": "Empoleon, the Emperor Pokémon, and the evolved form of Prinplup. A Water and Steel type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+    "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+    "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+    "It avoids unnecessary disputes, but it will decimate anything that threatens its pride.",
+    "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades."
+  ],
+  "evolution_chain": [
+    "piplup",
+    "prinplup",
+    "empoleon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "piplup",
+      "to": "prinplup"
+    },
+    {
+      "from": "prinplup",
+      "to": "empoleon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "em-POHL-ee-ahn",
+    "ipa": "/ɛmˈpɔːliːɑːn/"
+  }
+}

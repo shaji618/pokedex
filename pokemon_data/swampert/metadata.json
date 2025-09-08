@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 260,
+  "name": "Swampert",
+  "types": [
+    "ground",
+    "water"
+  ],
+  "speed": 60,
+  "description": "Swampert, the Mud Fish Pokémon, and the evolved form of Marshtomp. A Water and Ground type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.",
+    "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+    "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches.",
+    "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.",
+    "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+    "Its arms are hard as rock. With one swing, it can break a boulder into pieces."
+  ],
+  "evolution_chain": [
+    "mudkip",
+    "marshtomp",
+    "swampert"
+  ],
+  "evolution_graph": [
+    {
+      "from": "marshtomp",
+      "to": "swampert"
+    },
+    {
+      "from": "mudkip",
+      "to": "marshtomp"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SWAHM-purt",
+    "ipa": "/ˈswɑːmpɚt/"
+  }
+}

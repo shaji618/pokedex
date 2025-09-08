@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 934,
+  "name": "Garganacl",
+  "types": [
+    "rock"
+  ],
+  "speed": 35,
+  "description": "Garganacl, the Rock Salt Pokémon, and the evolved form of Naclstack. A Rock type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+    "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+  ],
+  "evolution_chain": [
+    "nacli",
+    "naclstack",
+    "garganacl"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nacli",
+      "to": "naclstack"
+    },
+    {
+      "from": "naclstack",
+      "to": "garganacl"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GAHR-guh-nak-ull",
+    "ipa": "/ˈɡɑːɹɡənækəl/"
+  }
+}

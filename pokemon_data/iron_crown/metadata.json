@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1023,
+  "name": "Iron Crown",
+  "types": [
+    "psychic",
+    "steel"
+  ],
+  "speed": 98,
+  "description": "Iron Crown, the Paradox Pokémon. A Steel and Psychic type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "eye-urn-KROWN",
+    "ipa": "/ˌaɪɹn ˈkɹaʊn/"
+  }
+}

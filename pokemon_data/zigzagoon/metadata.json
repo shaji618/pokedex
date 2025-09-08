@@ -1,0 +1,43 @@
+{
+  "pokedex_number": 263,
+  "name": "Zigzagoon",
+  "types": [
+    "normal"
+  ],
+  "speed": 60,
+  "description": "Zigzagoon, the Tiny Raccoon Pokémon. Able to evolve into Linoone. A Normal type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see.",
+    "The hair on Zigzagoon's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.",
+    "A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigs and zags.",
+    "Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.",
+    "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+    "It gets interested in everything, which is why it zigs and zags. It is good at finding items.",
+    "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.",
+    "A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags.",
+    "It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.",
+    "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you've lost something, this Pokémon can likely find it.",
+    "Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.",
+    "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings."
+  ],
+  "evolution_chain": [
+    "zigzagoon",
+    "linoone",
+    "obstagoon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "linoone",
+      "to": "obstagoon"
+    },
+    {
+      "from": "zigzagoon",
+      "to": "linoone"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "zig-zuh-GOON",
+    "ipa": "/zɪɡzəˈɡuːn/"
+  }
+}

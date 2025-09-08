@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 907,
+  "name": "Floragato",
+  "types": [
+    "grass"
+  ],
+  "speed": 83,
+  "description": "Floragato, the Grass Cat Pokémon, and the evolved form of Sprigatito. Able to evolve into Meowscarada. A Grass type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+  ],
+  "evolution_chain": [
+    "sprigatito",
+    "floragato",
+    "meowscarada"
+  ],
+  "evolution_graph": [
+    {
+      "from": "floragato",
+      "to": "meowscarada"
+    },
+    {
+      "from": "sprigatito",
+      "to": "floragato"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "flor-uh-GAH-toh",
+    "ipa": "/ˌflɔɹəˈɡɑːtoʊ/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 924,
+  "name": "Tandemaus",
+  "types": [
+    "normal"
+  ],
+  "speed": 75,
+  "description": "Tandemaus, the Couple Pokémon. Able to evolve into Maushold Family of Three or Maushold Family of Four . A Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+    "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+  ],
+  "evolution_chain": [
+    "tandemaus",
+    "maushold"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tandemaus",
+      "to": "maushold"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TAN-duh-mowse",
+    "ipa": "/ˈtændəmaʊs/"
+  }
+}

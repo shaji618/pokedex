@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 868,
+  "name": "Milcery",
+  "types": [
+    "fairy"
+  ],
+  "speed": 34,
+  "description": "Milcery, the Cream Pokémon. Able to evolve into Alcremie Vanilla Cream . A Fairy type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+    "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+  ],
+  "evolution_chain": [
+    "milcery",
+    "alcremie"
+  ],
+  "evolution_graph": [
+    {
+      "from": "milcery",
+      "to": "alcremie"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MILL-surr-ee",
+    "ipa": "/ˈmɪlsɚiː/"
+  }
+}

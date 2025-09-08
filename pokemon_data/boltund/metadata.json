@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 836,
+  "name": "Boltund",
+  "types": [
+    "electric"
+  ],
+  "speed": 121,
+  "description": "Boltund, the Dog Pokémon, and the evolved form of Yamper. An Electric type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+    "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph."
+  ],
+  "evolution_chain": [
+    "yamper",
+    "boltund"
+  ],
+  "evolution_graph": [
+    {
+      "from": "yamper",
+      "to": "boltund"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BOHL-tund",
+    "ipa": "/ˈbɔːltənd/"
+  }
+}

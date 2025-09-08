@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 887,
+  "name": "Dragapult",
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "speed": 142,
+  "description": "Dragapult, the Stealth Pokémon, and the evolved form of Drakloak. A Dragon and Ghost type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+    "Apparently the Dreepy inside Dragapult's horns eagerly look forward to being launched out at Mach speeds.",
+    "Dragapult can make its whole body transparent by clearing its mind and focusing. Even the Dreepy in Dragapult's horns become invisible.",
+    "The fastest Dragapult of the group is always surrounded by Dreepy that want to fly at sonic speed."
+  ],
+  "evolution_chain": [
+    "dreepy",
+    "drakloak",
+    "dragapult"
+  ],
+  "evolution_graph": [
+    {
+      "from": "drakloak",
+      "to": "dragapult"
+    },
+    {
+      "from": "dreepy",
+      "to": "drakloak"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DRAG-uh-pult",
+    "ipa": "/ˈdɹæɡəpʊlt/"
+  }
+}

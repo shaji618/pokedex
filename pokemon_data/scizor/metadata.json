@@ -1,0 +1,52 @@
+{
+  "pokedex_number": 212,
+  "name": "Scizor",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "speed": 65,
+  "description": "Scizor, the Pincer Pokémon, and the evolved form of Scyther. A Bug and Steel type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+    "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+    "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
+    "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+    "A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+    "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+    "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "This Pokémon's pincers, which contain steel, can crush any hard object it gets ahold of into bits.",
+    "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.",
+    "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
+    "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
+    "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there's nothing left but scraps.",
+    "Bulky pincers account for one third of Scizor's body weight. A single swing of one of these pincers will crush a boulder completely.",
+    "Though its body is slim, Scizor has tremendous attacking power. Even Scizor's muscles are made of metal.",
+    "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel.",
+    "This Pokémon's pincers, which contain steel, can crush any hard object they get ahold of into bits.",
+    "The excess energy that bathes this Pokémon keeps it in constant danger of overflow. It can't sustain a battle over long periods of time.",
+    "Due to the effects of Mega Evolution, its pincers have taken on a more diabolical form, ripping anything they pinch to shreds.",
+    "It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.",
+    "It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear."
+  ],
+  "evolution_chain": [
+    "scyther",
+    "scizor",
+    "kleavor"
+  ],
+  "evolution_graph": [
+    {
+      "from": "scizor",
+      "to": "kleavor"
+    },
+    {
+      "from": "scyther",
+      "to": "scizor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIZ-or",
+    "ipa": "/ˈsɪzɔːɹ/"
+  }
+}

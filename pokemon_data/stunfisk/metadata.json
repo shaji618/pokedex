@@ -1,0 +1,24 @@
+{
+  "pokedex_number": 618,
+  "name": "Stunfisk",
+  "types": [
+    "electric",
+    "ground"
+  ],
+  "speed": 32,
+  "description": "Stunfisk, the Trap Pokémon. A Ground and Electric type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+    "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+    "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
+    "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",
+    "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+    "Living in mud with a high iron content has given it a strong steel body.",
+    "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them."
+  ],
+  "pronunciations": {
+    "phonetic": "STUN-fisk",
+    "ipa": "/ˈstʌnfɪsk/"
+  }
+}

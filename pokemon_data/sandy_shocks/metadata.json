@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 989,
+  "name": "Sandy Shocks",
+  "types": [
+    "electric",
+    "ground"
+  ],
+  "speed": 101,
+  "description": "Sandy Shocks, the Paradox Pokémon. An Electric and Ground type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon's traits match up with a creature shown in an expedition journal.",
+    "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
+  ],
+  "pronunciations": {
+    "phonetic": "san-dee-SHAHKS",
+    "ipa": "/ˈsændiː ˈʃɑːks/"
+  }
+}

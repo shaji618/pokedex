@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 694,
+  "name": "Helioptile",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "speed": 70,
+  "description": "Helioptile, the Generator Pokémon. Able to evolve into Heliolisk. An Electric and Normal type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+    "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+    "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
+    "The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
+  ],
+  "evolution_chain": [
+    "helioptile",
+    "heliolisk"
+  ],
+  "evolution_graph": [
+    {
+      "from": "helioptile",
+      "to": "heliolisk"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "HEE-lee-AHP-tile",
+    "ipa": "/hiːliːˈɑːptaɪl/"
+  }
+}

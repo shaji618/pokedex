@@ -1,0 +1,21 @@
+{
+  "pokedex_number": 1008,
+  "name": "Miraidon",
+  "types": [
+    "dragon",
+    "electric"
+  ],
+  "speed": 135,
+  "description": "Miraidon, the Paradox Pokémon\t. An Electric and Dragon type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
+    "Its characteristics match those of a mysterious object recorded in an old expedition journal as the Iron Serpent.",
+    "It was given the name Miraidon by the professor who discovered it. Its ecology and other details are unknown."
+  ],
+  "pronunciations": {
+    "phonetic": "meer-EYE-dahn",
+    "ipa": "/mɪɹˈaɪdɑːn/"
+  }
+}

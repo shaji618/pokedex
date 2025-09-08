@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 997,
+  "name": "Arctibax",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "speed": 62,
+  "description": "Arctibax, the Ice Fin Pokémon, and the evolved form of Frigibax. Able to evolve into Baxcalibur. A Dragon and Ice type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+    "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax's strong back and legs allow it to pull off this technique."
+  ],
+  "evolution_chain": [
+    "frigibax",
+    "arctibax",
+    "baxcalibur"
+  ],
+  "evolution_graph": [
+    {
+      "from": "arctibax",
+      "to": "baxcalibur"
+    },
+    {
+      "from": "frigibax",
+      "to": "arctibax"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ARK-tih-baks",
+    "ipa": "/ˈɑɹktɪbæks/"
+  }
+}

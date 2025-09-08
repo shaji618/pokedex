@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 288,
+  "name": "Vigoroth",
+  "types": [
+    "normal"
+  ],
+  "speed": 90,
+  "description": "Vigoroth, the Wild Monkey Pokémon, and the evolved form of Slakoth. Able to evolve into Slaking. A Normal type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Vigoroth is always itching and agitated to go on a wild rampage. It simply can't tolerate sitting still for even a minute. This Pokémon's stress level rises if it can't be moving constantly.",
+    "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down.",
+    "It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still.",
+    "It can't keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn't, it can't sleep at night.",
+    "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+    "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+    "Its heartbeat is fast and its blood so agitated that it can't sit still for one second.",
+    "Its heart beats at 10 times its previous rate, so it cannot sit still for even a moment."
+  ],
+  "evolution_chain": [
+    "slakoth",
+    "vigoroth",
+    "slaking"
+  ],
+  "evolution_graph": [
+    {
+      "from": "slakoth",
+      "to": "vigoroth"
+    },
+    {
+      "from": "vigoroth",
+      "to": "slaking"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "VIG-ur-ahth",
+    "ipa": "/ˈvɪɡɚɑːθ/"
+  }
+}

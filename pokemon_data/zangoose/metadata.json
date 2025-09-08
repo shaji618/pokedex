@@ -1,0 +1,25 @@
+{
+  "pokedex_number": 335,
+  "name": "Zangoose",
+  "types": [
+    "normal"
+  ],
+  "speed": 90,
+  "description": "Zangoose, the Cat Ferret Pokémon. A Normal type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Memories of battling its arch-rival Seviper are etched into every cell of Zangoose's body. This Pokémon adroitly dodges attacks with incredible agility.",
+    "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.",
+    "If it comes across a Seviper, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon.",
+    "When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.",
+    "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+    "Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.",
+    "It's Seviper's archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+    "Memories of battling its archrival Seviper are etched into every cell of Zangoose's body. This Pokémon adroitly dodges attacks with incredible agility.",
+    "It has feuded with Seviper for many generations. Its sharp claws are its greatest weapons."
+  ],
+  "pronunciations": {
+    "phonetic": "ZANG-goos",
+    "ipa": "/ˈzæŋɡus/"
+  }
+}

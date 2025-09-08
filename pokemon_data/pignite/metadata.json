@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 499,
+  "name": "Pignite",
+  "types": [
+    "fighting",
+    "fire"
+  ],
+  "speed": 55,
+  "description": "Pignite, the Fire Pig Pokémon, and the evolved form of Tepig. Able to evolve into Emboar. A Fire and Fighting type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+    "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.",
+    "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power."
+  ],
+  "evolution_chain": [
+    "tepig",
+    "pignite",
+    "emboar"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pignite",
+      "to": "emboar"
+    },
+    {
+      "from": "tepig",
+      "to": "pignite"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "pig-NITE",
+    "ipa": "/pɪɡˈnaɪt/"
+  }
+}

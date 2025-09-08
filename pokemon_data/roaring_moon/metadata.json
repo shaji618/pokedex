@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 1005,
+  "name": "Roaring Moon",
+  "types": [
+    "dark",
+    "dragon"
+  ],
+  "speed": 119,
+  "description": "Roaring Moon, the Paradox Pokémon. A Dragon and Dark type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+    "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
+  ],
+  "pronunciations": {
+    "phonetic": "rohr-ing-MOON",
+    "ipa": "/ˌɹɔɹiŋ ˈmuːn/"
+  }
+}

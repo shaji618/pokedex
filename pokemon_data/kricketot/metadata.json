@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 401,
+  "name": "Kricketot",
+  "types": [
+    "bug"
+  ],
+  "speed": 25,
+  "description": "Kricketot, the Cricket Pokémon. Able to evolve into Kricketune. A Bug type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+    "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+    "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+    "When its antennae hit each other, it sounds like the music of a xylophone.",
+    "It chats with others using the sounds of its colliding antennae. These sounds are the hallmarks of fall evenings.",
+    "When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands."
+  ],
+  "evolution_chain": [
+    "kricketot",
+    "kricketune"
+  ],
+  "evolution_graph": [
+    {
+      "from": "kricketot",
+      "to": "kricketune"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KRIK-ih-tot",
+    "ipa": "/ˈkɹɪkətɑːt/"
+  }
+}

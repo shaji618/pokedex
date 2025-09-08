@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 696,
+  "name": "Tyrunt",
+  "types": [
+    "dragon",
+    "rock"
+  ],
+  "speed": 48,
+  "description": "Tyrunt, the Royal Heir Pokémon. Able to evolve into Tyrantrum. A Rock and Dragon type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.",
+    "Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.",
+    "Its large jaw has incredible destructive power. Some theories suggest that its restored form is different from its form of long ago.",
+    "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it's trying to frolic with are gravely injured.",
+    "This is an ancient Pokémon, revived in modern times. It has a violent disposition, and it'll tear apart anything it gets between its hefty jaws.",
+    "This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around."
+  ],
+  "evolution_chain": [
+    "tyrunt",
+    "tyrantrum"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tyrunt",
+      "to": "tyrantrum"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TYE-runt",
+    "ipa": "/ˈtaɪɹʌnt/"
+  }
+}

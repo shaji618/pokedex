@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 554,
+  "name": "Darumaka",
+  "types": [
+    "fire"
+  ],
+  "description": "Darumaka, the Zen Charm Pokémon. Able to evolve into Darmanitan Standard Mode . A Fire type.",
+  "pronunciations": {
+    "phonetic": "DAH-roo-MAH-kuh",
+    "ipa": "/dɑːɹuːˈmɑːkə/"
+  },
+  "pokedex_entries": [
+    "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+    "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+    "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F.",
+    "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+    "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
+    "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.",
+    "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.",
+    "The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights."
+  ],
+  "evolution_chain": [
+    "darumaka",
+    "darmanitan"
+  ],
+  "generation": 5,
+  "evolution_graph": [
+    {
+      "from": "darumaka",
+      "to": "darmanitan"
+    }
+  ]
+}

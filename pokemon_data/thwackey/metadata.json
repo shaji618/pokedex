@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 811,
+  "name": "Thwackey",
+  "types": [
+    "grass"
+  ],
+  "speed": 80,
+  "description": "Thwackey, the Beat Pokémon, and the evolved form of Grookey. Able to evolve into Rillaboom. A Grass type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+    "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent."
+  ],
+  "evolution_chain": [
+    "grookey",
+    "thwackey",
+    "rillaboom"
+  ],
+  "evolution_graph": [
+    {
+      "from": "grookey",
+      "to": "thwackey"
+    },
+    {
+      "from": "thwackey",
+      "to": "rillaboom"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "THWAK-ee",
+    "ipa": "/ˈθwækiː/"
+  }
+}

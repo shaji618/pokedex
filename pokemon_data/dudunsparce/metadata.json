@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 982,
+  "name": "Dudunsparce",
+  "types": [
+    "normal"
+  ],
+  "speed": 55,
+  "description": "Dudunsparce, the Land Snake Pokémon, and the evolved form of Dunsparce. A Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+    "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.",
+    "The gentle Dudunsparce will put Pokémon that wander into its nest onto its back and carry them to the entrance.",
+    "A recent study uncovered that the number of segments a Dudunsparce's body has is determined by the Pokémon's genes."
+  ],
+  "evolution_chain": [
+    "dunsparce",
+    "dudunsparce"
+  ],
+  "evolution_graph": [
+    {
+      "from": "dunsparce",
+      "to": "dudunsparce"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "duh-DUN-sparce",
+    "ipa": "/dəˈdʌnspɑːɹs/"
+  }
+}

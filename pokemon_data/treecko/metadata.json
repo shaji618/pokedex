@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 252,
+  "name": "Treecko",
+  "types": [
+    "grass"
+  ],
+  "speed": 70,
+  "description": "Treecko, the Wood Gecko Pokémon. Able to evolve into Grovyle. A Grass type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+    "Treecko is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+    "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+    "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.",
+    "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+    "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+    "The soles of its feet are covered by countless tiny hooks, enabling it to walk on walls and ceilings."
+  ],
+  "evolution_chain": [
+    "treecko",
+    "grovyle",
+    "sceptile"
+  ],
+  "evolution_graph": [
+    {
+      "from": "grovyle",
+      "to": "sceptile"
+    },
+    {
+      "from": "treecko",
+      "to": "grovyle"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TREE-koh",
+    "ipa": "/ˈtɹiːkoʊ/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 558,
+  "name": "Crustle",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "speed": 45,
+  "description": "Crustle, the Stone Home Pokémon, and the evolved form of Dwebble. A Bug and Rock type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+    "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+    "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+    "This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.",
+    "Its thick claws are its greatest weapons. They're mighty enough to crack Rhyperior's carapace."
+  ],
+  "evolution_chain": [
+    "dwebble",
+    "crustle"
+  ],
+  "evolution_graph": [
+    {
+      "from": "dwebble",
+      "to": "crustle"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KRUS-tul",
+    "ipa": "/ˈkɹʌstəl/"
+  }
+}

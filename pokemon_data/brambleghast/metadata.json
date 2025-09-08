@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 947,
+  "name": "Brambleghast",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "speed": 90,
+  "description": "Brambleghast, the Tumbleweed Pokémon, and the evolved form of Bramblin. A Grass and Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+    "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+  ],
+  "evolution_chain": [
+    "bramblin",
+    "brambleghast"
+  ],
+  "evolution_graph": [
+    {
+      "from": "bramblin",
+      "to": "brambleghast"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BRAM-bull-gast",
+    "ipa": "/ˈbɹæmbəlɡæst/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "pokedex_number": 20,
+  "name": "Raticate",
+  "types": [
+    "normal"
+  ],
+  "speed": 97,
+  "description": "Raticate, the Mouse Pokémon, and the evolved form of Rattata. A Normal type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+    "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+    "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+    "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
+    "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
+    "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.",
+    "A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+    "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
+    "Its hind feet are webbed, so it's a strong swimmer. It can cross rivers and sometimes even oceans.",
+    "Its disposition is far more violent than its looks would suggest. Don't let your hand get too close to its face, as it could bite your hand clean off.",
+    "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+    "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "It whittles down its constantly growing fangs by gnawing on hard things. It can chew apart cinder block walls.",
+    "It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.",
+    "This gourmet Pokémon is particular about the taste and freshness of its food. Restaurants where Raticate live have a good reputation.",
+    "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.",
+    "It commands a nest of Rattata. Different nests don't get along, whipping up severe fights over feeding grounds.",
+    "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare."
+  ],
+  "evolution_chain": [
+    "rattata",
+    "raticate"
+  ],
+  "evolution_graph": [
+    {
+      "from": "rattata",
+      "to": "raticate"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "RAT-ih-kate",
+    "ipa": "/ˈɹæɾɪkeɪt/"
+  }
+}

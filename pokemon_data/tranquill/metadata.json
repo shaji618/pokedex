@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 520,
+  "name": "Tranquill",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 65,
+  "description": "Tranquill, the Wild Pigeon Pokémon, and the evolved form of Pidove. Able to evolve into Unfezant. A Normal and Flying type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It can return to its Trainer's location regardless of the distance separating them.",
+    "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+    "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+    "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
+    "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners."
+  ],
+  "evolution_chain": [
+    "pidove",
+    "tranquill",
+    "unfezant"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pidove",
+      "to": "tranquill"
+    },
+    {
+      "from": "tranquill",
+      "to": "unfezant"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TRAN-kwil",
+    "ipa": "/ˈtɹæŋkwɪl/"
+  }
+}

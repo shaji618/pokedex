@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 913,
+  "name": "Quaxwell",
+  "types": [
+    "water"
+  ],
+  "speed": 65,
+  "description": "Quaxwell, the Practicing Pokémon, and the evolved form of Quaxly. Able to evolve into Quaquaval. A Water type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
+    "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+  ],
+  "evolution_chain": [
+    "quaxly",
+    "quaxwell",
+    "quaquaval"
+  ],
+  "evolution_graph": [
+    {
+      "from": "quaxly",
+      "to": "quaxwell"
+    },
+    {
+      "from": "quaxwell",
+      "to": "quaquaval"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KWAKS-well",
+    "ipa": "/ˈkwækswɛl/"
+  }
+}

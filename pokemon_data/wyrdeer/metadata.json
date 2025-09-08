@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 899,
+  "name": "Wyrdeer",
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "speed": 65,
+  "description": "Wyrdeer, the Big Horn Pokémon, and the evolved form of Stantler. A Normal and Psychic type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+  ],
+  "evolution_chain": [
+    "stantler",
+    "wyrdeer"
+  ],
+  "evolution_graph": [
+    {
+      "from": "stantler",
+      "to": "wyrdeer"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "WEER-deer",
+    "ipa": "/ˈwɪɹdɪɹ/"
+  }
+}

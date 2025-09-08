@@ -1,0 +1,24 @@
+{
+  "pokedex_number": 483,
+  "name": "Dialga",
+  "types": [
+    "dragon",
+    "steel"
+  ],
+  "speed": 90,
+  "description": "Dialga, the Temporal Pokémon. A Steel and Dragon type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+    "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
+    "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.",
+    "This Pokémon is spoken of in legend. It is said that time began moving when Dialga was born.",
+    "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
+    "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form."
+  ],
+  "pronunciations": {
+    "phonetic": "dee-AHL-guh",
+    "ipa": "/diːˈɑːlɡə/"
+  }
+}

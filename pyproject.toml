@@ -1,0 +1,176 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pokedex"
+version = "1.0.0"
+description = "Complete Pokémon Experience Suite with AI classification and interactive games"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Pokedex Team"}
+]
+keywords = ["pokemon", "machine-learning", "pygame", "computer-vision"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Games/Entertainment",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+# Dependencies from requirements.txt
+dependencies = [
+    "torch>=2.2.0",
+    "transformers>=4.37.0",
+    "Pillow>=10.2.0",
+    "pygame>=2.5.2", 
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.3",
+    "lxml>=5.1.0",
+    "opencv-python>=4.9.0",
+    "numpy>=1.26.0",
+    "pydub>=0.25.1",
+    "moviepy>=1.0.3",
+    "ipython>=8.21.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.2.0",
+    "pre-commit>=3.6.0",
+    "pytest>=8.0.0",
+    "black>=24.0.0",
+]
+
+# Entry points for running the applications
+[project.scripts]
+pokedex-launcher = "launcher:main"
+pokedex-scanner = "src.apps.scanner.app:main"
+pokedex-browser = "src.apps.pokedex.app:main"
+pokedex-id-card = "src.apps.id_card.app:main"
+pokedex-game = "src.apps.whos_that_pokemon.app:main"
+
+[project.urls]
+Homepage = "https://github.com/yourname/pokedex"
+Repository = "https://github.com/yourname/pokedex"
+Issues = "https://github.com/yourname/pokedex/issues"
+
+# setuptools configuration
+[tool.setuptools]
+packages = ["src", "src.utils", "src.apps", "scripts", "training"]
+include-package-data = true
+
+[tool.setuptools.package-dir]
+"" = "."
+
+[tool.setuptools.package-data]
+"src" = ["**/*.png", "**/*.jpg", "**/*.gif", "**/*.mp3", "**/*.ttf", "**/*.json"]
+"pokemon_data" = ["**/*.json", "**/*.png", "**/*.jpg", "**/*.mp3"]
+"voices" = ["**/*.wav", "**/*.mp3"]
+
+# Ruff configuration - consolidated from ruff.toml
+# NOTE: Ruff cannot detect unused function definitions due to Python's dynamic nature.
+# Periodic manual review is required to identify dead functions (see Story 1.1 implementation).
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+# Enable comprehensive rule categories
+select = [
+    "E",    # pycodestyle errors  
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes (includes F401 unused imports, F841 unused variables)
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+    "SIM",  # flake8-simplify
+    "I",    # isort (import sorting)
+    "N",    # pep8-naming
+    "D",    # pydocstring
+    "TID",  # flake8-tidy-imports
+    "RUF",  # Ruff-specific rules
+    "ANN",  # flake8-annotations (type hints)
+    "S",    # flake8-bandit (security)
+    "C4",   # flake8-comprehensions
+    "DTZ",  # flake8-datetimez
+    "T20",  # flake8-print (catch print statements)
+    "PYI",  # flake8-pyi (stub files)
+    "ARG",  # flake8-unused-arguments
+]
+
+# Disable overly strict rules for this project - ENFORCE FORMATTING!
+ignore = [
+    "D100", "D101", "D102", "D103", "D104", "D105", "D107",  # Docstring requirements
+    "E501",   # Line too long (handled by formatter) 
+    "N806",   # Variable naming (pygame conventions)
+    "S101",   # Assert usage (common in games)
+    "S311",   # Random generators (not crypto)
+    "DTZ005", "DTZ007", "DTZ011", # Timezone-naive datetime (games don't need timezones)
+    "RUF001", "RUF003", # Ambiguous characters in emojis and comments
+    "ANN401", # Any types are acceptable for ML models and generic interfaces
+    "SIM102", # Nested if statements are sometimes more readable
+    "ARG001", # Unused args are common in interfaces and callbacks (NOTE: enabled for pokemon_card.py)
+    "B007",   # Loop variables not used are common in iteration patterns
+    "B008",   # Function calls in argument defaults
+    # NOTE: E302, E303, W292 are NOT ignored - we enforce strict formatting!
+]
+
+# Exclude directories and files
+exclude = [
+    ".git",
+    "__pycache__",
+    ".venv",
+    ".env", 
+    "build",
+    "dist",
+    "pokemon_data",
+    "training/predict_vit.py",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Per-file rule exceptions
+"src/apps/*/app.py" = ["S110"]
+"scripts/*.py" = ["S603", "S607", "S110", "S112", "ANN401"]
+"training/*.py" = ["N812", "S301", "S603", "S110", "S112", "ANN401"]
+"src/utils/model_util.py" = ["S110", "ANN401"]
+"src/utils/focus_manager.py" = ["ANN401"]
+"src/utils/tts_util.py" = ["S603", "S110", "S112"]
+"src/utils/font_util.py" = ["S112"]
+"src/utils/pokemon_card.py" = ["S110", "S112"]  # ARG001 enabled for strict unused argument checking
+"src/utils/audio_util.py" = ["S110"]
+"src/utils/play_button_util.py" = ["S110"]
+"src/apps/id_card/voice_selector.py" = ["S112"]
+"src/utils/*.py" = ["S110"]
+"lint.py" = ["S603"]
+"tests/*.py" = ["S101", "ANN401", "T201"]
+
+# Import configuration  
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "all"
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.isort]
+known-first-party = ["src", "scripts", "training"]
+force-single-line = false
+lines-after-imports = 2
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+
+[tool.ruff.lint.pep8-naming]
+# Allow pygame naming conventions
+classmethod-decorators = ["classmethod", "pygame.sprite.Sprite.add_internal"]

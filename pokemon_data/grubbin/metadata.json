@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 736,
+  "name": "Grubbin",
+  "types": [
+    "bug"
+  ],
+  "speed": 46,
+  "description": "Grubbin, the Larva Pokémon. Able to evolve into Charjabug. A Bug type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+    "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
+    "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
+    "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
+    "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+    "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap."
+  ],
+  "evolution_chain": [
+    "grubbin",
+    "charjabug",
+    "vikavolt"
+  ],
+  "evolution_graph": [
+    {
+      "from": "charjabug",
+      "to": "vikavolt"
+    },
+    {
+      "from": "grubbin",
+      "to": "charjabug"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GRUB-in",
+    "ipa": "/ˈɡɹʌbɪn/"
+  }
+}

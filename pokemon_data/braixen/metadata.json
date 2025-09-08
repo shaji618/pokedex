@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 654,
+  "name": "Braixen",
+  "types": [
+    "fire"
+  ],
+  "speed": 73,
+  "description": "Braixen, the Fox Pokémon, and the evolved form of Fennekin. Able to evolve into Delphox. A Fire type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+    "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+  ],
+  "evolution_chain": [
+    "fennekin",
+    "braixen",
+    "delphox"
+  ],
+  "evolution_graph": [
+    {
+      "from": "braixen",
+      "to": "delphox"
+    },
+    {
+      "from": "fennekin",
+      "to": "braixen"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BRAYK-sin",
+    "ipa": "/ˈbɹeɪksɪn/"
+  }
+}

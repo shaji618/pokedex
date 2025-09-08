@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 1006,
+  "name": "Iron Valiant",
+  "types": [
+    "fairy",
+    "fighting"
+  ],
+  "speed": 116,
+  "description": "Iron Valiant, the Paradox Pokémon. A Fairy and Fighting type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It has some similarities to a mad scientist's invention covered in a paranormal magazine.",
+    "It's possible that this is the object listed as Iron Valiant in a certain expedition journal."
+  ],
+  "pronunciations": {
+    "phonetic": "eye-urn-VAL-yunt",
+    "ipa": "/ˌaɪɹn ˈvæljənt/"
+  }
+}

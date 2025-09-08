@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 825,
+  "name": "Dottler",
+  "types": [
+    "bug",
+    "psychic"
+  ],
+  "speed": 30,
+  "description": "Dottler, the Radome Pokémon, and the evolved form of Blipbug. Able to evolve into Orbeetle. A Bug and Psychic type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+    "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+  ],
+  "evolution_chain": [
+    "blipbug",
+    "dottler",
+    "orbeetle"
+  ],
+  "evolution_graph": [
+    {
+      "from": "blipbug",
+      "to": "dottler"
+    },
+    {
+      "from": "dottler",
+      "to": "orbeetle"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DOT-lurr",
+    "ipa": "/ˈdɑːtlɚ/"
+  }
+}

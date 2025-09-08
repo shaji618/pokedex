@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 853,
+  "name": "Grapploct",
+  "types": [
+    "fighting"
+  ],
+  "speed": 42,
+  "description": "Grapploct, the Jujitsu Pokémon, and the evolved form of Clobbopus. A Fighting type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
+    "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
+  ],
+  "evolution_chain": [
+    "clobbopus",
+    "grapploct"
+  ],
+  "evolution_graph": [
+    {
+      "from": "clobbopus",
+      "to": "grapploct"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GRAP-lokt",
+    "ipa": "/ˈɡɹæplɑːkt/"
+  }
+}

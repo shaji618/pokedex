@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 938,
+  "name": "Tadbulb",
+  "types": [
+    "electric"
+  ],
+  "speed": 45,
+  "description": "Tadbulb, the Eletadpole Pokémon. Able to evolve into Bellibolt. An Electric type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+    "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+  ],
+  "evolution_chain": [
+    "tadbulb",
+    "bellibolt"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tadbulb",
+      "to": "bellibolt"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TAD-bulb",
+    "ipa": "/ˈtædbʊlb/"
+  }
+}

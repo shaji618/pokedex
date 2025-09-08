@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 984,
+  "name": "Great Tusk",
+  "types": [
+    "fighting",
+    "ground"
+  ],
+  "speed": 87,
+  "description": "Great Tusk, the Paradox Pokémon. A Ground and Fighting type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+    "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+  ],
+  "pronunciations": {
+    "phonetic": "grate-TUSK",
+    "ipa": "/ˌɡɹɛɪt ˈtʌsk/"
+  }
+}

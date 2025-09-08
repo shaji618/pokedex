@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 918,
+  "name": "Spidops",
+  "types": [
+    "bug"
+  ],
+  "speed": 35,
+  "description": "Spidops, the Trap Pokémon, and the evolved form of Tarountula. A Bug type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+    "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+  ],
+  "evolution_chain": [
+    "tarountula",
+    "spidops"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tarountula",
+      "to": "spidops"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SPIE-dahps",
+    "ipa": "/ˈspaɪdɑps/"
+  }
+}

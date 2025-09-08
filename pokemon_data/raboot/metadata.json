@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 814,
+  "name": "Raboot",
+  "types": [
+    "fire"
+  ],
+  "speed": 94,
+  "description": "Raboot, the Rabbit Pokémon, and the evolved form of Scorbunny. Able to evolve into Cinderace. A Fire type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+    "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+  ],
+  "evolution_chain": [
+    "scorbunny",
+    "raboot",
+    "cinderace"
+  ],
+  "evolution_graph": [
+    {
+      "from": "raboot",
+      "to": "cinderace"
+    },
+    {
+      "from": "scorbunny",
+      "to": "raboot"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "RAB-oot",
+    "ipa": "/ˈɹæbuːt/"
+  }
+}

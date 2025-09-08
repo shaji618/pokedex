@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 519,
+  "name": "Pidove",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 43,
+  "description": "Pidove, the Tiny Pigeon Pokémon. Able to evolve into Tranquill. A Normal and Flying type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+    "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+    "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+    "Where people go, these Pokémon follow. If you're scattering food for them, be careful— several hundred of them can gather at once.",
+    "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+  ],
+  "evolution_chain": [
+    "pidove",
+    "tranquill",
+    "unfezant"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pidove",
+      "to": "tranquill"
+    },
+    {
+      "from": "tranquill",
+      "to": "unfezant"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "pee-DUV",
+    "ipa": "/piːˈdʌv/"
+  }
+}

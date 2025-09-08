@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 608,
+  "name": "Lampent",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "speed": 55,
+  "description": "Lampent, the Lamp Pokémon, and the evolved form of Litwick. Able to evolve into Chandelure. A Ghost and Fire type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+    "It arrives near the moment of death and steals spirit from the body.",
+    "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+    "This Pokémon appears just before someone passes away, so it's feared as an emissary of death.",
+    "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them."
+  ],
+  "evolution_chain": [
+    "litwick",
+    "lampent",
+    "chandelure"
+  ],
+  "evolution_graph": [
+    {
+      "from": "lampent",
+      "to": "chandelure"
+    },
+    {
+      "from": "litwick",
+      "to": "lampent"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "LAM-pent",
+    "ipa": "/ˈlæmpɛnt/"
+  }
+}

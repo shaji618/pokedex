@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 274,
+  "name": "Nuzleaf",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "speed": 60,
+  "description": "Nuzleaf, the Wily Pokémon, and the evolved form of Seedot. Able to evolve into Shiftry. A Grass and Dark type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched.",
+    "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
+    "They live in holes bored in large trees. The sound of Nuzleaf's grass flute fills listeners with dread.",
+    "A forest-dwelling Pokémon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.",
+    "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+    "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+    "The sound of its grass flute makes its listeners uneasy. It lives deep in the forest."
+  ],
+  "evolution_chain": [
+    "seedot",
+    "nuzleaf",
+    "shiftry"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nuzleaf",
+      "to": "shiftry"
+    },
+    {
+      "from": "seedot",
+      "to": "nuzleaf"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "NUZ-leef",
+    "ipa": "/ˈnʌzliːf/"
+  }
+}

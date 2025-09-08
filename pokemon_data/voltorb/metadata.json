@@ -1,0 +1,41 @@
+{
+  "pokedex_number": 100,
+  "name": "Voltorb",
+  "types": [
+    "electric"
+  ],
+  "speed": 100,
+  "description": "Voltorb, the Ball Pokémon. Able to evolve into Electrode. An Electric type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Usually found in power plants. Easily mistaken for a POKé Ball, they have zapped many people.",
+    "It is said to camouflage itself as a POKé Ball. It will self-destruct with very little stimulus.",
+    "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+    "It was discovered when POKé Balls were introduced. It is said that there is some connection.",
+    "During the study of this Pokémon, it was discovered that its components are not found in nature.",
+    "Voltorb was first sighted at a company that manufactures POKé Balls. The link between that sighting and the fact that this Pokémon looks very similar to a POKé Ball remains a mystery.",
+    "Voltorb is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a POKé Ball was exposed to a powerful pulse of energy.",
+    "A life-form whose identity is unknown. It is said to Screech or suddenly Selfdestruct.",
+    "Usually found in power plants. Easily mistaken for a POKé Ball, it has zapped many people.",
+    "It bears an uncanny and unexplained resemblance to a POKé Ball. Because it explodes at the slightest shock, even veteran Trainers treat it with caution.",
+    "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+    "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.",
+    "Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
+    "It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+    "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
+  ],
+  "evolution_chain": [
+    "voltorb",
+    "electrode"
+  ],
+  "evolution_graph": [
+    {
+      "from": "voltorb",
+      "to": "electrode"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "VOHL-torb",
+    "ipa": "/ˈvɔːltɔːɹb/"
+  }
+}

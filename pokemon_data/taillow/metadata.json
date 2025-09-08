@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 276,
+  "name": "Taillow",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 85,
+  "description": "Taillow, the Tiny Swallow Pokémon. Able to evolve into Swellow. A Normal and Flying type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+    "Taillow is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
+    "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+    "Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.",
+    "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+    "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey.",
+    "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests."
+  ],
+  "evolution_chain": [
+    "taillow",
+    "swellow"
+  ],
+  "evolution_graph": [
+    {
+      "from": "taillow",
+      "to": "swellow"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TAY-loh",
+    "ipa": "/ˈteɪloʊ/"
+  }
+}

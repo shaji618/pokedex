@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 810,
+  "name": "Grookey",
+  "types": [
+    "grass"
+  ],
+  "speed": 65,
+  "description": "Grookey, the Chimp Pokémon. Able to evolve into Thwackey. A Grass type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+    "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+  ],
+  "evolution_chain": [
+    "grookey",
+    "thwackey",
+    "rillaboom"
+  ],
+  "evolution_graph": [
+    {
+      "from": "grookey",
+      "to": "thwackey"
+    },
+    {
+      "from": "thwackey",
+      "to": "rillaboom"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GROO-kee",
+    "ipa": "/ˈɡɹuːkiː/"
+  }
+}

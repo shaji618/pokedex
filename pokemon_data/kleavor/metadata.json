@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 900,
+  "name": "Kleavor",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "speed": 85,
+  "description": "Kleavor, the Axe Pokémon, and the evolved form of Scyther. A Bug and Rock type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee."
+  ],
+  "evolution_chain": [
+    "scyther",
+    "scizor",
+    "kleavor"
+  ],
+  "evolution_graph": [
+    {
+      "from": "scizor",
+      "to": "kleavor"
+    },
+    {
+      "from": "scyther",
+      "to": "scizor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KLEE-vohr",
+    "ipa": "/ˈkliːvɔːɹ/"
+  }
+}

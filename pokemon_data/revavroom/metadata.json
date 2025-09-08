@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 966,
+  "name": "Revavroom",
+  "types": [
+    "poison",
+    "steel"
+  ],
+  "speed": 90,
+  "description": "Revavroom, the Multi-Cyl Pokémon\t, and the evolved form of Varoom. A Steel and Poison type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.",
+    "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+  ],
+  "evolution_chain": [
+    "varoom",
+    "revavroom"
+  ],
+  "evolution_graph": [
+    {
+      "from": "varoom",
+      "to": "revavroom"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "REV-uh-vroom",
+    "ipa": "/ˈɹɛvəvɹuːm/"
+  }
+}

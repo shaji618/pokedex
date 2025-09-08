@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 495,
+  "name": "Snivy",
+  "types": [
+    "grass"
+  ],
+  "speed": 63,
+  "description": "Snivy, the Grass Snake Pokémon. Able to evolve into Servine. A Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+    "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+    "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands."
+  ],
+  "evolution_chain": [
+    "snivy",
+    "servine",
+    "serperior"
+  ],
+  "evolution_graph": [
+    {
+      "from": "servine",
+      "to": "serperior"
+    },
+    {
+      "from": "snivy",
+      "to": "servine"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SNYE-vee",
+    "ipa": "/ˈsnaɪviː/"
+  }
+}

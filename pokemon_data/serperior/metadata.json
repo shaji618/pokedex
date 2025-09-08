@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 497,
+  "name": "Serperior",
+  "types": [
+    "grass"
+  ],
+  "speed": 113,
+  "description": "Serperior, the Regal Pokémon, and the evolved form of Servine. A Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",
+    "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.",
+    "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes."
+  ],
+  "evolution_chain": [
+    "snivy",
+    "servine",
+    "serperior"
+  ],
+  "evolution_graph": [
+    {
+      "from": "servine",
+      "to": "serperior"
+    },
+    {
+      "from": "snivy",
+      "to": "servine"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "sur-PEER-ee-ur",
+    "ipa": "/sɚˈpɪɹiːɚ/"
+  }
+}

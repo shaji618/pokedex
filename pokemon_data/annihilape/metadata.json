@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 979,
+  "name": "Annihilape",
+  "types": [
+    "fighting",
+    "ghost"
+  ],
+  "speed": 90,
+  "description": "Annihilape, the Rage Monkey Pokémon, and the evolved form of Primeape. A Fighting and Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
+    "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
+  ],
+  "evolution_chain": [
+    "mankey",
+    "primeape",
+    "annihilape"
+  ],
+  "evolution_graph": [
+    {
+      "from": "mankey",
+      "to": "primeape"
+    },
+    {
+      "from": "primeape",
+      "to": "annihilape"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "uh-NYE-uh-lape",
+    "ipa": "/əˈnaɪəleɪp/"
+  }
+}

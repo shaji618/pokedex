@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 253,
+  "name": "Grovyle",
+  "types": [
+    "grass"
+  ],
+  "speed": 95,
+  "description": "Grovyle, the Wood Gecko Pokémon, and the evolved form of Treecko. Able to evolve into Sceptile. A Grass type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
+    "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
+    "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+    "Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.",
+    "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+    "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility."
+  ],
+  "evolution_chain": [
+    "treecko",
+    "grovyle",
+    "sceptile"
+  ],
+  "evolution_graph": [
+    {
+      "from": "grovyle",
+      "to": "sceptile"
+    },
+    {
+      "from": "treecko",
+      "to": "grovyle"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GROH-vile",
+    "ipa": "/ˈɡɹoʊvaɪl/"
+  }
+}

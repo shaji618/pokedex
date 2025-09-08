@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 817,
+  "name": "Drizzile",
+  "types": [
+    "water"
+  ],
+  "speed": 90,
+  "description": "Drizzile, the Water Lizard Pokémon, and the evolved form of Sobble. Able to evolve into Inteleon. A Water type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+    "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+  ],
+  "evolution_chain": [
+    "sobble",
+    "drizzile",
+    "inteleon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "drizzile",
+      "to": "inteleon"
+    },
+    {
+      "from": "sobble",
+      "to": "drizzile"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DRIZ-ile",
+    "ipa": "/ˈdɹɪzaɪl/"
+  }
+}

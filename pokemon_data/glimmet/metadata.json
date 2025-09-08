@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 969,
+  "name": "Glimmet",
+  "types": [
+    "poison",
+    "rock"
+  ],
+  "speed": 60,
+  "description": "Glimmet, the Ore Pokémon. Able to evolve into Glimmora. A Rock and Poison type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+    "Glimmet's toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+  ],
+  "evolution_chain": [
+    "glimmet",
+    "glimmora"
+  ],
+  "evolution_graph": [
+    {
+      "from": "glimmet",
+      "to": "glimmora"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GLIM-it",
+    "ipa": "/ˈɡlɪmət/"
+  }
+}

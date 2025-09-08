@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 680,
+  "name": "Doublade",
+  "types": [
+    "ghost",
+    "steel"
+  ],
+  "speed": 35,
+  "description": "Doublade, the Sword Pokémon, and the evolved form of Honedge. Able to evolve into Aegislash Shield Forme . A Steel and Ghost type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
+    "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+    "Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.",
+    "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey."
+  ],
+  "evolution_chain": [
+    "honedge",
+    "doublade",
+    "aegislash"
+  ],
+  "evolution_graph": [
+    {
+      "from": "doublade",
+      "to": "aegislash"
+    },
+    {
+      "from": "honedge",
+      "to": "doublade"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DUH-blade",
+    "ipa": "/ˈdʌbleɪd/"
+  }
+}

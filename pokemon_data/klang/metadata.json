@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 600,
+  "name": "Klang",
+  "types": [
+    "steel"
+  ],
+  "description": "Klang, the Gear Pokémon, and the evolved form of Klink. Able to evolve into Klinklang. A Steel type.",
+  "pronunciations": {
+    "phonetic": "KLANG",
+    "ipa": "/ˈklæŋ/"
+  },
+  "pokedex_entries": [
+    "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+    "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+    "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+    "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
+    "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology."
+  ],
+  "evolution_chain": [
+    "klink",
+    "klang",
+    "klinklang"
+  ],
+  "generation": 5,
+  "evolution_graph": [
+    {
+      "from": "klang",
+      "to": "klinklang"
+    },
+    {
+      "from": "klink",
+      "to": "klang"
+    }
+  ]
+}

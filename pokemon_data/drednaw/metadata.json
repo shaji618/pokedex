@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 834,
+  "name": "Drednaw",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "speed": 74,
+  "description": "Drednaw, the Bite Pokémon, and the evolved form of Chewtle. A Water and Rock type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
+    "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+    "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",
+    "Drednaw lurks along the shoreline. When prey come to drink water, Drednaw stretches its neck out and chomps down on them.",
+    "It responded to Gigantamax energy by becoming bipedal. First it comes crashing down on foes, and then it finishes them off with its massive jaws.",
+    "In the Galar region, there's a tale about this Pokémon chewing up a mountain and using the rubble to stop a flood."
+  ],
+  "evolution_chain": [
+    "chewtle",
+    "drednaw"
+  ],
+  "evolution_graph": [
+    {
+      "from": "chewtle",
+      "to": "drednaw"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DRED-nah",
+    "ipa": "/ˈdɹɛdnɑː/"
+  }
+}

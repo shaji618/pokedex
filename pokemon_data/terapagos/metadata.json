@@ -1,0 +1,14 @@
+{
+  "pokedex_number": 1024,
+  "name": "Terapagos",
+  "types": [
+    "normal"
+  ],
+  "speed": 60,
+  "description": "Terapagos, the Tera Pokémon. A Normal type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "turr-AHP-uh-gohs",
+    "ipa": "/tɚˈɑːpəɡoʊs/"
+  }
+}

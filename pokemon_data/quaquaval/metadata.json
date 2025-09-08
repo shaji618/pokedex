@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 914,
+  "name": "Quaquaval",
+  "types": [
+    "fighting",
+    "water"
+  ],
+  "speed": 85,
+  "description": "Quaquaval, the Dancer Pokémon, and the evolved form of Quaxwell. A Water and Fighting type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
+    "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes."
+  ],
+  "evolution_chain": [
+    "quaxly",
+    "quaxwell",
+    "quaquaval"
+  ],
+  "evolution_graph": [
+    {
+      "from": "quaxly",
+      "to": "quaxwell"
+    },
+    {
+      "from": "quaxwell",
+      "to": "quaquaval"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KWA-kwuh-vahl",
+    "ipa": "/ˈkwækwəvɑːl/"
+  }
+}

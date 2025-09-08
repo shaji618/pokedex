@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 101,
+  "name": "Electrode",
+  "types": [
+    "electric"
+  ],
+  "speed": 150,
+  "description": "Electrode, the Ball Pokémon, and the evolved form of Voltorb. An Electric type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+    "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+    "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+    "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+    "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+    "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+    "One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+    "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+    "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+    "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+    "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.",
+    "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts."
+  ],
+  "evolution_chain": [
+    "voltorb",
+    "electrode"
+  ],
+  "evolution_graph": [
+    {
+      "from": "voltorb",
+      "to": "electrode"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ee-LECK-trode",
+    "ipa": "/ɪˈlɛktɹoʊd/"
+  }
+}

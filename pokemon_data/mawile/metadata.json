@@ -1,0 +1,27 @@
+{
+  "pokedex_number": 303,
+  "name": "Mawile",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "description": "Mawile, the Deceiver Pokémon. A Steel and Fairy type.",
+  "pronunciations": {
+    "phonetic": "MAH-wile",
+    "ipa": "/ˈmɑːwaɪl/"
+  },
+  "pokedex_entries": [
+    "Mawile's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws.",
+    "Don't be taken in by this Pokémon's cute face - it's very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+    "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+    "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+    "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+    "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+    "Don't be taken in by this Pokémon's cute face—it's very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+    "A cunning and terrifying Pokémon, its cuteness makes opponents let down their guard—and then it swallows them whole with its huge jaws.",
+    "It has two mouths. The big jaws on the back of its head can't taste anything, so that's the mouth it uses to eat foods it doesn't like.",
+    "It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.",
+    "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."
+  ],
+  "generation": 3
+}

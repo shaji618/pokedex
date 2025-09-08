@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 501,
+  "name": "Oshawott",
+  "types": [
+    "water"
+  ],
+  "speed": 45,
+  "description": "Oshawott, the Sea Otter Pokémon. Able to evolve into Dewott. A Water type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+    "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
+    "The scalchop on its stomach isn't just used for battle--it can be used to break open hard berries as well.",
+    "The scalchop on its stomach isn't just used for battle—it can be used to break open hard berries as well.",
+    "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name \"scalchop.\""
+  ],
+  "evolution_chain": [
+    "oshawott",
+    "dewott",
+    "samurott"
+  ],
+  "evolution_graph": [
+    {
+      "from": "dewott",
+      "to": "samurott"
+    },
+    {
+      "from": "oshawott",
+      "to": "dewott"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "AH-shuh-waht",
+    "ipa": "/ˈɑːʃəwɑːt/"
+  }
+}

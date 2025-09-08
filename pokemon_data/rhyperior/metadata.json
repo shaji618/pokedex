@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 464,
+  "name": "Rhyperior",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "speed": 40,
+  "description": "Rhyperior, the Drill Pokémon, and the evolved form of Rhydon. A Ground and Rock type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+    "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+    "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
+    "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",
+    "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
+    "It puts rocks in holes in its palms and uses its muscles to shoot them. On rare occasions, the Pokémon even shoots out Geodude.",
+    "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch."
+  ],
+  "evolution_chain": [
+    "rhyhorn",
+    "rhydon",
+    "rhyperior"
+  ],
+  "evolution_graph": [
+    {
+      "from": "rhydon",
+      "to": "rhyperior"
+    },
+    {
+      "from": "rhyhorn",
+      "to": "rhydon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "rye-PEER-ee-urr",
+    "ipa": "/ˈɹɑːɪpɪɹiːɚ/"
+  }
+}

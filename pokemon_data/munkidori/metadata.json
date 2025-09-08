@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1015,
+  "name": "Munkidori",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "speed": 106,
+  "description": "Munkidori, the Retainer Pokémon. A Poison and Psychic type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "munk-ee-DOHR-ee",
+    "ipa": "/ˌmʌŋkiːˈdɔːɹiː/"
+  }
+}

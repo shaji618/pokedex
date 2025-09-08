@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 804,
+  "name": "Naganadel",
+  "types": [
+    "dragon",
+    "poison"
+  ],
+  "speed": 121,
+  "description": "Naganadel, the Poison Pin Pokémon, and the evolved form of Poipole. A Poison and Dragon type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+    "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive."
+  ],
+  "evolution_chain": [
+    "poipole",
+    "naganadel"
+  ],
+  "evolution_graph": [
+    {
+      "from": "poipole",
+      "to": "naganadel"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "NAH-guh-NAH-dull",
+    "ipa": "/ˌnɑːgəˈnɑːdəl/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 285,
+  "name": "Shroomish",
+  "types": [
+    "grass"
+  ],
+  "speed": 35,
+  "description": "Shroomish, the Mushroom Pokémon. Able to evolve into Breloom. A Grass type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.",
+    "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon's spores are so toxic, they make trees and weeds wilt.",
+    "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+    "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many Shroomish feasting on composted soil.",
+    "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+    "If it senses danger, it scatters spores from the top of its head to protect itself.",
+    "It spouts poison spores from the top of its head. These spores cause pain all over the body if inhaled."
+  ],
+  "evolution_chain": [
+    "shroomish",
+    "breloom"
+  ],
+  "evolution_graph": [
+    {
+      "from": "shroomish",
+      "to": "breloom"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SHROO-mish",
+    "ipa": "/ˈʃɹuːmɪʃ/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "pokedex_number": 52,
+  "name": "Meowth",
+  "types": [
+    "normal"
+  ],
+  "speed": 90,
+  "description": "Meowth, the Scratch Cat Pokémon. Able to evolve into Persian. A Normal type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+    "Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.",
+    "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
+    "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
+    "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
+    "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+    "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+    "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+    "Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.",
+    "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+    "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.",
+    "It loves shiny things. It often fights with Murkrow over prey they're both trying to catch.",
+    "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.",
+    "It loves coins, so if you give it one, you can make friends with Meowth easily. But it's fickle, so you can't count on that friendship lasting.",
+    "Appears to be more active at night. It loves round and shiny things. It can't stop itself from picking them up.",
+    "It loves to collect shiny things. If it's in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
+    "It washes its face regularly to keep the coin on its forehead spotless. It doesn't get along with Galarian Meowth.",
+    "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
+    "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+    "The pattern that has appeared on its giant coin is thought to be the key to unlocking the secrets of the Dynamax phenomenon.",
+    "Its body has grown incredibly long and the coin on its forehead has grown incredibly large—all thanks to Gigantamax power.",
+    "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
+    "When its delicate pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.",
+    "It's impulsive, selfish, and fickle. It's very popular with some Trainers who like giving it the attention it needs.",
+    "A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.",
+    "Highly intelligent and prideful, it's famously difficult to handle—but that's also a reason for its popularity.",
+    "It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.",
+    "Deeply proud and keenly smart, this Pokémon moves with cunning during battle and relentlessly attacks enemies' weak points.",
+    "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
+    "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth."
+  ],
+  "evolution_chain": [
+    "meowth",
+    "persian",
+    "perrserker"
+  ],
+  "evolution_graph": [
+    {
+      "from": "meowth",
+      "to": "perrserker"
+    },
+    {
+      "from": "meowth",
+      "to": "persian"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "mee-OWTH",
+    "ipa": "/miːˈaʊθ/"
+  }
+}

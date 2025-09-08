@@ -1,0 +1,49 @@
+{
+  "pokedex_number": 6,
+  "name": "Charizard",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "speed": 100,
+  "description": "Charizard, the Flame Pokémon, and the evolved form of Charmeleon. A Fire and Flying type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
+    "If Charizard becomes furious, the flame at the tip of its tail flares up in a whitish-blue color.",
+    "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
+    "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle.",
+    "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+    "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+    "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+    "If Charizard becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
+    "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+    "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tails burns more intensely.",
+    "This colossal, flame-winged figure of a Charizard was brought about by Gigantamax energy.",
+    "The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.",
+    "The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.",
+    "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter."
+  ],
+  "evolution_chain": [
+    "charmander",
+    "charmeleon",
+    "charizard"
+  ],
+  "evolution_graph": [
+    {
+      "from": "charmander",
+      "to": "charmeleon"
+    },
+    {
+      "from": "charmeleon",
+      "to": "charizard"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CHAR-ih-zard",
+    "ipa": "/ˈtʃɑːɹɪzɑːɹd/"
+  }
+}

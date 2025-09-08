@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 652,
+  "name": "Chesnaught",
+  "types": [
+    "fighting",
+    "grass"
+  ],
+  "speed": 64,
+  "description": "Chesnaught, the Spiny Armor Pokémon, and the evolved form of Quilladin. A Grass and Fighting type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+    "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast."
+  ],
+  "evolution_chain": [
+    "chespin",
+    "quilladin",
+    "chesnaught"
+  ],
+  "evolution_graph": [
+    {
+      "from": "chespin",
+      "to": "quilladin"
+    },
+    {
+      "from": "quilladin",
+      "to": "chesnaught"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CHESS-naht",
+    "ipa": "/ˈtʃɛsnɑːt/"
+  }
+}

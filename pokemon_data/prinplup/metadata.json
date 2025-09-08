@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 394,
+  "name": "Prinplup",
+  "types": [
+    "water"
+  ],
+  "description": "Prinplup, the Penguin Pokémon, and the evolved form of Piplup. Able to evolve into Empoleon. A Water type.",
+  "pronunciations": {
+    "phonetic": "PRIN-plup",
+    "ipa": "/ˈpɹɪnplʌp/"
+  },
+  "pokedex_entries": [
+    "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+    "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+    "Because every Prinplup considers itself to be the most important, they can never form a group.",
+    "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+    "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match."
+  ],
+  "evolution_chain": [
+    "piplup",
+    "prinplup",
+    "empoleon"
+  ],
+  "generation": 4,
+  "evolution_graph": [
+    {
+      "from": "piplup",
+      "to": "prinplup"
+    },
+    {
+      "from": "prinplup",
+      "to": "empoleon"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 957,
+  "name": "Tinkatink",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "speed": 58,
+  "description": "Tinkatink, the Metalsmith Pokémon. Able to evolve into Tinkatuff. A Fairy and Steel type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+    "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result."
+  ],
+  "evolution_chain": [
+    "tinkatink",
+    "tinkatuff",
+    "tinkaton"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tinkatink",
+      "to": "tinkatuff"
+    },
+    {
+      "from": "tinkatuff",
+      "to": "tinkaton"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TINK-uh-tink",
+    "ipa": "/ˈtiːŋkətiːŋk/"
+  }
+}

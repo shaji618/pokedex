@@ -1,0 +1,3 @@
+NAME = "Asshole"
+BIRTHDAY = "2014-08-18"
+FAVORITE_POKEMON = "Eevee"

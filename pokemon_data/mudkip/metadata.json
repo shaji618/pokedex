@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 258,
+  "name": "Mudkip",
+  "types": [
+    "water"
+  ],
+  "speed": 40,
+  "description": "Mudkip, the Mud Fish Pokémon. Able to evolve into Marshtomp. A Water type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+    "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power - it can crush rocks bigger than itself.",
+    "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+    "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.",
+    "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+    "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
+    "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.",
+    "Using the fin on its head, Mudkip senses the flow of water to keep track of what's going on around it. Mudkip has the strength to heft boulders."
+  ],
+  "evolution_chain": [
+    "mudkip",
+    "marshtomp",
+    "swampert"
+  ],
+  "evolution_graph": [
+    {
+      "from": "marshtomp",
+      "to": "swampert"
+    },
+    {
+      "from": "mudkip",
+      "to": "marshtomp"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MUD-kip",
+    "ipa": "/ˈmʌdkɪp/"
+  }
+}

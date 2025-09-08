@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 722,
+  "name": "Rowlet",
+  "types": [
+    "flying",
+    "grass"
+  ],
+  "speed": 42,
+  "description": "Rowlet, the Grass Quill Pokémon. Able to evolve into Dartrix. A Grass and Flying type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+    "Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.",
+    "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+    "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
+    "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
+    "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
+    "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings."
+  ],
+  "evolution_chain": [
+    "rowlet",
+    "dartrix",
+    "decidueye"
+  ],
+  "evolution_graph": [
+    {
+      "from": "dartrix",
+      "to": "decidueye"
+    },
+    {
+      "from": "rowlet",
+      "to": "dartrix"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ROW-let",
+    "ipa": "/ˈɹaʊlət/"
+  }
+}

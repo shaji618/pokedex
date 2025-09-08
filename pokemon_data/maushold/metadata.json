@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 925,
+  "name": "Maushold",
+  "types": [
+    "normal"
+  ],
+  "speed": 111,
+  "description": "Maushold, the Family Pokémon, and the evolved form of Tandemaus. A Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.",
+    "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
+    "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
+    "The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear."
+  ],
+  "evolution_chain": [
+    "tandemaus",
+    "maushold"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tandemaus",
+      "to": "maushold"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MOWSE-hold",
+    "ipa": "/ˈmaʊshɔld/"
+  }
+}

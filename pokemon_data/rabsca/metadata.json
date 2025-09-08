@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 954,
+  "name": "Rabsca",
+  "types": [
+    "bug",
+    "psychic"
+  ],
+  "speed": 45,
+  "description": "Rabsca, the Rolling Pokémon, and the evolved form of Rellor. A Bug and Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
+    "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+  ],
+  "evolution_chain": [
+    "rellor",
+    "rabsca"
+  ],
+  "evolution_graph": [
+    {
+      "from": "rellor",
+      "to": "rabsca"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "RAB-skuh",
+    "ipa": "/ˈɹæbskə/"
+  }
+}

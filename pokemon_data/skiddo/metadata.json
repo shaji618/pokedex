@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 672,
+  "name": "Skiddo",
+  "types": [
+    "grass"
+  ],
+  "speed": 52,
+  "description": "Skiddo, the Mount Pokémon. Able to evolve into Gogoat. A Grass type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
+    "If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.",
+    "Until recently, people living in the mountains would ride on the backs of these Pokémon to traverse the mountain paths.",
+    "As long as it has sunlight and water, Skiddo can make energy with the leaves on its body, allowing it to live on rocky mountains barren of food."
+  ],
+  "evolution_chain": [
+    "skiddo",
+    "gogoat"
+  ],
+  "evolution_graph": [
+    {
+      "from": "skiddo",
+      "to": "gogoat"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "skih-DOO",
+    "ipa": "/skɪˈduː/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 396,
+  "name": "Starly",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 60,
+  "description": "Starly, the Starling Pokémon. Able to evolve into Staravia. A Normal and Flying type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "They flock in great numbers. Though small, they flap their wings with great power.",
+    "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident.",
+    "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+    "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+    "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong—a strike from them leaves pain that persists for a week."
+  ],
+  "evolution_chain": [
+    "starly",
+    "staravia",
+    "staraptor"
+  ],
+  "evolution_graph": [
+    {
+      "from": "staravia",
+      "to": "staraptor"
+    },
+    {
+      "from": "starly",
+      "to": "staravia"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "STAR-lee",
+    "ipa": "/ˈstɑːɹliː/"
+  }
+}

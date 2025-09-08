@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 837,
+  "name": "Rolycoly",
+  "types": [
+    "rock"
+  ],
+  "speed": 30,
+  "description": "Rolycoly, the Coal Pokémon. Able to evolve into Carkol. A Rock type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+    "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
+    "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+    "Chunks of the surface of this Pokémon's body that have grown old and flaked off have long been used for fuel as an alternative to coal."
+  ],
+  "evolution_chain": [
+    "rolycoly",
+    "carkol",
+    "coalossal"
+  ],
+  "evolution_graph": [
+    {
+      "from": "carkol",
+      "to": "coalossal"
+    },
+    {
+      "from": "rolycoly",
+      "to": "carkol"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ROHL-ee-KOHL-ee",
+    "ipa": "/ˌɹɔːliːˈkɔːliː/"
+  }
+}

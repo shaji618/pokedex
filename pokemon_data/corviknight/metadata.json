@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 823,
+  "name": "Corviknight",
+  "types": [
+    "flying",
+    "steel"
+  ],
+  "speed": 67,
+  "description": "Corviknight, the Raven Pokémon, and the evolved form of Corvisquire. A Flying and Steel type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+    "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service.",
+    "Corviknight can't serve as a taxi service in Paldea because the Pokémon's natural predators will attack it while it flies, endangering the customer.",
+    "Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease.",
+    "Imbued with Gigantamax energy, its wings can whip up winds more forceful than any a hurricane could muster. The gusts blow everything away.",
+    "The eight feathers on its back are called blade birds, and they can launch off its body to attack foes independently."
+  ],
+  "evolution_chain": [
+    "rookidee",
+    "corvisquire",
+    "corviknight"
+  ],
+  "evolution_graph": [
+    {
+      "from": "corvisquire",
+      "to": "corviknight"
+    },
+    {
+      "from": "rookidee",
+      "to": "corvisquire"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KOR-vih-nite",
+    "ipa": "/ˈkɔːɹvənaɪt/"
+  }
+}

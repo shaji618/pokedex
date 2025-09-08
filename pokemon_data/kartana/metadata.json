@@ -1,0 +1,21 @@
+{
+  "pokedex_number": 798,
+  "name": "Kartana",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "speed": 109,
+  "description": "Kartana, the Drawn Sword Pokémon. A Grass and Steel type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
+    "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
+    "This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.",
+    "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives."
+  ],
+  "pronunciations": {
+    "phonetic": "kar-TAH-nuh",
+    "ipa": "/kɑːɹˈtɑːnə/"
+  }
+}

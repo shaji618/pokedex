@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 880,
+  "name": "Dracozolt",
+  "types": [
+    "dragon",
+    "electric"
+  ],
+  "speed": 75,
+  "description": "Dracozolt, the Fossil Pokémon. An Electric and Dragon type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
+    "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
+  ],
+  "pronunciations": {
+    "phonetic": "DRAK-uh-zolt",
+    "ipa": "/ˈdɹækəzɔːlt/"
+  }
+}

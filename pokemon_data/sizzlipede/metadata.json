@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 850,
+  "name": "Sizzlipede",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "speed": 45,
+  "description": "Sizzlipede, the Radiator Pokémon. Able to evolve into Centiskorch. A Fire and Bug type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+    "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel."
+  ],
+  "evolution_chain": [
+    "sizzlipede",
+    "centiskorch"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sizzlipede",
+      "to": "centiskorch"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIZZ-lih-peed",
+    "ipa": "/ˈsɪzləpiːd/"
+  }
+}

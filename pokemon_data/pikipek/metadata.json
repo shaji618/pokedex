@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 731,
+  "name": "Pikipek",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 65,
+  "description": "Pikipek, the Woodpecker Pokémon. Able to evolve into Trumbeak. A Normal and Flying type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and for nesting.",
+    "This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth.",
+    "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+    "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!"
+  ],
+  "evolution_chain": [
+    "pikipek",
+    "trumbeak",
+    "toucannon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pikipek",
+      "to": "trumbeak"
+    },
+    {
+      "from": "trumbeak",
+      "to": "toucannon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PIK-ee-pek",
+    "ipa": "/ˈpɪkiːpɛk/"
+  }
+}

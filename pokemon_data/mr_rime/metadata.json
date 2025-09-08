@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 866,
+  "name": "Mr. Rime",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "speed": 70,
+  "description": "Mr. Rime, the Comedian Pokémon, and the evolved form of Mr. Mime. An Ice and Psychic type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+    "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
+  ],
+  "evolution_chain": [
+    "mime_jr",
+    "mr_mime",
+    "mr_rime"
+  ],
+  "evolution_graph": [
+    {
+      "from": "mime_jr",
+      "to": "mr_mime"
+    },
+    {
+      "from": "mr_mime",
+      "to": "mr_rime"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MISS-tur-RIME",
+    "ipa": "/ˌmɪstɚˈɹaɪm/"
+  }
+}

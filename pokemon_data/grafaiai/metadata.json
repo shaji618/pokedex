@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 945,
+  "name": "Grafaiai",
+  "types": [
+    "normal",
+    "poison"
+  ],
+  "speed": 110,
+  "description": "Grafaiai, the Toxic Monkey Pokémon, and the evolved form of Shroodle. A Poison and Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+  ],
+  "evolution_chain": [
+    "shroodle",
+    "grafaiai"
+  ],
+  "evolution_graph": [
+    {
+      "from": "shroodle",
+      "to": "grafaiai"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "gruh-FYE-eye",
+    "ipa": "/ɡɹəˈfaɪaɪ/"
+  }
+}

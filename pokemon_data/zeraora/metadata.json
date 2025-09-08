@@ -1,0 +1,20 @@
+{
+  "pokedex_number": 807,
+  "name": "Zeraora",
+  "types": [
+    "electric"
+  ],
+  "speed": 143,
+  "description": "Zeraora, the Thunderclap Pokémon. An Electric type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.",
+    "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
+    "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.",
+    "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes."
+  ],
+  "pronunciations": {
+    "phonetic": "ZEHR-uh-OHR-uh",
+    "ipa": "/ˌzɛɹəʔˈɔːɹə/"
+  }
+}

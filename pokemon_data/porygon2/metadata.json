@@ -1,0 +1,47 @@
+{
+  "pokedex_number": 233,
+  "name": "Porygon2",
+  "types": [
+    "normal"
+  ],
+  "speed": 60,
+  "description": "Porygon2, the Virtual Pokémon, and the evolved form of Porygon. Able to evolve into Porygon-Z. A Normal type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
+    "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+    "This manmade Pokémon evolved from the latest technology. It may have unprogrammed reactions.",
+    "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+    "This upgraded version of Porygon is designed for space exploration. However, it can't even fly.",
+    "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.",
+    "With planetary development software installed, it became capable of working in space.",
+    "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+    "This upgraded version of Porygon is designed for space exploration. It can't fly, however.",
+    "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.",
+    "Porygon was updated to a new version in readiness for planetary development. But that dream remains unrealized as yet.",
+    "AI has been installed in it. It learns various things all on its own, but it even remembers things it doesn't need to know.",
+    "Even though it doesn't die in the vacuum of space, it can't move around very well in zero gravity.",
+    "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.",
+    "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.",
+    "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable."
+  ],
+  "evolution_chain": [
+    "porygon",
+    "porygon2",
+    "porygon_z"
+  ],
+  "evolution_graph": [
+    {
+      "from": "porygon",
+      "to": "porygon2"
+    },
+    {
+      "from": "porygon2",
+      "to": "porygon_z"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "POR-ee-gahn-TOO",
+    "ipa": "/ˌpɔːɹiːɡɑːnˈtuː/"
+  }
+}

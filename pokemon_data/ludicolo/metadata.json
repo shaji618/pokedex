@@ -1,0 +1,38 @@
+{
+  "pokedex_number": 272,
+  "name": "Ludicolo",
+  "types": [
+    "grass",
+    "water"
+  ],
+  "speed": 70,
+  "description": "Ludicolo, the Carefree Pokémon, and the evolved form of Lombre. A Water and Grass type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings.",
+    "Upon hearing an upbeat and cheerful rhythm, the cells in Ludicolo's body become very energetic and active. Even in battle, this Pokémon will exhibit an amazing amount of power.",
+    "The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful.",
+    "When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.",
+    "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+    "If it hears festive music, it begins moving in rhythm in order to amplify its power."
+  ],
+  "evolution_chain": [
+    "lotad",
+    "lombre",
+    "ludicolo"
+  ],
+  "evolution_graph": [
+    {
+      "from": "lombre",
+      "to": "ludicolo"
+    },
+    {
+      "from": "lotad",
+      "to": "lombre"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "LOO-dee-KOH-loh",
+    "ipa": "/ˌluːdiːˈkoʊloʊ/"
+  }
+}

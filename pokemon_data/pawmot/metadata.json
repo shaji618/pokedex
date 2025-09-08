@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 923,
+  "name": "Pawmot",
+  "types": [
+    "electric",
+    "fighting"
+  ],
+  "speed": 105,
+  "description": "Pawmot, the Hands-On Pokémon, and the evolved form of Pawmo. An Electric and Fighting type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+    "Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
+  ],
+  "evolution_chain": [
+    "pawmi",
+    "pawmo",
+    "pawmot"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pawmi",
+      "to": "pawmo"
+    },
+    {
+      "from": "pawmo",
+      "to": "pawmot"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAW-mit",
+    "ipa": "/ˈpɑːmət/"
+  }
+}

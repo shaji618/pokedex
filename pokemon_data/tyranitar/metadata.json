@@ -1,0 +1,44 @@
+{
+  "pokedex_number": 248,
+  "name": "Tyranitar",
+  "types": [
+    "dark",
+    "rock"
+  ],
+  "speed": 61,
+  "description": "Tyranitar, the Armor Pokémon, and the evolved form of Pupitar. A Rock and Dark type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+    "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+    "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+    "A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+    "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+    "It wanders through the mountains seeking opponents to fight. If it finds an opponent that's not worthy, Tyranitar ignores it and wanders on.",
+    "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
+    "Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.",
+    "Due to the colossal power poured into it, this Pokémon's back split right open. Its destructive instincts are the only thing keeping it moving.",
+    "The effects of Mega Evolution make it more ferocious than ever. It's unclear whether it can even hear its Trainer's orders."
+  ],
+  "evolution_chain": [
+    "larvitar",
+    "pupitar",
+    "tyranitar"
+  ],
+  "evolution_graph": [
+    {
+      "from": "larvitar",
+      "to": "pupitar"
+    },
+    {
+      "from": "pupitar",
+      "to": "tyranitar"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "tye-RAN-ih-tar",
+    "ipa": "/taɪˈɹænətɑːɹ/"
+  }
+}

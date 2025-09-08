@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 687,
+  "name": "Malamar",
+  "types": [
+    "dark",
+    "psychic"
+  ],
+  "speed": 73,
+  "description": "Malamar, the Overturning Pokémon, and the evolved form of Inkay. A Dark and Psychic type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+    "It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+    "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
+    "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
+    "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
+    "It's said that Malamar's hypnotic powers played a role in certain history-changing events."
+  ],
+  "evolution_chain": [
+    "inkay",
+    "malamar"
+  ],
+  "evolution_graph": [
+    {
+      "from": "inkay",
+      "to": "malamar"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MAL-uh-mar",
+    "ipa": "/ˈmæləmɑːɹ/"
+  }
+}

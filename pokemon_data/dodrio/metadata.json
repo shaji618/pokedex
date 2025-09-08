@@ -1,0 +1,42 @@
+{
+  "pokedex_number": 85,
+  "name": "Dodrio",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 110,
+  "description": "Dodrio, the Triple Bird Pokémon, and the evolved form of Doduo. A Normal and Flying type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+    "One of Doduo's 2 heads splits to form a unique species. It runs close to 40 Mph in prairies.",
+    "It collects data and plans three times as wisely, but it may think too much and become immobilized.",
+    "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
+    "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.",
+    "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary - it may decide to peck you.",
+    "Apparently, the heads aren't the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
+    "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+    "Uses its three brains to execute complex plans. While two heads sleep, one head is said to stay awake.",
+    "A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
+    "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
+    "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility.",
+    "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary—it may decide to peck you.",
+    "One of Doduo's two heads splits to form a unique species. It runs close to 40 mph in prairies.",
+    "When Doduo evolves into this odd breed, one of its heads splits into two. This Pokémon runs at nearly 40 mph."
+  ],
+  "evolution_chain": [
+    "doduo",
+    "dodrio"
+  ],
+  "evolution_graph": [
+    {
+      "from": "doduo",
+      "to": "dodrio"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "doh-DREE-oh",
+    "ipa": "/doʊˈdɹiːoʊ/"
+  }
+}

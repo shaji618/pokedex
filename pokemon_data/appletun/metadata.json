@@ -1,0 +1,48 @@
+{
+  "pokedex_number": 842,
+  "name": "Appletun",
+  "types": [
+    "dragon",
+    "grass"
+  ],
+  "speed": 30,
+  "description": "Appletun, the Apple Nectar Pokémon, and the evolved form of Applin. A Grass and Dragon type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
+    "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
+    "It feeds mainly on sweet apples. It will also eat small bug Pokémon that are attracted by its sweet nectar.",
+    "When some Lechonk come along to lick the sweet nectar on Appletun's back, Appletun will spew sticky nectar at them to drive them away.",
+    "It blasts its opponents with massive amounts of sweet, sticky nectar, drowning them under the deluge.",
+    "Due to Gigantamax energy, this Pokémon's nectar has thickened. The increased viscosity lets the nectar absorb more damage than before."
+  ],
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "evolution_graph": [
+    {
+      "from": "applin",
+      "to": "flapple"
+    },
+    {
+      "from": "flapple",
+      "to": "appletun"
+    },
+    {
+      "from": "flapple",
+      "to": "dipplin"
+    },
+    {
+      "from": "flapple",
+      "to": "hydrapple"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "APP-ull-tun",
+    "ipa": "/ˈæpəltən/"
+  }
+}

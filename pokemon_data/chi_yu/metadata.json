@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 1004,
+  "name": "Chi-Yu",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "speed": 100,
+  "description": "Chi-Yu, the Ruinous Pokémon. A Dark and Fire type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+    "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+  ],
+  "pronunciations": {
+    "phonetic": "chee-YOO",
+    "ipa": "/tʃiːˈjuː/"
+  }
+}

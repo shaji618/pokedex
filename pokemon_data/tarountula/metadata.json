@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 917,
+  "name": "Tarountula",
+  "types": [
+    "bug"
+  ],
+  "speed": 20,
+  "description": "Tarountula, the String Ball Pokémon. Able to evolve into Spidops. A Bug type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon's natural enemy.",
+    "The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research."
+  ],
+  "evolution_chain": [
+    "tarountula",
+    "spidops"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tarountula",
+      "to": "spidops"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "tuh-ROWN-chuh-luh",
+    "ipa": "/təˈɹaʊntʃələ/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 607,
+  "name": "Litwick",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "speed": 20,
+  "description": "Litwick, the Candle Pokémon. Able to evolve into Lampent. A Ghost and Fire type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+    "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+    "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+    "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
+    "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns."
+  ],
+  "evolution_chain": [
+    "litwick",
+    "lampent",
+    "chandelure"
+  ],
+  "evolution_graph": [
+    {
+      "from": "lampent",
+      "to": "chandelure"
+    },
+    {
+      "from": "litwick",
+      "to": "lampent"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "LIT-wick",
+    "ipa": "/ˈlɪtwɪk/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 952,
+  "name": "Scovillain",
+  "types": [
+    "fire",
+    "grass"
+  ],
+  "speed": 75,
+  "description": "Scovillain, the Spicy Pepper Pokémon, and the evolved form of Capsakid. A Grass and Fire type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+    "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+  ],
+  "evolution_chain": [
+    "capsakid",
+    "scovillain"
+  ],
+  "evolution_graph": [
+    {
+      "from": "capsakid",
+      "to": "scovillain"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SKOH-vill-in",
+    "ipa": "/ˈskoʊvɪlən/"
+  }
+}

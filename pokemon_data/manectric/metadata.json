@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 310,
+  "name": "Manectric",
+  "types": [
+    "electric"
+  ],
+  "speed": 105,
+  "description": "Manectric, the Discharge Pokémon, and the evolved form of Electrike. An Electric type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
+    "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head.",
+    "It rarely appears before people. It is said to nest where lightning has fallen.",
+    "Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.",
+    "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+    "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
+    "Manectric can be found beneath unnatural thunderclouds. People say it can run at the same speed as lightning striking.",
+    "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+    "It discharges electricity from its mane. The Pokémon creates a thundercloud overhead from which to drop lightning bolts.",
+    "Mega Evolution fills its body with a tremendous amount of electricity, but it's too much for Manectric to fully control.",
+    "Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt."
+  ],
+  "evolution_chain": [
+    "electrike",
+    "manectric"
+  ],
+  "evolution_graph": [
+    {
+      "from": "electrike",
+      "to": "manectric"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "may-NEK-trik",
+    "ipa": "/meɪˈnɛktɹɪk/"
+  }
+}

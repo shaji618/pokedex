@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 824,
+  "name": "Blipbug",
+  "types": [
+    "bug"
+  ],
+  "speed": 45,
+  "description": "Blipbug, the Larva Pokémon. Able to evolve into Dottler. A Bug type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.",
+    "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
+  ],
+  "evolution_chain": [
+    "blipbug",
+    "dottler",
+    "orbeetle"
+  ],
+  "evolution_graph": [
+    {
+      "from": "blipbug",
+      "to": "dottler"
+    },
+    {
+      "from": "dottler",
+      "to": "orbeetle"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BLIP-bug",
+    "ipa": "/ˈblɪpbʌɡ/"
+  }
+}

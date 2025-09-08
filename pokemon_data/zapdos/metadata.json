@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 145,
+  "name": "Zapdos",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "speed": 100,
+  "description": "Zapdos, the Electric Pokémon. An Electric and Flying type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+    "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
+    "This legendary bird Pokémon causes savage thunderstorms by flapping its glittering wings.",
+    "This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves.",
+    "Legendary bird Pokémon. They say lightning caused by the flapping of its wings causes summer storms.",
+    "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+    "One of the legendary bird Pokémon. While it is flying, it makes crackling and snapping sounds.",
+    "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.",
+    "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
+    "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.",
+    "Zapdos is a legendary bird Pokémon. It's said that when Zapdos rubs its feathers together, lightning will fall immediately after.",
+    "This legendary Pokémon is said to live in thunderclouds. It freely controls lightning bolts.",
+    "When its feathers rub together, they produce a crackling sound like the zapping of electricity. That's why this Pokémon is called Zapdos.",
+    "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph."
+  ],
+  "pronunciations": {
+    "phonetic": "ZAP-dohs",
+    "ipa": "/ˈzæpdoʊs/"
+  }
+}

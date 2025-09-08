@@ -1,0 +1,32 @@
+{
+  "pokedex_number": 528,
+  "name": "Swoobat",
+  "types": [
+    "flying",
+    "psychic"
+  ],
+  "speed": 114,
+  "description": "Swoobat, the Courting Pokémon, and the evolved form of Woobat. A Psychic and Flying type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+    "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+    "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+    "Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.",
+    "The auspicious shape of this Pokémon's nose apparently led some regions to consider Swoobat a symbol of good luck."
+  ],
+  "evolution_chain": [
+    "woobat",
+    "swoobat"
+  ],
+  "evolution_graph": [
+    {
+      "from": "woobat",
+      "to": "swoobat"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SWOO-bat",
+    "ipa": "/ˈswuːbæt/"
+  }
+}

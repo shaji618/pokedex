@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 659,
+  "name": "Bunnelby",
+  "types": [
+    "normal"
+  ],
+  "speed": 57,
+  "description": "Bunnelby, the Digging Pokémon. Able to evolve into Diggersby. A Normal type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "They use their large ears to dig burrows. They will dig the whole night through.",
+    "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+    "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+    "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments."
+  ],
+  "evolution_chain": [
+    "bunnelby",
+    "diggersby"
+  ],
+  "evolution_graph": [
+    {
+      "from": "bunnelby",
+      "to": "diggersby"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BUNN-uhl-bee",
+    "ipa": "/ˈbʌnəlbiː/"
+  }
+}

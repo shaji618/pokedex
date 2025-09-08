@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 541,
+  "name": "Swadloon",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "speed": 42,
+  "description": "Swadloon, the Leaf-Wrapped Pokémon, and the evolved form of Sewaddle. Able to evolve into Leavanny. A Bug and Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+    "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+    "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it."
+  ],
+  "evolution_chain": [
+    "sewaddle",
+    "swadloon",
+    "leavanny"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sewaddle",
+      "to": "swadloon"
+    },
+    {
+      "from": "swadloon",
+      "to": "leavanny"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "swad-LOON",
+    "ipa": "/swɑːdˈluːn/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 915,
+  "name": "Lechonk",
+  "types": [
+    "normal"
+  ],
+  "speed": 35,
+  "description": "Lechonk, the Hog Pokémon. Able to evolve into Oinkologne Male . A Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging.",
+    "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+  ],
+  "evolution_chain": [
+    "lechonk",
+    "oinkologne"
+  ],
+  "evolution_graph": [
+    {
+      "from": "lechonk",
+      "to": "oinkologne"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "luh-CHONK",
+    "ipa": "/ləˈtʃɑːnk/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 911,
+  "name": "Skeledirge",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "speed": 66,
+  "description": "Skeledirge, the Singer Pokémon, and the evolved form of Crocalor. A Fire and Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge's head gained a soul.",
+    "Skeledirge's gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+  ],
+  "evolution_chain": [
+    "fuecoco",
+    "crocalor",
+    "skeledirge"
+  ],
+  "evolution_graph": [
+    {
+      "from": "crocalor",
+      "to": "skeledirge"
+    },
+    {
+      "from": "fuecoco",
+      "to": "crocalor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SKEL-ih-durj",
+    "ipa": "/ˈskɛlədɚdʒ/"
+  }
+}

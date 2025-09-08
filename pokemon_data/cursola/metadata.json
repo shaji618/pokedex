@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 864,
+  "name": "Cursola",
+  "types": [
+    "ghost"
+  ],
+  "speed": 30,
+  "description": "Cursola, the Coral Pokémon, and the evolved form of Corsola. A Ghost type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.",
+    "Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it."
+  ],
+  "evolution_chain": [
+    "corsola",
+    "cursola"
+  ],
+  "evolution_graph": [
+    {
+      "from": "corsola",
+      "to": "cursola"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CURR-suh-luh",
+    "ipa": "/ˈkɝsələ/"
+  }
+}

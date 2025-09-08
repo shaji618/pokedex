@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 926,
+  "name": "Fidough",
+  "types": [
+    "fairy"
+  ],
+  "speed": 65,
+  "description": "Fidough, the Puppy Pokémon. Able to evolve into Dachsbun. A Fairy type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon is smooth and moist to the touch. Yeast in Fidough's breath induces fermentation in the Pokémon's vicinity.",
+    "The yeast in Fidough's breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+  ],
+  "evolution_chain": [
+    "fidough",
+    "dachsbun"
+  ],
+  "evolution_graph": [
+    {
+      "from": "fidough",
+      "to": "dachsbun"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FYE-doh",
+    "ipa": "/ˈfaɪdoʊ/"
+  }
+}

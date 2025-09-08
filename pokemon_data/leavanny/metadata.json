@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 542,
+  "name": "Leavanny",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "speed": 92,
+  "description": "Leavanny, the Nurturing Pokémon, and the evolved form of Swadloon. A Bug and Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
+    "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+    "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth."
+  ],
+  "evolution_chain": [
+    "sewaddle",
+    "swadloon",
+    "leavanny"
+  ],
+  "evolution_graph": [
+    {
+      "from": "sewaddle",
+      "to": "swadloon"
+    },
+    {
+      "from": "swadloon",
+      "to": "leavanny"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "lee-VAN-nee",
+    "ipa": "/liːˈvæniː/"
+  }
+}

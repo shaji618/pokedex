@@ -1,0 +1,52 @@
+{
+  "pokedex_number": 137,
+  "name": "Porygon",
+  "types": [
+    "normal"
+  ],
+  "speed": 40,
+  "description": "Porygon, the Virtual Pokémon. Able to evolve into Porygon2. A Normal type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+    "The only Pokémon people anticipate can fly into space. None has managed the feat yet, however.",
+    "It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment.",
+    "A manmade Pokémon that came about as a result of research. It is programmed with only basic motions.",
+    "An artificial Pokémon created due to extensive research, it can perform only what is in its program.",
+    "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.",
+    "Using the most advanced technologies, scientists finally succeeded in making the first artificial Pokémon.",
+    "A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.",
+    "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.",
+    "The world's first artificially created Pokémon. It can travel through electronic space.",
+    "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.",
+    "A man-made Pokémon that came about as a result of research. It is programmed with only basic motions.",
+    "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying.",
+    "Roughly 20 years ago, it was artificially created, utilizing the latest technology of the time.",
+    "It can convert its body into digital data, which enables it to enter cyberspace.",
+    "This Pokémon was created using the cutting-edge science of 20 years ago, so many parts of it have since become obsolete.",
+    "It was built 20 years ago by scientists who dreamed of exploring space. Their dreams have yet to come true.",
+    "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however.",
+    "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.",
+    "In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.",
+    "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly."
+  ],
+  "evolution_chain": [
+    "porygon",
+    "porygon2",
+    "porygon_z"
+  ],
+  "evolution_graph": [
+    {
+      "from": "porygon",
+      "to": "porygon2"
+    },
+    {
+      "from": "porygon2",
+      "to": "porygon_z"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "POHR-ee-gahn",
+    "ipa": "/ˈpɔːɹiːɡɑːn/"
+  }
+}

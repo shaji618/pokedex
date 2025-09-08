@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 998,
+  "name": "Baxcalibur",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "speed": 87,
+  "description": "Baxcalibur, the Ice Dragon Pokémon, and the evolved form of Arctibax. A Dragon and Ice type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+    "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+  ],
+  "evolution_chain": [
+    "frigibax",
+    "arctibax",
+    "baxcalibur"
+  ],
+  "evolution_graph": [
+    {
+      "from": "arctibax",
+      "to": "baxcalibur"
+    },
+    {
+      "from": "frigibax",
+      "to": "arctibax"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "baks-KAL-ih-bur",
+    "ipa": "/bæksˈkælɪbɚ/"
+  }
+}

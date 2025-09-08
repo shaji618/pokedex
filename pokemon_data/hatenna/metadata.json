@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 856,
+  "name": "Hatenna",
+  "types": [
+    "psychic"
+  ],
+  "speed": 39,
+  "description": "Hatenna, the Calm Pokémon. Able to evolve into Hattrem. A Psychic type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+    "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
+    "Because the emotions of others constantly flow into its head, this Pokémon prefers environments where no other creatures live.",
+    "It senses the feelings of other living creatures. Be careful not to expose it to strong emotions for too long, or it will end up exhausted."
+  ],
+  "evolution_chain": [
+    "hatenna",
+    "hattrem",
+    "hatterene"
+  ],
+  "evolution_graph": [
+    {
+      "from": "hatenna",
+      "to": "hattrem"
+    },
+    {
+      "from": "hattrem",
+      "to": "hatterene"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "huh-TEN-uh",
+    "ipa": "/həˈtɛnə/"
+  }
+}

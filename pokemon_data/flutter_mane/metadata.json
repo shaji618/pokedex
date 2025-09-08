@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 987,
+  "name": "Flutter Mane",
+  "types": [
+    "fairy",
+    "ghost"
+  ],
+  "speed": 135,
+  "description": "Flutter Mane, the Paradox Pokémon. A Ghost and Fairy type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+    "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
+  ],
+  "pronunciations": {
+    "phonetic": "FLUH-turr-main",
+    "ipa": "/ˈflʌɾɚ ˌmeɪn/"
+  }
+}

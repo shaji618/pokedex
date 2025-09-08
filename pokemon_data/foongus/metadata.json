@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 590,
+  "name": "Foongus",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "speed": 15,
+  "description": "Foongus, the Mushroom Pokémon. Able to evolve into Amoonguss. A Grass and Poison type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+    "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+    "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+    "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
+    "No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it.",
+    "The spores released from this Pokémon's hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
+    "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed.",
+    "This Pokémon prefers damp places. It spurts out poison spores to repel approaching enemies."
+  ],
+  "evolution_chain": [
+    "foongus",
+    "amoonguss"
+  ],
+  "evolution_graph": [
+    {
+      "from": "foongus",
+      "to": "amoonguss"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FOON-gus",
+    "ipa": "/ˈfuːŋɡəs/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 695,
+  "name": "Heliolisk",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "speed": 109,
+  "description": "Heliolisk, the Generator Pokémon, and the evolved form of Helioptile. An Electric and Normal type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+    "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.",
+    "A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.",
+    "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
+  ],
+  "evolution_chain": [
+    "helioptile",
+    "heliolisk"
+  ],
+  "evolution_graph": [
+    {
+      "from": "helioptile",
+      "to": "heliolisk"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "HEE-lee-oh-lisk",
+    "ipa": "/ˈhiːliːoʊlɪsk/"
+  }
+}

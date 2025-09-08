@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 833,
+  "name": "Chewtle",
+  "types": [
+    "water"
+  ],
+  "speed": 44,
+  "description": "Chewtle, the Snapping Pokémon. Able to evolve into Drednaw. A Water type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+    "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
+    "Its large front tooth is still growing in. When the tooth itches, this Pokémon will bite another Chewtle's horn, and the two Pokémon will tussle.",
+    "A popular game among children is to lift up sticks that Chewtle have bitten onto to see whose Chewtle can hang on the longest."
+  ],
+  "evolution_chain": [
+    "chewtle",
+    "drednaw"
+  ],
+  "evolution_graph": [
+    {
+      "from": "chewtle",
+      "to": "drednaw"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CHOO-tull",
+    "ipa": "/ˈtʃuːɾəl/"
+  }
+}

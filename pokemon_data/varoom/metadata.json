@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 965,
+  "name": "Varoom",
+  "types": [
+    "poison",
+    "steel"
+  ],
+  "speed": 47,
+  "description": "Varoom, the Single-Cyl Pokémon. Able to evolve into Revavroom. A Steel and Poison type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "The steel section is Varoom's actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+  ],
+  "evolution_chain": [
+    "varoom",
+    "revavroom"
+  ],
+  "evolution_graph": [
+    {
+      "from": "varoom",
+      "to": "revavroom"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "vuh-ROOM",
+    "ipa": "/vəˈɹuːm/"
+  }
+}

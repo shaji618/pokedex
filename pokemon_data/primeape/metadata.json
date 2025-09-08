@@ -1,0 +1,46 @@
+{
+  "pokedex_number": 57,
+  "name": "Primeape",
+  "types": [
+    "fighting"
+  ],
+  "speed": 95,
+  "description": "Primeape, the Pig Monkey Pokémon, and the evolved form of Mankey. Able to evolve into Annihilape. A Fighting type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+    "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+    "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+    "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+    "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.",
+    "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+    "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+    "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up.",
+    "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
+    "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+    "It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however.",
+    "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
+    "It will never forgive opponents who have angered it. Even after it has beaten them down until they can't move, it never ever forgives.",
+    "The blood vessels in its brain are sturdier than those of other Pokémon, so it can stay healthy despite its constant raging.",
+    "It becomes angry if it sees an opponent's eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry."
+  ],
+  "evolution_chain": [
+    "mankey",
+    "primeape",
+    "annihilape"
+  ],
+  "evolution_graph": [
+    {
+      "from": "mankey",
+      "to": "primeape"
+    },
+    {
+      "from": "primeape",
+      "to": "annihilape"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PRIME-ape",
+    "ipa": "/ˈpɹaɪmeɪp/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "pokedex_number": 442,
+  "name": "Spiritomb",
+  "types": [
+    "dark",
+    "ghost"
+  ],
+  "speed": 35,
+  "description": "Spiritomb, the Forbidden Pokémon. A Ghost and Dark type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+    "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+    "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+    "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
+    "Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.",
+    "All Spiritomb's mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.",
+    "It is a Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+    "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits."
+  ],
+  "pronunciations": {
+    "phonetic": "SPEER-ih-toom",
+    "ipa": "/ˈspɪɹətuːm/"
+  }
+}

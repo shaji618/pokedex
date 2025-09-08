@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 959,
+  "name": "Tinkaton",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "speed": 94,
+  "description": "Tinkaton, the Hammer Pokémon, and the evolved form of Tinkatuff. A Fairy and Steel type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
+    "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+  ],
+  "evolution_chain": [
+    "tinkatink",
+    "tinkatuff",
+    "tinkaton"
+  ],
+  "evolution_graph": [
+    {
+      "from": "tinkatink",
+      "to": "tinkatuff"
+    },
+    {
+      "from": "tinkatuff",
+      "to": "tinkaton"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "TINK-uh-tun",
+    "ipa": "/ˈtiːŋkətʌn/"
+  }
+}

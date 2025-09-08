@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 809,
+  "name": "Melmetal",
+  "types": [
+    "steel"
+  ],
+  "speed": 34,
+  "description": "Melmetal, the Hex Nut Pokémon, and the evolved form of Meltan. A Steel type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+    "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+    "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
+    "In a distant land, there are legends about a cyclopean giant. In fact, the giant was a Melmetal that was flooded with Gigantamax energy.",
+    "It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot."
+  ],
+  "evolution_chain": [
+    "meltan",
+    "melmetal"
+  ],
+  "evolution_graph": [
+    {
+      "from": "meltan",
+      "to": "melmetal"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MELL-met-ull",
+    "ipa": "/ˈmɛlmɛɾəl/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "pokedex_number": 1019,
+  "name": "Hydrapple",
+  "types": [
+    "dragon",
+    "grass"
+  ],
+  "speed": 44,
+  "description": "Hydrapple, the Apple Pokémon, and the evolved form of Dipplin. A Grass and Dragon type.",
+  "generation": 9,
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "evolution_graph": [
+    {
+      "from": "applin",
+      "to": "flapple"
+    },
+    {
+      "from": "flapple",
+      "to": "appletun"
+    },
+    {
+      "from": "flapple",
+      "to": "dipplin"
+    },
+    {
+      "from": "flapple",
+      "to": "hydrapple"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "hie-DRAP-ull",
+    "ipa": "/ˌhaɪˈdɹæpəl/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 956,
+  "name": "Espathra",
+  "types": [
+    "psychic"
+  ],
+  "speed": 105,
+  "description": "Espathra, the Ostrich Pokémon, and the evolved form of Flittle. A Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
+    "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+  ],
+  "evolution_chain": [
+    "flittle",
+    "espathra"
+  ],
+  "evolution_graph": [
+    {
+      "from": "flittle",
+      "to": "espathra"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "es-PATH-ruh",
+    "ipa": "/ɛsˈpæθɹə/"
+  }
+}

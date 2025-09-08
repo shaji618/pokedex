@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 150,
+  "name": "Mewtwo",
+  "types": [
+    "psychic"
+  ],
+  "speed": 130,
+  "description": "Mewtwo, the Genetic Pokémon. A Psychic type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
+    "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+    "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+    "Said to rest quietly in an undiscovered cave, this Pokémon was created solely for battling.",
+    "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+    "A Pokémon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+    "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+    "A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+    "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Created from the DNA of Mew, this Pokémon is a dangerous combination of overwhelming power and a savage heart.",
+    "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "Mewtwo was created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
+    "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens."
+  ],
+  "pronunciations": {
+    "phonetic": "MYOO-too",
+    "ipa": "/ˈmjuːtuː/"
+  }
+}

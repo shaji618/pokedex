@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 291,
+  "name": "Ninjask",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "speed": 160,
+  "description": "Ninjask, the Ninja Pokémon, and the evolved form of Nincada. Able to evolve into Shedinja. A Bug and Flying type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
+    "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer's abilities to the test.",
+    "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+    "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
+    "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+    "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+    "Because they move so quickly, they sometimes become unseeable. They congregate around tree sap."
+  ],
+  "evolution_chain": [
+    "nincada",
+    "ninjask",
+    "shedinja"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nincada",
+      "to": "ninjask"
+    },
+    {
+      "from": "ninjask",
+      "to": "shedinja"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "NIN-jask",
+    "ipa": "/ˈnɪndʒæsk/"
+  }
+}

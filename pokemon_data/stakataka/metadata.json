@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 805,
+  "name": "Stakataka",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "speed": 13,
+  "description": "Stakataka, the Rampart Pokémon. A Rock and Steel type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
+    "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast."
+  ],
+  "pronunciations": {
+    "phonetic": "STAK-uh-TAK-uh",
+    "ipa": "/ˌstækəˈtækə/"
+  }
+}

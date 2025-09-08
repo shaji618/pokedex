@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 946,
+  "name": "Bramblin",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "speed": 60,
+  "description": "Bramblin, the Tumbleweed Pokémon. Able to evolve into Brambleghast. A Grass and Ghost type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+    "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+  ],
+  "evolution_chain": [
+    "bramblin",
+    "brambleghast"
+  ],
+  "evolution_graph": [
+    {
+      "from": "bramblin",
+      "to": "brambleghast"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BRAM-blin",
+    "ipa": "/ˈbɹæmblɪn/"
+  }
+}

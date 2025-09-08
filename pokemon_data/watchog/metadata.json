@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 505,
+  "name": "Watchog",
+  "types": [
+    "normal"
+  ],
+  "speed": 77,
+  "description": "Watchog, the Lookout Pokémon, and the evolved form of Patrat. A Normal type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+    "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+    "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents."
+  ],
+  "evolution_chain": [
+    "patrat",
+    "watchog"
+  ],
+  "evolution_graph": [
+    {
+      "from": "patrat",
+      "to": "watchog"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "WAH-chog",
+    "ipa": "/ˈwɑːtʃɑːɡ/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 892,
+  "name": "Urshifu",
+  "types": [
+    "dark",
+    "fighting"
+  ],
+  "speed": 97,
+  "description": "Urshifu, the Wushu Pokémon, and the evolved form of Kubfu. A Fighting and Dark type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "People call it the embodiment of rage. It's said that this Pokémon's terrifying expression and shout will rid the world of malevolence.",
+    "The energy released by this Pokémon's fists forms shock waves that can blow away Dynamax Pokémon in just one hit.",
+    "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+    "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
+    "As it waits for the right moment to unleash its Gigantamax power, this Pokémon maintains a perfect one-legged stance. It won't even twitch.",
+    "All it takes is a glare from this Pokémon to take the lives of those with evil in their hearts—or so they say.",
+    "It's believed that this Pokémon modeled its fighting style on the flow of a river—sometimes rapid, sometimes calm.",
+    "This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river."
+  ],
+  "evolution_chain": [
+    "kubfu",
+    "urshifu"
+  ],
+  "evolution_graph": [
+    {
+      "from": "kubfu",
+      "to": "urshifu"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "UR-shee-foo",
+    "ipa": "/ˈɝʃiːfuː/"
+  }
+}

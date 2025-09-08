@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 920,
+  "name": "Lokix",
+  "types": [
+    "bug",
+    "dark"
+  ],
+  "speed": 92,
+  "description": "Lokix, the Grasshopper Pokémon, and the evolved form of Nymble. A Bug and Dark type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+    "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can't stay in this mode for long."
+  ],
+  "evolution_chain": [
+    "nymble",
+    "lokix"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nymble",
+      "to": "lokix"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "LOH-kicks",
+    "ipa": "/ˈloʊkɪks/"
+  }
+}

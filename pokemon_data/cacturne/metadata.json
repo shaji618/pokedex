@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 332,
+  "name": "Cacturne",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "speed": 55,
+  "description": "Cacturne, the Scarecrow Pokémon, and the evolved form of Cacnea. A Grass and Dark type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.",
+    "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+    "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat.",
+    "After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.",
+    "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+    "Packs of them follow travelers through the desert until the travelers can no longer move."
+  ],
+  "evolution_chain": [
+    "cacnea",
+    "cacturne"
+  ],
+  "evolution_graph": [
+    {
+      "from": "cacnea",
+      "to": "cacturne"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KAK-turn",
+    "ipa": "/ˈkæktɚn/"
+  }
+}

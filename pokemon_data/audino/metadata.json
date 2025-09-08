@@ -1,0 +1,20 @@
+{
+  "pokedex_number": 531,
+  "name": "Audino",
+  "types": [
+    "normal"
+  ],
+  "description": "Audino, the Hearing Pokémon. A Normal type.",
+  "pronunciations": {
+    "phonetic": "AH-din-oh",
+    "ipa": "/ˈɑːdɪnoʊ/"
+  },
+  "pokedex_entries": [
+    "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+    "Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.",
+    "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+    "Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.",
+    "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures' feelings and physical conditions."
+  ],
+  "generation": 5
+}

@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 808,
+  "name": "Meltan",
+  "types": [
+    "steel"
+  ],
+  "speed": 34,
+  "description": "Meltan, the Hex Nut Pokémon. Able to evolve into Melmetal. A Steel type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+    "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+    "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+  ],
+  "evolution_chain": [
+    "meltan",
+    "melmetal"
+  ],
+  "evolution_graph": [
+    {
+      "from": "meltan",
+      "to": "melmetal"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MELL-tan",
+    "ipa": "/ˈmɛltæn/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 768,
+  "name": "Golisopod",
+  "types": [
+    "bug",
+    "water"
+  ],
+  "speed": 40,
+  "description": "Golisopod, the Hard Scale Pokémon, and the evolved form of Wimpod. A Bug and Water type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
+    "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
+    "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
+    "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
+    "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+    "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner's meal."
+  ],
+  "evolution_chain": [
+    "wimpod",
+    "golisopod"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wimpod",
+      "to": "golisopod"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "guh-LYE-soh-pahd",
+    "ipa": "/gəˈlaɪsoʊpɑːd/"
+  }
+}

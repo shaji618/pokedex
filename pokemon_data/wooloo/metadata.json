@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 831,
+  "name": "Wooloo",
+  "types": [
+    "normal"
+  ],
+  "speed": 48,
+  "description": "Wooloo, the Sheep Pokémon. Able to evolve into Dubwool. A Normal type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
+    "If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+  ],
+  "evolution_chain": [
+    "wooloo",
+    "dubwool"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wooloo",
+      "to": "dubwool"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "WOO-loo",
+    "ipa": "/ˈwuːluː/"
+  }
+}

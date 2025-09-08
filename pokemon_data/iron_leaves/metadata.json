@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1010,
+  "name": "Iron Leaves",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "speed": 104,
+  "description": "Iron Leaves, the Paradox Pokémon. A Grass and Psychic type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "eye-urn-LEEVZ",
+    "ipa": "/ˌaɪɹn ˈliːvz/"
+  }
+}

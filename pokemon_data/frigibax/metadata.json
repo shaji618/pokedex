@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 996,
+  "name": "Frigibax",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "speed": 55,
+  "description": "Frigibax, the Ice Fin Pokémon. Able to evolve into Arctibax. A Dragon and Ice type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+    "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+  ],
+  "evolution_chain": [
+    "frigibax",
+    "arctibax",
+    "baxcalibur"
+  ],
+  "evolution_graph": [
+    {
+      "from": "arctibax",
+      "to": "baxcalibur"
+    },
+    {
+      "from": "frigibax",
+      "to": "arctibax"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FRIJ-ih-baks",
+    "ipa": "/ˈfɹɪdʒɪbæks/"
+  }
+}

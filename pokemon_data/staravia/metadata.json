@@ -1,0 +1,39 @@
+{
+  "pokedex_number": 397,
+  "name": "Staravia",
+  "types": [
+    "flying",
+    "normal"
+  ],
+  "speed": 80,
+  "description": "Staravia, the Starling Pokémon, and the evolved form of Starly. Able to evolve into Staraptor. A Normal and Flying type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+    "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
+    "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+    "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+    "They fly around forests and fields in search of bug Pokémon, moving together in huge flocks.",
+    "They live in forests and fields. Squabbles over territory occur when flocks collide.",
+    "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones."
+  ],
+  "evolution_chain": [
+    "starly",
+    "staravia",
+    "staraptor"
+  ],
+  "evolution_graph": [
+    {
+      "from": "staravia",
+      "to": "staraptor"
+    },
+    {
+      "from": "starly",
+      "to": "staravia"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "star-AY-vee-uh",
+    "ipa": "/stɑːɹˈeɪviːə/"
+  }
+}

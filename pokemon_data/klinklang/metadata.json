@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 601,
+  "name": "Klinklang",
+  "types": [
+    "steel"
+  ],
+  "speed": 90,
+  "description": "Klinklang, the Gear Pokémon, and the evolved form of Klang. A Steel type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+    "The gear with the red core is rotated at high speed for a rapid energy charge.",
+    "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+    "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+    "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature."
+  ],
+  "evolution_chain": [
+    "klink",
+    "klang",
+    "klinklang"
+  ],
+  "evolution_graph": [
+    {
+      "from": "klang",
+      "to": "klinklang"
+    },
+    {
+      "from": "klink",
+      "to": "klang"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KLING-klang",
+    "ipa": "/ˈklɪŋklæŋ/"
+  }
+}

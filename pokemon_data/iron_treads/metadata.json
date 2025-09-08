@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 990,
+  "name": "Iron Treads",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "speed": 106,
+  "description": "Iron Treads, the Paradox Pokémon. A Ground and Steel type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+    "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+  ],
+  "pronunciations": {
+    "phonetic": "eye-urn-TREDZ",
+    "ipa": "/ˌaɪɹn ˈtɹɛdz/"
+  }
+}

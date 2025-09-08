@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 402,
+  "name": "Kricketune",
+  "types": [
+    "bug"
+  ],
+  "speed": 65,
+  "description": "Kricketune, the Cricket Pokémon, and the evolved form of Kricketot. A Bug type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+    "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+    "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+    "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
+    "It uses its cutlass-like arms to produce sound, the melody of which varies from individual to individual. It is a worthwhile endeavor to seek out one's favorite tunes."
+  ],
+  "evolution_chain": [
+    "kricketot",
+    "kricketune"
+  ],
+  "evolution_graph": [
+    {
+      "from": "kricketot",
+      "to": "kricketune"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KRIK-ih-toon",
+    "ipa": "/ˈkɹɪkətuːn/"
+  }
+}

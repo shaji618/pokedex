@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 536,
+  "name": "Palpitoad",
+  "types": [
+    "ground",
+    "water"
+  ],
+  "speed": 69,
+  "description": "Palpitoad, the Vibration Pokémon, and the evolved form of Tympole. Able to evolve into Seismitoad. A Water and Ground type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+    "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+    "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+    "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+    "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+  ],
+  "evolution_chain": [
+    "tympole",
+    "palpitoad",
+    "seismitoad"
+  ],
+  "evolution_graph": [
+    {
+      "from": "palpitoad",
+      "to": "seismitoad"
+    },
+    {
+      "from": "tympole",
+      "to": "palpitoad"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "PAL-pih-tohd",
+    "ipa": "/ˈpælpətoʊd/"
+  }
+}

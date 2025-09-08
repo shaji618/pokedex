@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 656,
+  "name": "Froakie",
+  "types": [
+    "water"
+  ],
+  "speed": 71,
+  "description": "Froakie, the Bubble Frog Pokémon. Able to evolve into Frogadier. A Water type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+    "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+  ],
+  "evolution_chain": [
+    "froakie",
+    "frogadier",
+    "greninja"
+  ],
+  "evolution_graph": [
+    {
+      "from": "froakie",
+      "to": "frogadier"
+    },
+    {
+      "from": "frogadier",
+      "to": "greninja"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FROH-kee",
+    "ipa": "/ˈfɹoʊkiː/"
+  }
+}

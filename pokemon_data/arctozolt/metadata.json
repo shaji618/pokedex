@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 881,
+  "name": "Arctozolt",
+  "types": [
+    "electric",
+    "ice"
+  ],
+  "speed": 55,
+  "description": "Arctozolt, the Fossil Pokémon. An Electric and Ice type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+    "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+  ],
+  "pronunciations": {
+    "phonetic": "ARK-tuh-zolt",
+    "ipa": "/ˈɑɹktəzɔːlt/"
+  }
+}

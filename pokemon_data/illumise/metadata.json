@@ -1,0 +1,22 @@
+{
+  "pokedex_number": 314,
+  "name": "Illumise",
+  "types": [
+    "bug"
+  ],
+  "speed": 85,
+  "description": "Illumise, the Firefly Pokémon. A Bug type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+    "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+    "It guides Volbeat to draw signs in night skies. There are scientists that study the patterns it creates.",
+    "A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
+    "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+    "Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky."
+  ],
+  "pronunciations": {
+    "phonetic": "ih-loo-MEE-zay",
+    "ipa": "/ɪluˈmiːzeɪ/"
+  }
+}

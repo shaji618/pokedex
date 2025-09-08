@@ -1,0 +1,21 @@
+{
+  "pokedex_number": 488,
+  "name": "Cresselia",
+  "types": [
+    "psychic"
+  ],
+  "speed": 85,
+  "description": "Cresselia, the Lunar Pokémon. A Psychic type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+    "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+    "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+    "When it flies, it releases shiny particles from its veil-like wings. It is said to represent the crescent moon.",
+    "Cresselia is reminiscent of the crescent moon. It leaves a brilliant line of light in its wake as it flies across the night sky. I daresay it resembles the heavenly maiden who created the Milky Way."
+  ],
+  "pronunciations": {
+    "phonetic": "kress-ELL-ee-uh",
+    "ipa": "/kɹɛsˈɛliːə/"
+  }
+}

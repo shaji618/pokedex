@@ -1,0 +1,25 @@
+{
+  "pokedex_number": 1013,
+  "name": "Sinistcha",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "speed": 70,
+  "description": "Sinistcha, the Matcha Pokémon, and the evolved form of Poltchageist. A Grass and Ghost type.",
+  "generation": 9,
+  "evolution_chain": [
+    "poltchageist",
+    "sinistcha"
+  ],
+  "evolution_graph": [
+    {
+      "from": "poltchageist",
+      "to": "sinistcha"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIN-iss-chuh",
+    "ipa": "/ˈsɪnəstʃə/"
+  }
+}

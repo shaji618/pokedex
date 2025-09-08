@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 820,
+  "name": "Greedent",
+  "types": [
+    "normal"
+  ],
+  "speed": 20,
+  "description": "Greedent, the Greedy Pokémon, and the evolved form of Skwovet. A Normal type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
+    "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
+    "If it spots a berry tree, it will immediately go to gather berries without a sideways glance—even if it's in the middle of a battle.",
+    "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body."
+  ],
+  "evolution_chain": [
+    "skwovet",
+    "greedent"
+  ],
+  "evolution_graph": [
+    {
+      "from": "skwovet",
+      "to": "greedent"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "GREE-dint",
+    "ipa": "/ˈɡɹiːdənt/"
+  }
+}

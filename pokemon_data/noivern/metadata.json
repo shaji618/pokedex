@@ -1,0 +1,35 @@
+{
+  "pokedex_number": 715,
+  "name": "Noivern",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "speed": 123,
+  "description": "Noivern, the Sound Wave Pokémon, and the evolved form of Noibat. A Flying and Dragon type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+    "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+    "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
+    "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
+    "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",
+    "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
+    "Ultrasonic waves emitted by a Noivern can pulverize a large boulder. This Pokémon has a cruel disposition.",
+    "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle."
+  ],
+  "evolution_chain": [
+    "noibat",
+    "noivern"
+  ],
+  "evolution_graph": [
+    {
+      "from": "noibat",
+      "to": "noivern"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "NOY-vurn",
+    "ipa": "/ˈnɔɪvɚn/"
+  }
+}

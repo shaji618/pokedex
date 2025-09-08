@@ -1,0 +1,23 @@
+{
+  "pokedex_number": 482,
+  "name": "Azelf",
+  "types": [
+    "psychic"
+  ],
+  "speed": 115,
+  "description": "Azelf, the Willpower Pokémon. A Psychic type.",
+  "generation": 4,
+  "pokedex_entries": [
+    "Known as \"The Being of Willpower.\" It sleeps at the bottom of a lake to keep the world in balance.",
+    "It is thought that Uxie, Mesprit and Azelf all came from the same egg.",
+    "When Azelf flew, people gained the determination to do things. It was the birth of willpower.",
+    "This Pokémon is said to have endowed humans with the determination needed to face any of life's difficulties.",
+    "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
+    "It is known as the Being of Willpower. It sleeps at the bottom of a lake to keep the world in balance.",
+    "The dreaded Being of Willpower. Legends tell of this Pokémon manipulating the will of its adversaries and turning them into puppets of its own."
+  ],
+  "pronunciations": {
+    "phonetic": "AZ-elf",
+    "ipa": "/ˈæzɛlf/"
+  }
+}

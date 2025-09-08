@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 581,
+  "name": "Swanna",
+  "types": [
+    "flying",
+    "water"
+  ],
+  "speed": 98,
+  "description": "Swanna, the White Bird Pokémon, and the evolved form of Ducklett. A Water and Flying type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+    "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+    "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+  ],
+  "evolution_chain": [
+    "ducklett",
+    "swanna"
+  ],
+  "evolution_graph": [
+    {
+      "from": "ducklett",
+      "to": "swanna"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SWAH-nuh",
+    "ipa": "/ˈswɑːnə/"
+  }
+}

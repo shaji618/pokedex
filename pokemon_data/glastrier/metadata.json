@@ -1,0 +1,18 @@
+{
+  "pokedex_number": 896,
+  "name": "Glastrier",
+  "types": [
+    "ice"
+  ],
+  "speed": 30,
+  "description": "Glastrier, the Wild Horse Pokémon. An Ice type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon—anything it wants, it takes by force.",
+    "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+  ],
+  "pronunciations": {
+    "phonetic": "GLASS-tree-urr",
+    "ipa": "/ˈɡlæstɹiːɚ/"
+  }
+}

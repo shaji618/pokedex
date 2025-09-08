@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 813,
+  "name": "Scorbunny",
+  "types": [
+    "fire"
+  ],
+  "speed": 69,
+  "description": "Scorbunny, the Rabbit Pokémon. Able to evolve into Raboot. A Fire type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
+    "It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat."
+  ],
+  "evolution_chain": [
+    "scorbunny",
+    "raboot",
+    "cinderace"
+  ],
+  "evolution_graph": [
+    {
+      "from": "raboot",
+      "to": "cinderace"
+    },
+    {
+      "from": "scorbunny",
+      "to": "raboot"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SKOR-bun-ee",
+    "ipa": "/ˈskɔːɹbʌniː/"
+  }
+}

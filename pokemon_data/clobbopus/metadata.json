@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 852,
+  "name": "Clobbopus",
+  "types": [
+    "fighting"
+  ],
+  "speed": 32,
+  "description": "Clobbopus, the Tantrum Pokémon. Able to evolve into Grapploct. A Fighting type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+    "Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old."
+  ],
+  "evolution_chain": [
+    "clobbopus",
+    "grapploct"
+  ],
+  "evolution_graph": [
+    {
+      "from": "clobbopus",
+      "to": "grapploct"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KLOB-uh-puss",
+    "ipa": "/ˈklɑːbəpʊs/"
+  }
+}

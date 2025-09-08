@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 755,
+  "name": "Morelull",
+  "types": [
+    "fairy",
+    "grass"
+  ],
+  "speed": 15,
+  "description": "Morelull, the Illuminating Pokémon. Able to evolve into Shiinotic. A Grass and Fairy type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+    "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
+    "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
+    "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
+    "Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",
+    "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep."
+  ],
+  "evolution_chain": [
+    "morelull",
+    "shiinotic"
+  ],
+  "evolution_graph": [
+    {
+      "from": "morelull",
+      "to": "shiinotic"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "MOHR-uh-lull",
+    "ipa": "/ˈmɔːɹəlʊl/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pokedex_number": 1017,
+  "name": "Ogerpon",
+  "types": [
+    "grass"
+  ],
+  "speed": 110,
+  "description": "Ogerpon, the Mask Pokémon. A Grass type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "OH-gurr-pahn",
+    "ipa": "/ˈoʊɡɚpɑːn/"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 995,
+  "name": "Iron Thorns",
+  "types": [
+    "electric",
+    "rock"
+  ],
+  "speed": 72,
+  "description": "Iron Thorns, the Paradox Pokémon. A Rock and Electric type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
+    "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+  ],
+  "pronunciations": {
+    "phonetic": "eye-urn-THORNZ",
+    "ipa": "/ˌaɪɹn ˈθɔɹnz/"
+  }
+}

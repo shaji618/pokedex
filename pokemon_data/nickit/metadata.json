@@ -1,0 +1,27 @@
+{
+  "pokedex_number": 827,
+  "name": "Nickit",
+  "types": [
+    "dark"
+  ],
+  "description": "Nickit, the Fox Pokémon. Able to evolve into Thievul. A Dark type.",
+  "pronunciations": {
+    "phonetic": "NIK-it",
+    "ipa": "/ˈnɪkət/"
+  },
+  "pokedex_entries": [
+    "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+    "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+  ],
+  "evolution_chain": [
+    "nickit",
+    "thievul"
+  ],
+  "generation": 8,
+  "evolution_graph": [
+    {
+      "from": "nickit",
+      "to": "thievul"
+    }
+  ]
+}

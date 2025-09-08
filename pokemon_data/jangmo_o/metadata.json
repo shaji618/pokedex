@@ -1,0 +1,37 @@
+{
+  "pokedex_number": 782,
+  "name": "Jangmo-o",
+  "types": [
+    "dragon"
+  ],
+  "speed": 45,
+  "description": "Jangmo-o, the Scaly Pokémon. Able to evolve into Hakamo-o. A Dragon type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+    "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another.",
+    "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
+    "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.",
+    "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+    "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that's become as hard as metal."
+  ],
+  "evolution_chain": [
+    "jangmo_o",
+    "hakamo_o",
+    "kommo_o"
+  ],
+  "evolution_graph": [
+    {
+      "from": "hakamo_o",
+      "to": "kommo_o"
+    },
+    {
+      "from": "jangmo_o",
+      "to": "hakamo_o"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "jang-MOH-oh",
+    "ipa": "/dʒæŋˈmoʊʔoʊ/"
+  }
+}

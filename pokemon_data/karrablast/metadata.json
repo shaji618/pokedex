@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 588,
+  "name": "Karrablast",
+  "types": [
+    "bug"
+  ],
+  "speed": 60,
+  "description": "Karrablast, the Clamping Pokémon. Able to evolve into Escavalier. A Bug type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+    "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+    "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+    "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+    "It spits a liquid from its mouth to melt through Shelmet's shell. Karrablast doesn't eat the shell— it eats only the contents."
+  ],
+  "evolution_chain": [
+    "karrablast",
+    "escavalier"
+  ],
+  "evolution_graph": [
+    {
+      "from": "karrablast",
+      "to": "escavalier"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KAHR-uh-blast",
+    "ipa": "/ˈkɑːɹəblæst/"
+  }
+}

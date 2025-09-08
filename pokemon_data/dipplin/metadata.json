@@ -1,0 +1,40 @@
+{
+  "pokedex_number": 1011,
+  "name": "Dipplin",
+  "types": [
+    "dragon",
+    "grass"
+  ],
+  "speed": 40,
+  "description": "Dipplin, the Candy Apple Pokémon, and the evolved form of Applin. Able to evolve into Hydrapple. A Grass and Dragon type.",
+  "generation": 9,
+  "evolution_chain": [
+    "applin",
+    "flapple",
+    "appletun",
+    "dipplin",
+    "hydrapple"
+  ],
+  "evolution_graph": [
+    {
+      "from": "applin",
+      "to": "flapple"
+    },
+    {
+      "from": "flapple",
+      "to": "appletun"
+    },
+    {
+      "from": "flapple",
+      "to": "dipplin"
+    },
+    {
+      "from": "flapple",
+      "to": "hydrapple"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DIP-lin",
+    "ipa": "/ˈdɪplən/"
+  }
+}

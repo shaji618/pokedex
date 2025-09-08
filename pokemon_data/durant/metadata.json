@@ -1,0 +1,22 @@
+{
+  "pokedex_number": 632,
+  "name": "Durant",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "speed": 109,
+  "description": "Durant, the Iron Ant Pokémon. A Bug and Steel type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.",
+    "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+    "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+    "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+  ],
+  "pronunciations": {
+    "phonetic": "durr-ANT",
+    "ipa": "/dɚˈænt/"
+  }
+}

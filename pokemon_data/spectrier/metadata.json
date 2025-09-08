@@ -1,0 +1,18 @@
+{
+  "pokedex_number": 897,
+  "name": "Spectrier",
+  "types": [
+    "ghost"
+  ],
+  "speed": 130,
+  "description": "Spectrier, the Swift Horse Pokémon. A Ghost type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It probes its surroundings with all its senses save one—it doesn't use its sense of sight. Spectrier's kicks are said to separate soul from body.",
+    "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude."
+  ],
+  "pronunciations": {
+    "phonetic": "SPEK-tree-urr",
+    "ipa": "/ˈspɛktɹiːɚ/"
+  }
+}

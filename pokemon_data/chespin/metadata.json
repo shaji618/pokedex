@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 650,
+  "name": "Chespin",
+  "types": [
+    "grass"
+  ],
+  "speed": 38,
+  "description": "Chespin, the Spiny Nut Pokémon. Able to evolve into Quilladin. A Grass type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+    "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it."
+  ],
+  "evolution_chain": [
+    "chespin",
+    "quilladin",
+    "chesnaught"
+  ],
+  "evolution_graph": [
+    {
+      "from": "chespin",
+      "to": "quilladin"
+    },
+    {
+      "from": "quilladin",
+      "to": "chesnaught"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "CHESS-pin",
+    "ipa": "/ˈtʃɛspɪn/"
+  }
+}

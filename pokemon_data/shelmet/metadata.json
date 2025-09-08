@@ -1,0 +1,31 @@
+{
+  "pokedex_number": 616,
+  "name": "Shelmet",
+  "types": [
+    "bug"
+  ],
+  "speed": 25,
+  "description": "Shelmet, the Snail Pokémon. Able to evolve into Accelgor. A Bug type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+    "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+    "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+    "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason."
+  ],
+  "evolution_chain": [
+    "shelmet",
+    "accelgor"
+  ],
+  "evolution_graph": [
+    {
+      "from": "shelmet",
+      "to": "accelgor"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SHEL-mit",
+    "ipa": "/ˈʃɛlmət/"
+  }
+}

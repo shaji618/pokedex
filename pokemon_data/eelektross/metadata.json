@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 604,
+  "name": "Eelektross",
+  "types": [
+    "electric"
+  ],
+  "description": "Eelektross, the EleFish Pokémon, and the evolved form of Eelektrik. An Electric type.",
+  "pronunciations": {
+    "phonetic": "EE-lek-trahs",
+    "ipa": "/ˈiːlɛktɹaːs/"
+  },
+  "pokedex_entries": [
+    "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+    "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+    "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+  ],
+  "evolution_chain": [
+    "tynamo",
+    "eelektrik",
+    "eelektross"
+  ],
+  "generation": 5,
+  "evolution_graph": [
+    {
+      "from": "eelektrik",
+      "to": "eelektross"
+    },
+    {
+      "from": "tynamo",
+      "to": "eelektrik"
+    }
+  ]
+}

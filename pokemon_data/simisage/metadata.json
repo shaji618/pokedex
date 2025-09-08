@@ -1,0 +1,29 @@
+{
+  "pokedex_number": 512,
+  "name": "Simisage",
+  "types": [
+    "grass"
+  ],
+  "speed": 101,
+  "description": "Simisage, the Thorn Monkey Pokémon, and the evolved form of Pansage. A Grass type.",
+  "generation": 5,
+  "pokedex_entries": [
+    "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+    "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.",
+    "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter."
+  ],
+  "evolution_chain": [
+    "pansage",
+    "simisage"
+  ],
+  "evolution_graph": [
+    {
+      "from": "pansage",
+      "to": "simisage"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SIH-mee-sayj",
+    "ipa": "/ˈsɪmiːseɪdʒ/"
+  }
+}

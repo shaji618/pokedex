@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 767,
+  "name": "Wimpod",
+  "types": [
+    "bug",
+    "water"
+  ],
+  "speed": 80,
+  "description": "Wimpod, the Turn Tail Pokémon. Able to evolve into Golisopod. A Bug and Water type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+    "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
+    "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+    "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
+    "It's nature's cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+    "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence."
+  ],
+  "evolution_chain": [
+    "wimpod",
+    "golisopod"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wimpod",
+      "to": "golisopod"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "WIM-pahd",
+    "ipa": "/ˈwɪmpɑːd/"
+  }
+}

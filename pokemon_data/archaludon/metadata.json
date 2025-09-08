@@ -1,0 +1,25 @@
+{
+  "pokedex_number": 1018,
+  "name": "Archaludon",
+  "types": [
+    "dragon",
+    "steel"
+  ],
+  "speed": 85,
+  "description": "Archaludon, the Alloy Pokémon, and the evolved form of Duraludon. A Steel and Dragon type.",
+  "generation": 9,
+  "evolution_chain": [
+    "duraludon",
+    "archaludon"
+  ],
+  "evolution_graph": [
+    {
+      "from": "duraludon",
+      "to": "archaludon"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "ahr-CHAL-uh-dahn",
+    "ipa": "/ɑːɹˈtʃælədɑːn/"
+  }
+}

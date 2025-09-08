@@ -1,0 +1,23 @@
+{
+  "pokedex_number": 845,
+  "name": "Cramorant",
+  "types": [
+    "flying",
+    "water"
+  ],
+  "speed": 85,
+  "description": "Cramorant, the Gulp Pokémon. A Flying and Water type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It's so strong that it can knock out some opponents in a single hit, but it also may forget what it's battling midfight.",
+    "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
+    "This Cramorant has accidentally gotten a Pikachu lodged in its gullet. Cramorant is choking a little, but it isn't really bothered.",
+    "The half-swallowed Pikachu is so startled that it isn't struggling yet, but it's still looking for a chance to strike back.",
+    "Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.",
+    "The slightest shock is sometimes enough to get this Pokémon to spit out the Arrokuda lodged in its throat."
+  ],
+  "pronunciations": {
+    "phonetic": "KRAM-er-int",
+    "ipa": "/ˈkɹæmɚənt/"
+  }
+}

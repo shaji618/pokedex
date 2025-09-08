@@ -1,0 +1,45 @@
+{
+  "pokedex_number": 15,
+  "name": "Beedrill",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "speed": 75,
+  "description": "Beedrill, the Poison Bee Pokémon, and the evolved form of Kakuna. A Bug and Poison type.",
+  "generation": 1,
+  "pokedex_entries": [
+    "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+    "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+    "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+    "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
+    "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+    "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+    "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail.",
+    "A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+    "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+    "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+    "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear."
+  ],
+  "evolution_chain": [
+    "weedle",
+    "kakuna",
+    "beedrill"
+  ],
+  "evolution_graph": [
+    {
+      "from": "kakuna",
+      "to": "beedrill"
+    },
+    {
+      "from": "weedle",
+      "to": "kakuna"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "BEE-drill",
+    "ipa": "/ˈbiːdɹɪl/"
+  }
+}

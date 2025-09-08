@@ -1,0 +1,22 @@
+{
+  "pokedex_number": 764,
+  "name": "Comfey",
+  "types": [
+    "fairy"
+  ],
+  "speed": 100,
+  "description": "Comfey, the Posy Picker Pokémon. A Fairy type.",
+  "generation": 7,
+  "pokedex_entries": [
+    "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+    "Baths prepared with the flowers from its vine have a relaxing effect, so this Pokémon is a hit with many people.",
+    "It stretches sticky vines out from its head and picks flowers to adorn itself with. When it doesn't have any flowers, it feels uneasy.",
+    "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
+    "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
+    "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent."
+  ],
+  "pronunciations": {
+    "phonetic": "KUM-fay",
+    "ipa": "/ˈkʌmfeɪ/"
+  }
+}

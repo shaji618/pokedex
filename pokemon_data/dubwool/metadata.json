@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 832,
+  "name": "Dubwool",
+  "types": [
+    "normal"
+  ],
+  "speed": 88,
+  "description": "Dubwool, the Sheep Pokémon, and the evolved form of Wooloo. A Normal type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
+    "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+  ],
+  "evolution_chain": [
+    "wooloo",
+    "dubwool"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wooloo",
+      "to": "dubwool"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DUB-wull",
+    "ipa": "/ˈdʌbwʊl/"
+  }
+}

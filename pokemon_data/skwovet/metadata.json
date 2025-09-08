@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 819,
+  "name": "Skwovet",
+  "types": [
+    "normal"
+  ],
+  "speed": 25,
+  "description": "Skwovet, the Cheeky Pokémon. Able to evolve into Greedent. A Normal type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
+    "It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.",
+    "It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.",
+    "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail."
+  ],
+  "evolution_chain": [
+    "skwovet",
+    "greedent"
+  ],
+  "evolution_graph": [
+    {
+      "from": "skwovet",
+      "to": "greedent"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SKWUH-vet",
+    "ipa": "/ˈskwʌːvət/"
+  }
+}

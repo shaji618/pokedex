@@ -1,0 +1,34 @@
+{
+  "pokedex_number": 928,
+  "name": "Smoliv",
+  "types": [
+    "grass",
+    "normal"
+  ],
+  "speed": 30,
+  "description": "Smoliv, the Olive Pokémon. Able to evolve into Dolliv. A Grass and Normal type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+    "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+  ],
+  "evolution_chain": [
+    "smoliv",
+    "dolliv",
+    "arboliva"
+  ],
+  "evolution_graph": [
+    {
+      "from": "dolliv",
+      "to": "arboliva"
+    },
+    {
+      "from": "smoliv",
+      "to": "dolliv"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SMOHL-iv",
+    "ipa": "/ˈsmoʊlɪv/"
+  }
+}

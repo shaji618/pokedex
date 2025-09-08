@@ -1,0 +1,41 @@
+{
+  "pokedex_number": 195,
+  "name": "Quagsire",
+  "types": [
+    "ground",
+    "water"
+  ],
+  "speed": 35,
+  "description": "Quagsire, the Water Fish Pokémon, and the evolved form of Wooper. A Water and Ground type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+    "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+    "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+    "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
+    "This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+    "A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
+    "It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.",
+    "A dim-witted Pokémon. It doesn't care if it bumps its head into boats or rocks while swimming.",
+    "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming."
+  ],
+  "evolution_chain": [
+    "wooper",
+    "quagsire",
+    "clodsire"
+  ],
+  "evolution_graph": [
+    {
+      "from": "wooper",
+      "to": "clodsire"
+    },
+    {
+      "from": "wooper",
+      "to": "quagsire"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KWAG-sire",
+    "ipa": "/ˈkwæɡsaɪɚ/"
+  }
+}

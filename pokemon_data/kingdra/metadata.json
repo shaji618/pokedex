@@ -1,0 +1,42 @@
+{
+  "pokedex_number": 230,
+  "name": "Kingdra",
+  "types": [
+    "dragon",
+    "water"
+  ],
+  "speed": 85,
+  "description": "Kingdra, the Dragon Pokémon, and the evolved form of Seadra. A Water and Dragon type.",
+  "generation": 2,
+  "pokedex_entries": [
+    "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+    "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
+    "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
+    "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+    "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
+    "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
+    "Scales shed by this Pokémon have such a splendorous gleam to them that they've been given to royalty as gifts."
+  ],
+  "evolution_chain": [
+    "horsea",
+    "seadra",
+    "kingdra"
+  ],
+  "evolution_graph": [
+    {
+      "from": "horsea",
+      "to": "seadra"
+    },
+    {
+      "from": "seadra",
+      "to": "kingdra"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "KING-druh",
+    "ipa": "/ˈkɪŋdɹə/"
+  }
+}

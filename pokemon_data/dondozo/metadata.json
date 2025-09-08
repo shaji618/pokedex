@@ -1,0 +1,18 @@
+{
+  "pokedex_number": 977,
+  "name": "Dondozo",
+  "types": [
+    "water"
+  ],
+  "speed": 35,
+  "description": "Dondozo, the Big Catfish Pokémon. A Water type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+  ],
+  "pronunciations": {
+    "phonetic": "dohn-DOH-zoh",
+    "ipa": "/doʊnˈdoʊnzoʊ/"
+  }
+}

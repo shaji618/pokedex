@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 682,
+  "name": "Spritzee",
+  "types": [
+    "fairy"
+  ],
+  "speed": 23,
+  "description": "Spritzee, the Perfume Pokémon. Able to evolve into Aromatisse. A Fairy type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
+    "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
+    "A scent pouch within this Pokémon's body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
+    "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+  ],
+  "evolution_chain": [
+    "spritzee",
+    "aromatisse"
+  ],
+  "evolution_graph": [
+    {
+      "from": "spritzee",
+      "to": "aromatisse"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SPRIT-see",
+    "ipa": "/ˈspɹɪtsiː/"
+  }
+}

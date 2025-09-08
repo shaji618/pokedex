@@ -1,0 +1,33 @@
+{
+  "pokedex_number": 653,
+  "name": "Fennekin",
+  "types": [
+    "fire"
+  ],
+  "speed": 60,
+  "description": "Fennekin, the Fox Pokémon. Able to evolve into Braixen. A Fire type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+    "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears."
+  ],
+  "evolution_chain": [
+    "fennekin",
+    "braixen",
+    "delphox"
+  ],
+  "evolution_graph": [
+    {
+      "from": "braixen",
+      "to": "delphox"
+    },
+    {
+      "from": "fennekin",
+      "to": "braixen"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "FEN-uh-kin",
+    "ipa": "/ˈfɛnəkɪn/"
+  }
+}

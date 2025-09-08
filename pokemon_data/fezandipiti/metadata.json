@@ -1,0 +1,15 @@
+{
+  "pokedex_number": 1016,
+  "name": "Fezandipiti",
+  "types": [
+    "fairy",
+    "poison"
+  ],
+  "speed": 99,
+  "description": "Fezandipiti, the Retainer Pokémon. A Poison and Fairy type.",
+  "generation": 9,
+  "pronunciations": {
+    "phonetic": "fez-un-DIP-ih-tee",
+    "ipa": "/ˌfɛzənˈdɪpəɾiː/"
+  }
+}

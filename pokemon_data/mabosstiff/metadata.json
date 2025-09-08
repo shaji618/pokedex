@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 943,
+  "name": "Mabosstiff",
+  "types": [
+    "dark"
+  ],
+  "speed": 85,
+  "description": "Mabosstiff, the Boss Pokémon, and the evolved form of Maschiff. A Dark type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+    "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+  ],
+  "evolution_chain": [
+    "maschiff",
+    "mabosstiff"
+  ],
+  "evolution_graph": [
+    {
+      "from": "maschiff",
+      "to": "mabosstiff"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "muh-BOSS-tiff",
+    "ipa": "/məˈbɑːstɪf/"
+  }
+}

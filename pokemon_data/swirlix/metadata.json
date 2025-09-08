@@ -1,0 +1,30 @@
+{
+  "pokedex_number": 684,
+  "name": "Swirlix",
+  "types": [
+    "fairy"
+  ],
+  "speed": 49,
+  "description": "Swirlix, the Cotton Candy Pokémon. Able to evolve into Slurpuff. A Fairy type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+    "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+    "It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.",
+    "The sweet smell of cotton candy perfumes Swirlix's fluffy fur. This Pokémon spits out sticky string to tangle up its enemies."
+  ],
+  "evolution_chain": [
+    "swirlix",
+    "slurpuff"
+  ],
+  "evolution_graph": [
+    {
+      "from": "swirlix",
+      "to": "slurpuff"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "SWUR-liks",
+    "ipa": "/ˈswɝːlɪks/"
+  }
+}

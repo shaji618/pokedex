@@ -1,0 +1,18 @@
+{
+  "pokedex_number": 895,
+  "name": "Regidrago",
+  "types": [
+    "dragon"
+  ],
+  "speed": 80,
+  "description": "Regidrago, the Dragon Orb Pokémon. A Dragon type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "An academic theory proposes that Regidrago's arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
+    "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+  ],
+  "pronunciations": {
+    "phonetic": "REJ-ee-DRAY-goh",
+    "ipa": "/ˌɹɛdʒiːˈdɹɛɪɡoʊ/"
+  }
+}

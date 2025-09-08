@@ -1,0 +1,24 @@
+{
+  "pokedex_number": 382,
+  "name": "Kyogre",
+  "types": [
+    "water"
+  ],
+  "speed": 90,
+  "description": "Kyogre, the Sea Basin Pokémon. A Water type.",
+  "generation": 3,
+  "pokedex_entries": [
+    "Kyogre has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This Pokémon saved people who were suffering from droughts.",
+    "Kyogre is named in mythology as the Pokémon that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with Groudon.",
+    "This Pokémon is said to have expanded the sea by bringing heavy rains. It has the power to control water.",
+    "Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.",
+    "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with Groudon.",
+    "Through Primal Reversion and with nature's full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",
+    "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature."
+  ],
+  "pronunciations": {
+    "phonetic": "kye-OH-gur",
+    "ipa": "/kaɪˈoʊɡɚ/"
+  }
+}

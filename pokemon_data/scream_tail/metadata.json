@@ -1,0 +1,19 @@
+{
+  "pokedex_number": 985,
+  "name": "Scream Tail",
+  "types": [
+    "fairy",
+    "psychic"
+  ],
+  "speed": 111,
+  "description": "Scream Tail, the Paradox Pokémon. A Fairy and Psychic type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+    "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+  ],
+  "pronunciations": {
+    "phonetic": "SKREEM-tail",
+    "ipa": "/ˈskɹiːm ˌteɪl/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 828,
+  "name": "Thievul",
+  "types": [
+    "dark"
+  ],
+  "speed": 90,
+  "description": "Thievul, the Fox Pokémon, and the evolved form of Nickit. A Dark type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+    "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+  ],
+  "evolution_chain": [
+    "nickit",
+    "thievul"
+  ],
+  "evolution_graph": [
+    {
+      "from": "nickit",
+      "to": "thievul"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "THEE-vull",
+    "ipa": "/ˈθiːvəl/"
+  }
+}

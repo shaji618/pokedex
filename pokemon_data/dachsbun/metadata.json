@@ -1,0 +1,28 @@
+{
+  "pokedex_number": 927,
+  "name": "Dachsbun",
+  "types": [
+    "fairy"
+  ],
+  "speed": 95,
+  "description": "Dachsbun, the Dog Pokémon, and the evolved form of Fidough. A Fairy type.",
+  "generation": 9,
+  "pokedex_entries": [
+    "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+    "The surface of this Pokémon's skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+  ],
+  "evolution_chain": [
+    "fidough",
+    "dachsbun"
+  ],
+  "evolution_graph": [
+    {
+      "from": "fidough",
+      "to": "dachsbun"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "DAHKS-bun",
+    "ipa": "/ˈdɑːksbʌn/"
+  }
+}

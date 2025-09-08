@@ -1,0 +1,20 @@
+{
+  "pokedex_number": 676,
+  "name": "Furfrou",
+  "types": [
+    "normal"
+  ],
+  "speed": 102,
+  "description": "Furfrou, the Poodle Pokémon. A Normal type.",
+  "generation": 6,
+  "pokedex_entries": [
+    "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+    "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+    "There was an era when aristocrats would compete to see who could trim their Furfrou's fur into the most exquisite style.",
+    "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+  ],
+  "pronunciations": {
+    "phonetic": "FUR-froo",
+    "ipa": "/ˈfɝːfɹuː/"
+  }
+}

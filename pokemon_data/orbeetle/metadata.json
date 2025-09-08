@@ -1,0 +1,36 @@
+{
+  "pokedex_number": 826,
+  "name": "Orbeetle",
+  "types": [
+    "bug",
+    "psychic"
+  ],
+  "speed": 90,
+  "description": "Orbeetle, the Seven Spot Pokémon, and the evolved form of Dottler. A Bug and Psychic type.",
+  "generation": 8,
+  "pokedex_entries": [
+    "It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+    "It emits psychic energy to observe and study what's around it—and what's around it can include things over six miles away.",
+    "Its brain has grown to a gargantuan size, as has the rest of its body. This Pokémon's intellect and psychic abilities are overpowering.",
+    "If it were to utilize every last bit of its power, it could control the minds of every living being in its vicinity."
+  ],
+  "evolution_chain": [
+    "blipbug",
+    "dottler",
+    "orbeetle"
+  ],
+  "evolution_graph": [
+    {
+      "from": "blipbug",
+      "to": "dottler"
+    },
+    {
+      "from": "dottler",
+      "to": "orbeetle"
+    }
+  ],
+  "pronunciations": {
+    "phonetic": "OHR-bee-tull",
+    "ipa": "/ˈɔɹbiːɾəl/"
+  }
+}
